@@ -1,0 +1,223 @@
+{
+ "titolo": "Inflazione: cos'è e perché erode i risparmi",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nel primo modulo abbiamo visto che i mercati finanziari servono a canalizzare le risorse da chi possiede capitale a chi ne ha bisogno per finanziare progetti produttivi. Ma cosa succede se decidiamo di non utilizzare quel capitale e lasciarlo semplicemente inattivo sotto forma di denaro liquido? A prima vista potrebbe sembrare una scelta del tutto priva di rischio, poiché la cifra numerica stampata sulle banconote o presente sul conto corrente non cambia. Nella realtà, esiste una forza economica costante che agisce in sottofondo: l'inflazione. Questa lezione ha l'obiettivo di spiegare che cos'è esattamente l'inflazione, come agisce sul potere d'acquisto, come si calcola la differenza tra il rendimento nominale e quello reale e attraverso quali meccanismi principali si innesca nell'economia.",
+  "sezioni": [
+   {
+    "titolo": "Cos'è l'inflazione e il potere d'acquisto",
+    "testo": "L'inflazione è il processo di aumento progressivo e generalizzato dei prezzi di beni e servizi in un'economia durante un determinato periodo di tempo. Quando l'inflazione sale, una singola unità di moneta permette di acquistare una quantità inferiore di beni e servizi rispetto al passato. Questo fenomeno evidenzia la distinzione tra valore nominale e potere d'acquisto. Il valore nominale è la cifra numerica assoluta, come ad esempio una banconota da cento euro. Il potere d'acquisto rappresenta invece la quantità reale di beni e servizi che con quella banconota si possono effettivamente comprare. Se il valore nominale rimane fisso ma i prezzi del cibo, del carburante e delle bollette aumentano, il potere d'acquisto di quei cento euro diminuisce inevitabilmente. Di conseguenza, lasciare il capitale del tutto inattivo equivale a subire una perdita reale nel tempo."
+   },
+   {
+    "titolo": "Come si misura: l'Indice dei Prezzi al Consumo",
+    "testo": "Per misurare l'inflazione in modo sistematico, gli istituti di statistica nazionali ed europei utilizzano uno strumento concettuale chiamato cestino o paniere dei beni. Questo paniere contiene un insieme rappresentativo di prodotti e servizi acquistati solitamente dalle famiglie medie, tra cui alimentari, abbigliamento, spese per l'abitazione, trasporti e servizi sanitari. A ciascun bene viene attribuito un peso specifico in base alla percentuale di reddito che le famiglie gli destinano abitualmente. Monitorando mese per mese il costo totale di questo paniere, si ricava l'Indice dei Prezzi al Consumo. La variazione percentuale di questo indice tra due periodi diversi definisce il tasso di inflazione. È importante notare che l'indice offre una media generale: se l'inflazione calcolata è del tre percento, non significa che ogni singolo bene sia aumentato del tre percento, ma che l'insieme ponderato del paniere ha subito quell'incremento di costo."
+   },
+   {
+    "titolo": "Tasso nominale contro tasso reale",
+    "testo": "Quando si analizzano i rendimenti finanziari o i tassi di interesse sui depositi, è essenziale distinguere tra tasso nominale e tasso reale. Il tasso nominale è la percentuale di rendimento pattuita o visibile sul contratto, senza tenere conto dell'inflazione. Il tasso reale rappresenta invece la variazione effettiva del potere d'acquisto ottenuta grazie a quell'investimento. In prima approssimazione, la relazione si calcola sottraendo il tasso di inflazione dal tasso nominale. Per esempio, se un deposito offre un tasso nominale del due percento all'anno, ma nello stesso anno l'inflazione si attesta al cinque percento, il tasso di interesse reale sarà negativo, pari a circa meno tre percento. Ciò significa che, nonostante la cifra sul conto sia aumentata numericamente, la capacità di spesa complessiva è diminuita. Capire questa differenza evita l'illusione monetaria, ovvero l'errore di valutare la propria ricchezza guardando unicamente ai numeri nominali."
+   },
+   {
+    "titolo": "Le principali cause dell'inflazione",
+    "testo": "L'inflazione non si verifica per caso, ma risponde a precise dinamiche economiche che si dividono in due categorie principali: inflazione da domanda e inflazione da costi. L'inflazione da domanda si verifica quando la richiesta complessiva di beni e servizi da parte di consumatori e imprese cresce più velocemente della capacità produttiva dell'economia. Quando l'offerta non riesce a stare dietro alla domanda, i venditori aumentano i prezzi. L'inflazione da costi si verifica invece quando aumentano i costi dei fattori produttivi di base, come ad esempio il petrolio, il gas naturale, le materie prime industriali o il costo del lavoro. In questo caso, i produttori trasferiscono l'aumento dei costi aziendali sul prezzo finale applicato ai consumatori per mantenere invariati i propri margini di profitto. In entrambi i casi, l'effetto finale è una pressione verso l'alto sul livello generale dei prezzi."
+   }
+  ],
+  "analogia": "Immaginiamo che il potere d'acquisto dei nostri risparmi sia come il livello dell'acqua contenuto in un secchio. Se l'inflazione è presente, è come se sul fondo del secchio ci fosse una piccolissima crepa trasparente da cui fuoriesce costantemente una goccia d'acqua. Se guardiamo il secchio dall'alto senza misurare l'altezza con un righello, il contenitore appare identico a prima. Tuttavia, con il passare dei mesi e degli anni, la quantità totale d'acqua si riduce inesorabilmente. L'unico modo per mantenere il livello invariato o farlo salire è versare altra acqua all'interno a un ritmo pari o superiore a quello della perdita.",
+  "errori_comuni": [
+   "Credere che l'inflazione sia l'aumento del prezzo di un singolo prodotto isolato anziché l'incremento generalizzato dei prezzi di un intero paniere di beni.",
+   "Pensare che mantenere il denaro contante o su un conto infruttifero sia una strategia priva di rischio, ignorando che il rischio di perdita del potere d'acquisto è praticamente certo in presenza di inflazione.",
+   "Confondere il tasso di interesse nominale con il tasso reale, esultando per un rendimento numerico positivo anche quando l'inflazione è nettamente superiore a quel rendimento."
+  ],
+  "glossario": [
+   {
+    "termine": "Potere d'acquisto",
+    "definizione": "La quantità di beni e servizi che è possibile acquistare con un determinato importo monetario."
+   },
+   {
+    "termine": "Indice dei Prezzi al Consumo (IPC)",
+    "definizione": "Indicatore statistico che misura le variazioni nel tempo dei prezzi di un insieme rappresentativo di beni e servizi destinati al consumo delle famiglie."
+   },
+   {
+    "termine": "Tasso reale",
+    "definizione": "Il tasso di rendimento o di interesse corretto per l'effetto dell'inflazione, che misura la variazione effettiva della capacità di spesa."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Un marcato e prolungato aumento del prezzo globale delle materie prime energetiche",
+  "catena": [
+   {
+    "passo": "Aumento dei costi energetici di base",
+    "spiegazione": "A parità di altre condizioni, il costo del carburante e dell'elettricità aumenta per le aziende agricole e industriali."
+   },
+   {
+    "passo": "Rincaro della produzione e del trasporto",
+    "spiegazione": "Le fabbriche spendono di più per azionare i macchinari e le società di logistica spendono di più per trasportare le merci."
+   },
+   {
+    "passo": "Trasferimento sui prezzi al consumo",
+    "spiegazione": "Per non andare in perdita, le imprese aumentano i prezzi dei prodotti finali sugli scaffali dei negozi."
+   },
+   {
+    "passo": "Perdita del potere d'acquisto reale",
+    "spiegazione": "I consumatori, con stipendi invariati nel breve termine, possono acquistare meno beni con la stessa quantità di denaro."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Liquidità in conto corrente",
+    "effetto": "Diminuzione del valore reale",
+    "motivo": "Il saldo nominale resta invariato ma la capacità di acquistare beni reali diminuisce progressivamente."
+   },
+   {
+    "asset": "Beni materiali ed energia",
+    "effetto": "Aumento del prezzo nominale",
+    "motivo": "I beni fisici incorporano direttamente l'aumento dei costi delle materie prime sottostanti."
+   },
+   {
+    "asset": "Obbligazioni a tasso fisso esistenti",
+    "effetto": "Perdita di valore di mercato",
+    "motivo": "I flussi di cassa fissi generati da questi strumenti perdono appetibilità rispetto a un contesto con prezzi e inflazione più elevati."
+   }
+  ],
+  "cosa_puo_andare_storto": "Se l'aumento dei prezzi dei beni energetici è così violento da causare una forte riduzione dei consumi complessivi, l'economia può entrare in una profonda recessione. In tal caso, la mancanza di domanda può costringere le imprese a ridurre nuovamente i prezzi per smaltire le scorte, arrestando la catena inflazionistica e trasformandola in una fase di stagnazione o deflazione."
+ },
+ "caso_studio": {
+  "titolo": "L'ondata inflazionistica globale del periodo 2021-2023",
+  "periodo": "2021-2023",
+  "contesto": "A seguito delle riaperture successive alle fasi più acute della pandemia e al verificarsi di forti strozzature nelle catene di approvvigionamento mondiali, l'economia globale ha sperimentato una repentina ripartenza della domanda.",
+  "cosa_e_successo": "Nel corso del 2021 e per tutto il 2022, la rapida ripresa delle attività economiche ha incontrato una disponibilità limitata di merci e semiconduttori. A questo shock si è aggiunto un fortissimo aumento del costo del gas naturale e del petrolio legato a tensioni geopolitiche internazionali. Negli Stati Uniti e nell'Unione Europea, l'inflazione su base annua, che da anni stazionava attorno al due percento, è salita fino a superare l'otto percento negli Stati Uniti e a toccare picchi superiori al dieci percento in diversi paesi europei. Chi conservava liquidità inattiva in quel biennio ha subito una riduzione del potere d'acquisto complessivo nell'ordine del quindici-venti percento cumulato nel periodo.",
+  "legame_con_il_concetto": "Questo evento mostra chiaramente la combinazione tra inflazione da domanda (la corsa agli acquisti dopo le riaperture) e inflazione da costi (il rincaro dell'energia). Ha inoltre dimostrato in modo tangibile come l'inflazione possa ridurre l'efficacia dei risparmi accumulati sul conto corrente senza che la cifra nominale subisca alcuna variazione numerica visible.",
+  "nota_sui_dati": "I tassi di inflazione esatti sono variati significativamente a seconda del singolo paese preso in esame e della composizione specifica dei panieri nazionali; i valori citati rappresentano l'ordine di grandezza complessivo dei picchi raggiunti nelle principali economie avanzate."
+ },
+ "quiz": [
+  {
+   "domanda": "Se possiedi un conto corrente che non paga interessi e l'inflazione annuale si attesta al 4%, cosa accade al tuo capitale alla fine dell'anno?",
+   "opzioni": [
+    {
+     "testo": "Il saldo sul conto scende numericamente del 4%.",
+     "spiegazione": "Errata. La cifra visibile sul conto corrente non cambia; il valore nominale rimane identico."
+    },
+    {
+     "testo": "Il saldo sul conto rimane invariato e il potere d'acquisto resta esattamente lo stesso.",
+     "spiegazione": "Errata. Ignora l'effetto dell'inflazione, che riduce la quantità di beni acquistabili con la stessa cifra."
+    },
+    {
+     "testo": "Il saldo nominale resta identico, ma il potere d'acquisto diminuisce di circa il 4%.",
+     "spiegazione": "Corretta. Il valore nominale non varia, ma con quella stessa cifra si può acquistare circa il 4% in meno di beni e servizi."
+    },
+    {
+     "testo": "Il saldo nominale aumenta per compensare automaticamente l'aumento dei prezzi.",
+     "spiegazione": "Errata. I conti correnti non adeguano automaticamente il saldo in base all'inflazione."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Qual è la differenza fondamentale tra il tasso di interesse nominale e il tasso di interesse reale?",
+   "opzioni": [
+    {
+     "testo": "Il tasso nominale viene deciso dalle banche private, mentre il tasso reale è fissato dalla legge.",
+     "spiegazione": "Errata. I tassi non si dividono in base all'autorità che li stabilisce, ma in base alla correzione per l'inflazione."
+    },
+    {
+     "testo": "Il tasso reale tiene conto dell'impatto dell'inflazione sul potere d'acquisto, mentre il tasso nominale misura solo la variazione numerica.",
+     "spiegazione": "Corretta. Il tasso reale si ottiene sottraendo approssimativamente l'inflazione dal tasso nominale."
+    },
+    {
+     "testo": "Il tasso nominale riguarda solo i prestiti aziendali, mentre il tasso reale si applica unicamente ai risparmiatori privati.",
+     "spiegazione": "Errata. Entrambi i concetti si applicano a qualsiasi operazione finanziaria o forma di risparmio."
+    },
+    {
+     "testo": "Il tasso reale è sempre superiore al tasso nominale in qualsiasi condizione di mercato.",
+     "spiegazione": "Errata. Se l'inflazione è positiva, il tasso reale è inferiore al tasso nominale."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Cosa s'intende per inflazione da costi?",
+   "opzioni": [
+    {
+     "testo": "Un aumento del livello generale dei prezzi causato da un eccesso di domanda dei consumatori rispetto alla capacità produttiva.",
+     "spiegazione": "Errata. Questa è la definizione dell'inflazione da domanda."
+    },
+    {
+     "testo": "La diminuzione progressiva del valore delle azioni a causa di costi aziendali troppo elevati.",
+     "spiegazione": "Errata. Si riferisce al mercato azionario e non al livello generale dei prezzi al consumo."
+    },
+    {
+     "testo": "Un incremento generalizzato dei prezzi causato dall'aumento dei costi delle materie prime o dei fattori di produzione.",
+     "spiegazione": "Corretta. Quando i costi di produzione salgono, i produttori trasferiscono l'aumento sui prezzi al consumo."
+    },
+    {
+     "testo": "La decisione del governo di aumentare le tasse sui conti correnti bancari.",
+     "spiegazione": "Errata. Le decisioni fiscali sulle giacenze non definiscono l'inflazione da costi."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Come viene strutturato l'Indice dei Prezzi al Consumo per misurare l'inflazione?",
+   "opzioni": [
+    {
+     "testo": "Si calcola la media aritmetica semplice dei prezzi di tutti i prodotti venduti nel paese.",
+     "spiegazione": "Errata. L'indice non usa una media semplice, ma un paniere ponderato in base ai consumi reali."
+    },
+    {
+     "testo": "Si misura la variazione del prezzo di un unico bene primario, solitamente il grano o il petrolio.",
+     "spiegazione": "Errata. Un solo bene non riflette l'andamento generalizzato dei consumi di una famiglia."
+    },
+    {
+     "testo": "Si seleziona un paniere rappresentativo di beni e servizi a cui viene assegnato un peso proporzionale alla spesa delle famiglie.",
+     "spiegazione": "Corretta. Il paniere rappresenta le abitudini di spesa medie e calcola la variazione ponderata dei prezzi."
+    },
+    {
+     "testo": "Si confronta il valore dell'oro con il valore delle valute estere su base giornaliera.",
+     "spiegazione": "Errata. Questo misura il cambio o il prezzo dei metalli preziosi, non l'inflazione al consumo."
+    }
+   ],
+   "indice_corretta": 2
+  }
+ ],
+ "simulazione": {
+  "titolo": "Osservazione dell'impatto dell'inflazione e del comportamento di uno strumento di protezione",
+  "obiettivo_didattico": "Imparare a monitorare i dati storici sull'inflazione e osservare come reagisce sul mercato finanziario un ETF legato a titoli di Stato protetti dall'inflazione, senza effettuare operazioni reali.",
+  "strumento_da_osservare": {
+   "nome": "iShares Inflation-Protected Securities ETF",
+   "ticker": "TIP",
+   "perche_adatto": "Si tratta di uno strumento altamente liquido che replica un indice di titoli di Stato americani il cui capitale viene adeguato all'inflazione."
+  },
+  "passi": [
+   "Apri la piattaforma TradingView o un portale finanziario equivalente in modalità gratuita e inserisci il ticker TIP nel campo di ricerca del grafico.",
+   "Imposta l'orizzonte temporale del grafico sugli ultimi due o tre anni per osservare i movimenti di prezzo su un periodo prolungato.",
+   "Cerca sui siti ufficiali di statistica (come Eurostat o il U.S. Bureau of Labor Statistics) i dati sulle ultime rilevazioni mensili dell'Indice dei Prezzi al Consumo.",
+   "Annota sul tuo diario didattico il prezzo attuale dell'ETF osservato e l'ultimo dato relativo al tasso di inflazione registrato."
+  ],
+  "guida_all_ipotesi": "Formula una tua personale ipotesi didattica: se l'inflazione stimata per i prossimi mesi dovesse rivelarsi più alta rispetto alle attese attuali dei mercati, come ti aspetti che reagisca l'attenzione degli investitori verso strumenti legati all'inflazione rispetto alla semplice liquidità?",
+  "guida_all_invalidazione": "La tua ipotesi didattica si considera errata o incompleta se, a fronte di dati sull'inflazione in aumento, l'interesse o il prezzo dello strumento diminuisce a causa di un contemporaneo e rapido aumento dei tassi d'interesse generali di mercato.",
+  "cosa_registrare": [
+   "Data della registrazione e prezzo di chiusura dello strumento TIP.",
+   "Ultimo dato disponibile sul tasso di inflazione su base annua.",
+   "La tua ipotesi scritta motivata esclusivamente da fattori logici e meccanici."
+  ],
+  "giorni_prima_della_revisione": 14,
+  "domande_di_revisione": [
+   "Quali nuove rilevazioni sull'inflazione sono state pubblicate durante le due settimane di osservazione?",
+   "Il prezzo dello strumento osservato ha mostrato stabilità o forte oscillazione in coincidenza con le pubblicazioni macroeconomiche?",
+   "In che modo la presenza dell'inflazione influisce sulla tua percezione della sicurezza della liquidità inattiva?"
+  ],
+  "avvertenza": "Questa attività ha uno scopo esclusivamente formativo e di simulazione analitica su dati storici. L'uso di un conto di simulazione o l'osservazione dei grafici non comporta alcun rischio finanziario reale, non coinvolge denaro vero e non riproduce la componente emotiva del mercato né garantisce risultati futuri."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "L'inflazione è l'aumento generalizzato e prolungato dei prezzi di beni e servizi, che riduce il potere d'acquisto della moneta.",
+   "La differenza fondamentale tra tasso nominale e tasso reale risiede nella correzione per l'inflazione: un rendimento numerico positivo può tradursi in una perdita reale se inferiore all'inflazione.",
+   "L'inflazione può essere generata da un eccesso di domanda o da un aumento dei costi di produzione e trasporto delle materie prime."
+  ],
+  "domanda_di_riflessione": "Alla luce di quanto appreso sull'effetto erosivo dell'inflazione nel tempo, per quale motivo mantenere l'intero patrimonio sotto forma di liquidità inattiva su un conto corrente non può essere considerata una scelta priva di rischi?"
+ },
+ "modulo": 2,
+ "area": "Macro",
+ "generata_il": "2026-11-23",
+ "modello": "gemini-3.6-flash"
+}

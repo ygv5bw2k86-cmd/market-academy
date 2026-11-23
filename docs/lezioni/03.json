@@ -1,0 +1,231 @@
+{
+ "titolo": "Azioni: cosa possiedi davvero",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Benvenuto al terzo modulo del corso. Nei due moduli precedenti abbiamo gettato le fondamenta: abbiamo capito a cosa serve un mercato finanziario nel suo complesso e come l'inflazione riduca progressivamente il potere d'acquisto della moneta non investita. In questa lezione facciamo un passo concreto verso il funzionamento dei singoli strumenti finanziari partendo dal piu noto: l'azione. L'obiettivo di oggi non e insegnarti a fare speculazione o a scegliere titoli, ma farti capire la natura giuridica ed economica di un'azione. Quando premi il tasto acquista su una piattaforma, cosa stai realmente comprando? Da dove deriva il valore di quel titolo e quali diritti ti conferisce?",
+  "sezioni": [
+   {
+    "titolo": "La quota di proprieta e i diritti dell azionista",
+    "testo": "Un'azione e, a livello giuridico ed economico, una quota rappresentativa del capitale sociale di una societa per azioni. Quando acquisti un'azione di un'azienda quotata in borsa, diventi ufficialmente un socio proprietario di quella societa, seppur per una frazione infinitamente piccola. Se una societa ha emesso un miliardo di azioni e tu ne possiedi cento, tu sei proprietario di una decimillesima parte percentuale dell'intera azienda. Questa quota di proprieta ti conferisce due categorie principali di diritti: diritti patrimoniali e diritti amministrativi. I diritti patrimoniali includono il diritto a ricevere una parte degli utili generati dall'azienda e il diritto a una quota del patrimonio residuo in caso di liquidazione della societa. I diritti amministrativi comprendono principalmente il diritto di voto nelle assemblee dei soci, proporzionale al numero di azioni possedute. Va tuttavia chiarita una distinzione fondamentale tra essere soci di un'azienda ed essere proprietari dei suoi beni fisici. Se possiedi azioni di una catena di supermercati, non puoi entrare in un punto vendita e prendere un prodotto dagli scaffali sostenendo che ti appartiene. La societa ha una personalita giuridica distinta da quella dei singoli soci. I beni fisici, i fabbricati e i brevetti appartengono alla societa, mentre tu possiedi un titolo finanziario che ti da diritto ai flussi di cassa futuri e al valore complessivo dell'entita aziendale."
+   },
+   {
+    "titolo": "Utili, riinvestimento e dividendi",
+    "testo": "Il motore fondamentale che determina la sopravvivenza e il valore di un'azienda e la sua capacita di generare utili. L'utile netto e la somma monetaria che rimane alla societa dopo aver incassato i ricavi dalle vendite e aver pagato tutti i costi operativi, i salari dei dipendenti, gli interessi sui debiti e le tasse dovute allo Stato. Quando un'azienda chiude il proprio esercizio contabile con un utile netto positivo, il management e il consiglio di amministrazione, insieme all'assemblea dei soci, devono decidere come impiegare quella liquidita. Ci sono fondamentalmente due strade principali, che possono anche essere combinate. La prima strada e il reinvestimento dell'utile all'interno dell'azienda stessa. Il denaro viene impiegato per acquistare nuovi macchinari, costruire nuovi stabilimenti, finanziare la ricerca e lo sviluppo di nuovi prodotti o acquisire aziende concorrenti. Questo processo si chiama trattenimento degli utili ed e finalizzato a far crescere l'azienda piu velocemente nel futuro. La seconda strada e la distribuzione degli utili agli azionisti sotto forma di dividendi. Il dividendo e una somma di denaro periodica, solitamente trimestrale o annuale, che la societa versa direttamente sul conto bancario di ciascun azionista per ogni azione posseduta. Una societa non e obbligata per legge a distribuire dividendi ogni anno; la decisione dipende dalla fase di vita dell'azienda, dalla sua redditivita e dalle sue strategie di crescita."
+   },
+   {
+    "titolo": "La quotazione in borsa e la IPO",
+    "testo": "Una societa non nasce quotata sul mercato finanziario. Per gran parte della sua vita, un'impresa puo rimanere una societa privata, fondata da pochi soci o appartenente a una singola famiglia. Tuttavia, quando un'azienda ha raggiunto dimensioni significative e necessita di grandi quantita di capitale monetario per finanziarsi, una delle opzioni a sua disposizione e la quotazione in borsa. Questo passaggio avviene attraverso un processo formale chiamato IPO, acronimo inglese per Initial Public Offering, traducibile in italiano come Offerta Pubblica Iniziale. Durante una IPO, l'azienda trasforma il proprio capitale sociale in milioni di quote standardizzate e le offre in vendita per la prima volta al pubblico degli investitori, che include sia grandi fondi d'investimento istituzionali sia piccoli risparmiatori. Il denaro raccolto durante la IPO entra direttamente nelle casse dell'azienda se vengono emesse nuove azioni, permettendole di espandere le proprie attivita senza doversi indebitare con le banche. Da quel momento in poi, le azioni dell'azienda vengono negoziate sul mercato secondario, cioe la borsa valori, dove i risparmiatori possono scambiarsele continuamente a prezzi stabiliti in ogni secondo dall'incontro tra domanda e offerta."
+   },
+   {
+    "titolo": "La capitalizzazione di mercato: oltre il prezzo della singola azione",
+    "testo": "Un errore estremamente comune tra i principianti consiste nel valutare quanto sia grande o costosa un'azienda guardando esclusivamente il prezzo di una singola azione. Vedere un'azione che quota a 10 euro e un'altra che quota a 500 euro non fornisce alcuna informazione su quale delle due aziende valga di piu. Per comprendere la reale dimensione finanziaria di una societa occorre calcolare la sua capitalizzazione di mercato, nota anche come market cap. La capitalizzazione di mercato e il valore economico totale che il mercato attribuisce all'intera azienda in un preciso istante. La formula per calcolarla e semplice: prezzo corrente di una singola azione moltiplicato per il numero totale di azioni emesse in circolazione. Se la Societa A ha un prezzo per azione di 500 euro e ha emesso soltanto 1 milione di azioni, la sua capitalizzazione di mercato e pari a 500 milioni di euro. Se la Societa B ha un prezzo per azione di soli 10 euro ma ha emesso 100 milioni di azioni, la sua capitalizzazione di mercato e pari a 1 miliardo di euro. Di conseguenza, la Societa B vale il doppio della Societa A sul mercato, nonostante il prezzo della sua singola azione sia inferiore di cinquanta volte. Il prezzo del singolo titolo e soltanto una frazione aritmetica della torta totale."
+   }
+  ],
+  "analogia": "Immagina una pizzeria di quartiere gestita da un mastro pizzaiolo. Per espandersi e acquistare un secondo forno industriale, il proprietario decide di dividere la proprieta della pizzeria in 100 quote uguali, rappresentate da certificati cartacei. Egli ne tiene 60 per se e vende le restanti 40 quote ai suoi vicini di casa per 1.000 euro ciascuna. Se acquisti una di queste quote, possiedi l'1 percento della pizzeria. Non possiedi direttamente la pala del forno o il bancone di marmo, ma possiedi l'1 percento del valore dell'attivita. Alla fine dell'anno, la pizzeria genera 10.000 euro di utile netto. Il proprietario decide di usare 6.000 euro per riparare i locali e di distribuire i restanti 4.000 euro ai soci: riceverai 40 euro per la tua singola quota. Questo e il dividendo. Se la pizzeria diventa un enorme successo e apre venti filiali, qualcuno potrebbe volere acquistare la tua singola quota per 5.000 euro. La tua quota vale di piu non perche la carta del certificato e cambiata, ma perche l'azienda sottostante produce piu valore.",
+  "errori_comuni": [
+   "Pensare che un'azione con prezzo di 5 euro sia piu economica o conveniente rispetto a un'azione con prezzo di 200 euro, senza verificare la capitalizzazione di mercato totale.",
+   "Ritenere che il dividendo sia denaro regalato dal nulla, dimenticando che quando una societa distribuisce liquidita agli azionisti, la sua cassa si riduce di pari importo ed esattamente del medesimo valore scende il prezzo teorico del titolo sul mercato al momento dello stacco.",
+   "Confondere il possesso di un'azione con il possesso diretto dei beni materiali dell'azienda, ignorando la separazione giuridica tra il patrimonio della societa e il patrimonio dei soci.",
+   "Credere che l'acquisto di un'azione garantisca un rendimento minimo annuale, sovrapponendo erroneamente le caratteristiche dei titoli azionari con quelle dei depositi bancari o dei prestiti."
+  ],
+  "glossario": [
+   {
+    "termine": "Azione",
+    "definizione": "Unita di misura del capitale sociale di una societa per azioni che attribuisce al suo possessore la qualifica di socio e i relativi diritti patrimoniali e amministrativi."
+   },
+   {
+    "termine": "Capitalizzazione di mercato",
+    "definizione": "Valore monetario complessivo attribuito dal mercato a una societa quotata, calcolato moltiplicando il prezzo corrente di un'azione per il numero totale di azioni in circolazione."
+   },
+   {
+    "termine": "IPO (Offerta Pubblica Iniziale)",
+    "definizione": "Processo mediante il quale una societa privata colloca per la prima volta i propri titoli sul mercato finanziario regolamentato, aprendo la proprieta del capitale al pubblico degli investitori."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Aumento costante e sostenibile degli utili netti aziendali nel corso di piu anni finanziari.",
+  "catena": [
+   {
+    "passo": "Incremento dell'efficienza e delle vendite",
+    "spiegazione": "L'azienda vende piu prodotti o servizi, oppure riduce i propri costi di produzione a parita di ricavi, generando un margine operativo superiore."
+   },
+   {
+    "passo": "Crescita dell'utile netto di bilancio",
+    "spiegazione": "A fine anno, dopo il pagamento di tasse, stipendi e interessi sul debito, la somma di denaro rimasta alle casse aziendali e superiore a quella dell'anno precedente."
+   },
+   {
+    "passo": "Revisione delle stime degli analisti",
+    "spiegazione": "Gli operatori di mercato e i fondi d'investimento ricalcolano il valore teorico dell'azienda, prevedendo flussi di cassa o dividendi futuri maggiori."
+   },
+   {
+    "passo": "Sbilanciamento tra domanda e offerta",
+    "spiegazione": "Sul mercato secondario aumentano gli acquirenti desiderosi di possedere una quota di questa societa redditizia, mentre diminuiscono i venditori disposti a cederla a basso prezzo."
+   },
+   {
+    "passo": "Aumento del prezzo dell'azione e della capitalizzazione",
+    "spiegazione": "A parita di altre condizioni e senza variazioni nel numero di azioni, le transazioni avvengono a prezzi via via piu alti, facendo salire il valore totale della societa."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni dell'azienda in oggetto",
+    "effetto": "Tendenza al rialzo del prezzo nel medio-lungo termine",
+    "motivo": "Il valore di un titolo azionario e strettamente legato alla capacita dell'impresa di produrre flussi di cassa effettivi nel tempo."
+   },
+   {
+    "asset": "Azioni di aziende concorrenti meno efficienti",
+    "effetto": "Possibile stagnazione o calo del prezzo",
+    "motivo": "Se l'azienda in esame aumenta gli utili sottraendo quote di mercato ai concorrenti, questi ultimi vedranno contrarsi i propri ricavi."
+   },
+   {
+    "asset": "Indice di borsa in cui l'azienda e inclusa",
+    "effetto": "Lieve spinta al rialzo dell'indice complessivo",
+    "motivo": "L'aumento della capitalizzazione dell'azienda accresce il suo peso ponderato all'interno dell'indice di riferimento."
+   }
+  ],
+  "cosa_puo_andare_storto": "La catena logica descritta presuppone che la parita delle altre condizioni rimanga inalterata. Tuttavia, nel mercato reale possono verificarsi fattori disturbanti. Se l'azienda aumenta gli utili del 10 percento, ma gli investitori si aspettavano un incremento del 20 percento, il prezzo dell'azione puo scendere invece di salire, perche l'aspettativa era gia inclusa nel prezzo iniziale. Inoltre, contesti macroeconomici negativi, come un forte rialzo dell'inflazione o dell'incertezza geopolitica, possono spingere gli investitori a vendere azioni indiscriminatamente per cercare liquidita, riducendo il prezzo anche di aziende con utili eccellenti."
+ },
+ "caso_studio": {
+  "titolo": "L'IPO di Apple del 1980 e l'effetto della crescita e degli frazionamenti azionari",
+  "periodo": "Dicembre 1980 - Presente",
+  "contesto": "Nel dicembre del 1980, Apple Computer Inc era una giovane azienda informatica californiana con quattro anni di vita. Per finanziare la produzione su vasta scala di personal computer e sostenere le spese di ricerca, i fondatori decisero di quotare la societa alla borsa americana tramite una IPO.",
+  "cosa_e_successo": "Il 12 dicembre 1980, Apple debuttato sul mercato offrendo circa 4,6 milioni di azioni a un prezzo di collocamento di 22 dollari per azione. La capitalizzazione di mercato iniziale dell'azienda si attesto attorno a 1,2 miliardi di dollari. Nei decenni successivi, l'azienda ha espanso enormemente la propria attivita con prodotti rivoluzionari, aumentando di ordini di grandezza i propri ricavi e i propri utili netti. Con l'aumento vertiginoso del valore totale della societa, il prezzo di una singola azione sarebbe salito a molte migliaia di dollari, rendendo difficile per un piccolo risparmiatore acquistare anche un solo titolo. Per risolvere questo problema di accessibilita, Apple ha effettuato nel tempo diversi frazionamenti azionari, noti come stock split. Nel 1987, nel 2000 e nel 2005 ha eseguito split 2 a 1, nel 2014 un imponente split 7 a 1, e nel 2020 uno split 4 a 1. Con uno split 2 a 1, chi possedeva un'azione si e ritrovato con due azioni, ciascuna con un valore unitario dimezzato, mentre la capitalizzazione totale e rimasta identica. Chi aveva acquistato un singolo titolo nel 1980 a 22 dollari, a seguito dei vari frazionamenti si e ritrovato ad possedere 224 azioni nel 2020 per ogni singola quota originale. La capitalizzazione complessiva dell'azienda e passata da circa 1,2 miliardi di dollari nel 1980 a oltre 2.000 miliardi di dollari nel decennio attuale.",
+  "legame_con_il_concetto": "Questo caso dimostra in modo cristallino tre concetti appresi nella lezione: primo, che l'IPO serve a raccogliere capitale reale per far crescere l'azienda; secondo, che il rendimento dell'azionista nel lungo termine e guidato dalla capacita della societa di generare utili effettivi; terzo, che il prezzo di una singola azione e un valore arbitrario che puo essere modificato attraverso gli frazionamenti senza alterare il valore complessivo della quota di proprieta posseduta.",
+  "nota_sui_dati": "I dati relativi alla data di quotazione, al prezzo di collocamento della IPO e alla sequenza degli stock split (1987, 2000, 2005, 2014, 2020) sono tratti dalla documentazione ufficiale societaria per gli azionisti depositata presso la Securities and Exchange Commission degli Stati Uniti."
+ },
+ "quiz": [
+  {
+   "domanda": "Che cosa possiede esattamente un risparmiatore che acquista una singola azione di una societa quotata?",
+   "opzioni": [
+    {
+     "testo": "La proprieta diretta e individuale dei fabbricati e dei macchinari aziendali in proporzione alla spesa sostenuta.",
+     "spiegazione": "Errato. La societa e un'entita giuridica distinta dai soci. L'azionista non possiede direttamente i beni fisici dell'impresa."
+    },
+    {
+     "testo": "Un titolo di credito che garantisce la restituzione del capitale versato piu un interesse fisso annuale.",
+     "spiegazione": "Errato. Questo descrive le caratteristiche di un prestito obbligazionario o di un deposito, non di un'azione azionaria."
+    },
+    {
+     "testo": "Una quota percentuale del capitale sociale che conferisce diritti patrimoniali sugli utili e diritti amministrativi.",
+     "spiegazione": "Corretto. L'azione e una quota di proprieta dell'azienda che da diritto a partecipare agli utili futuri e al voto nelle assemblee."
+    },
+    {
+     "testo": "Un contratto che obbliga l'azienda a riacquistare il titolo a un valore sempre superiore a quello iniziale.",
+     "spiegazione": "Errato. L'azienda non garantisce alcun riacquisto né alcun valore minimo di prezzo sul mercato."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "La societa Alfa ha un prezzo azionario di 400 euro e 1 milione di azioni. La societa Beta ha un prezzo azionario di 20 euro e 100 milioni di azioni. Quale affermazione e corretta?",
+   "opzioni": [
+    {
+     "testo": "La societa Beta e cinque volte piu grande della societa Alfa in termini di capitalizzazione di mercato.",
+     "spiegazione": "Corretto. Alfa ha una capitalizzazione di 400 milioni (400x1M). Beta ha una capitalizzazione di 2 miliardi (20x100M). 2 miliardi diviso 400 milioni e pari a 5."
+    },
+    {
+     "testo": "La societa Alfa e venti volte piu grande della societa Beta perche il prezzo della sua azione e venti volte superiore.",
+     "spiegazione": "Errato. Guardare soltanto il prezzo della singola azione e l'errore tipico del principiante; occorre considerare il numero totale di azioni emesse."
+    },
+    {
+     "testo": "La societa Alfa e piu conveniente da acquistare perche ha emesso meno azioni sul mercato.",
+     "spiegazione": "Errato. Il numero di azioni emesse e una decisione contabile della societa e non indica se un titolo sia conveniente o costoso."
+    },
+    {
+     "testo": "Le due societa hanno esattamente la medesima dimensione finanziaria sul mercato.",
+     "spiegazione": "Errato. La capitalizzazione di Alfa e 400 milioni di euro, mentre quella di Beta e 2.000 milioni di euro."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Che cosa accade alla cassa di un'azienda e alla sua capitalizzazione teorica subito dopo la distribuzione di un dividendo in denaro?",
+   "opzioni": [
+    {
+     "testo": "La cassa aziendale aumenta e la capitalizzazione di mercato cresce dello stesso importo distribuito.",
+     "spiegazione": "Errato. La distribuzione di dividendi e una fuoriuscita di liquidita dalle casse aziendali, non un ingresso."
+    },
+    {
+     "testo": "La cassa aziendale non subisce variazioni perche i dividendi vengono stampati ex novo dal mercato.",
+     "spiegazione": "Errato. I dividendi derivano esclusivamente dagli utili reali accumulati nella cassa della societa."
+    },
+    {
+     "testo": "La cassa e la capitalizzazione rimangono invariate perche il dividendo e un costo interamente coperto dalle banche.",
+     "spiegazione": "Errato. Il dividendo e pagato con risorse proprie dell'azienda e riduce direttamente il patrimonio netto societario."
+    },
+    {
+     "testo": "La cassa aziendale si riduce dell'importo totale pagato e il prezzo teorico delle azioni scende di pari misura.",
+     "spiegazione": "Corretto. Uscendo denaro dalla societa, il valore complessivo dell'entita aziendale diminuisce esattamente della cifra erogata ai soci."
+    }
+   ],
+   "indice_corretta": 3
+  },
+  {
+   "domanda": "Qual e la funzione principale dell'operazione di IPO (Offerta Pubblica Iniziale) per una societa privata?",
+   "opzioni": [
+    {
+     "testo": "Garantire agli azionisti fondatori che le azioni non perderanno mai valore nel tempo.",
+     "spiegazione": "Errato. Nessuna operazione di borsa o prospetto informativo puo eliminare il rischio di fluttuazione del prezzo."
+    },
+    {
+     "testo": "Raccogliere nuovi capitali finanziari dal pubblico per espandere le attivita ed eventualmente permettere ai primi soci di vendere quote.",
+     "spiegazione": "Corretto. La IPO e lo strumento con cui un'azienda raccoglie risorse sul mercato trasformandosi in una societa con azionariato diffuso."
+    },
+    {
+     "testo": "Azzerare automaticamente tutti i debiti bancari contratti prima della quotazione senza utilizzare denaro.",
+     "spiegazione": "Errato. La quotazione non cancella i debiti; i capitali raccolti possono semmai essere usati per rimborsarli se la societa lo decide."
+    },
+    {
+     "testo": "Ottenere un prestito a tasso fisso direttamente dalla Banca Centrale del paese di appartenenza.",
+     "spiegazione": "Errato. La IPO riguarda l'emissione di capitale di rischio sul mercato aperto, non un prestito erogato da una banca centrale."
+    }
+   ],
+   "indice_corretta": 1
+  }
+ ],
+ "simulazione": {
+  "titolo": "Osservazione della capitalizzazione e dei dati societari di Apple Inc (AAPL)",
+  "obiettivo_didattico": "Verificare visivamente su una piattaforma di analisi di mercato il rapporto tra prezzo della singola azione, numero di azioni in circolazione, capitalizzazione complessiva e distribuzione dei dividendi.",
+  "strumento_da_osservare": {
+   "nome": "Apple Inc.",
+   "ticker": "AAPL",
+   "perche_adatto": "Si tratta di una delle aziende a piu alta capitalizzazione al mondo, dotata di estrema liquidita e dati storici ampiamente documentati sulle piattaforme di simulazione come TradingView."
+  },
+  "passi": [
+   "Apri la piattaforma TradingView o il tuo conto di simulazione (paper trading).",
+   "Digita il ticker AAPL nella barra di ricerca del grafico per caricare il titolo di Apple Inc.",
+   "Identifica nella scheda informativa del titolo la voce Capitalizzazione di mercato (Market Cap) e annota il valore espresso in trilioni o miliardi di dollari.",
+   "Trova il dato relativo al prezzo corrente della singola azione e dividi la capitalizzazione di mercato per questo prezzo per stimare il numero totale di azioni in circolazione.",
+   "Cerca sul grafico gli indicatori contrassegnati con la lettera D, che indicano le date passate in cui sono stati staccati i dividendi, e osserva la variazione del prezzo in corrispondenza di tali giornate."
+  ],
+  "guida_all_ipotesi": "Formula una tua ipotesi teorica basata sui concetti studiati: se la societa pubblica risultati trimestrali con utili superiori alle stime precedenti, quale impatto ti aspetti di osservare sulla domanda del titolo a parita di condizioni macroeconomiche? Formula l'ipotesi in forma scritta nel tuo diario, senza effettuare operazioni reali.",
+  "guida_all_invalidazione": "La tua ipotesi analitica sara smentita se, a fronte di un aumento degli utili dichiarati, il prezzo dell'azione dovesse scendere. In quel caso dovrai ricercare quali altri fattori (come stime future deludenti o vendite sull'intero settore tecnologico) hanno dominato il mercato.",
+  "cosa_registrare": [
+   "Prezzo della singola azione al momento dell'osservazione iniziale.",
+   "Capitalizzazione di mercato totale dichiarata dalla piattaforma.",
+   "Stima del numero di azioni totali calcolata manualmente.",
+   "Data prevista per la prossima pubblicazione dei risultati contabili o dello stacco dividendo."
+  ],
+  "giorni_prima_della_revisione": 14,
+  "domande_di_revisione": [
+   "Il prezzo della singola azione e variato in modo significativo nei 14 giorni di osservazione?",
+   "La capitalizzazione di mercato e cambiata proporzionalmente al prezzo dell'azione o c'e stata un'emissione di nuove azioni?",
+   "Se e stato distribuito un dividendo durante il periodo, come si e comportato il prezzo del titolo al momento dello stacco?"
+  ],
+  "avvertenza": "La presente simulazione ha uno scopo esclusivamente didattico ed e eseguita su un conto demo senza impiego di capitale reale. Le simulazioni in ambiente protetto non comportano il rischio finanziario né lo stress emotivo delle decisioni reali e non garantiscono risultati futuri nei mercati reali."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "Un'azione rappresenta una quota di proprieta reale di una societa, conferendo diritti sui flussi di cassa futuri e sul voto in assemblea.",
+   "La dimensione finanziaria di un'azienda e misurata dalla capitalizzazione di mercato (prezzo moltiplicato per il numero di azioni) e mai dal solo prezzo unitario del titolo.",
+   "Gli utili aziendali possono essere reinvestiti per far crescere l'impresa o distribuiti agli azionisti sotto forma di dividendi.",
+   "Le operazione di frazionamento azionario (stock split) modificano il numero di azioni e il loro prezzo unitario, ma lasciano invariato il valore complessivo della quota posseduta."
+  ],
+  "domanda_di_riflessione": "Se ti venisse offerta la scelta tra possedere il 10 percento di un'azienda non quotata che genera utili costanti o possedere 1.000 azioni di una nota azienda quotata le cui azioni aumentano di prezzo ma che registra perdite ogni anno, quali fattori economici e logici analizzeresti prima di rispondere?"
+ },
+ "modulo": 3,
+ "area": "Strumenti",
+ "generata_il": "2026-11-23",
+ "modello": "gemini-3.6-flash"
+}
