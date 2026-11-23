@@ -1,0 +1,12 @@
+Genera la lezione del MODULO {ID} di {TOTALE}.
+
+Area: {AREA}
+Argomento: {TITOLO}
+Concetti da coprire: {CONCETTI}
+Caso studio suggerito (puoi sceglierne un altro, reale e ben documentato, se è più adatto): {CASO}
+
+Moduli già svolti dallo studente (non ripeterli, richiamali solo se aiuta):
+{PRECEDENTI}
+
+Moduli successivi in programma (non anticiparli):
+{SUCCESSIVI}
