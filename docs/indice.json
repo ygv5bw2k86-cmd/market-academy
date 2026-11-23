@@ -1,0 +1,122 @@
+[
+ {
+  "id": 1,
+  "area": "Strumenti",
+  "titolo": "Cos'è un mercato finanziario e a cosa serve",
+  "disponibile": true
+ },
+ {
+  "id": 2,
+  "area": "Macro",
+  "titolo": "Inflazione: cos'è e perché erode i risparmi",
+  "disponibile": false
+ },
+ {
+  "id": 3,
+  "area": "Strumenti",
+  "titolo": "Azioni: cosa possiedi davvero",
+  "disponibile": false
+ },
+ {
+  "id": 4,
+  "area": "Rischio",
+  "titolo": "Rischio e rendimento: il compromesso fondamentale",
+  "disponibile": false
+ },
+ {
+  "id": 5,
+  "area": "Macro",
+  "titolo": "Banche centrali e tassi d'interesse",
+  "disponibile": false
+ },
+ {
+  "id": 6,
+  "area": "Strumenti",
+  "titolo": "Obbligazioni: prestare denaro e come si muovono i prezzi",
+  "disponibile": false
+ },
+ {
+  "id": 7,
+  "area": "Psicologia",
+  "titolo": "Il tuo cervello contro il mercato: i bias cognitivi",
+  "disponibile": false
+ },
+ {
+  "id": 8,
+  "area": "Strumenti",
+  "titolo": "ETF e fondi indicizzati",
+  "disponibile": false
+ },
+ {
+  "id": 9,
+  "area": "Strumenti",
+  "titolo": "Indici di borsa: S&P 500, Nasdaq, MSCI World",
+  "disponibile": false
+ },
+ {
+  "id": 10,
+  "area": "Analisi",
+  "titolo": "Come si legge un bilancio",
+  "disponibile": false
+ },
+ {
+  "id": 11,
+  "area": "Rischio",
+  "titolo": "Diversificazione e correlazione",
+  "disponibile": false
+ },
+ {
+  "id": 12,
+  "area": "Macro",
+  "titolo": "Ciclo economico e curva dei rendimenti",
+  "disponibile": false
+ },
+ {
+  "id": 13,
+  "area": "Analisi",
+  "titolo": "Valutare un'azienda: P/E e multipli",
+  "disponibile": false
+ },
+ {
+  "id": 14,
+  "area": "Psicologia",
+  "titolo": "Aspettative e notizie già prezzate",
+  "disponibile": false
+ },
+ {
+  "id": 15,
+  "area": "Rischio",
+  "titolo": "Asset allocation e orizzonte temporale",
+  "disponibile": false
+ },
+ {
+  "id": 16,
+  "area": "Rischio",
+  "titolo": "Volatilità e drawdown",
+  "disponibile": false
+ },
+ {
+  "id": 17,
+  "area": "Strumenti",
+  "titolo": "Come funziona un ordine di borsa",
+  "disponibile": false
+ },
+ {
+  "id": 18,
+  "area": "Analisi",
+  "titolo": "Analisi tecnica: cosa può e non può dirti",
+  "disponibile": false
+ },
+ {
+  "id": 19,
+  "area": "Rischio",
+  "titolo": "Position sizing e gestione del rischio",
+  "disponibile": false
+ },
+ {
+  "id": 20,
+  "area": "Psicologia",
+  "titolo": "Il diario decisionale e il processo di investimento",
+  "disponibile": false
+ }
+]
