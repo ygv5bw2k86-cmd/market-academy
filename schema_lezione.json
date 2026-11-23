@@ -1,0 +1,74 @@
+{
+  "type": "object",
+  "properties": {
+    "titolo": {"type": "string"},
+    "tempo_stimato_minuti": {"type": "integer"},
+    "concetto": {
+      "type": "object",
+      "properties": {
+        "introduzione": {"type": "string"},
+        "sezioni": {"type": "array", "items": {"type": "object", "properties": {"titolo": {"type": "string"}, "testo": {"type": "string"}}, "required": ["titolo", "testo"]}},
+        "analogia": {"type": "string"},
+        "errori_comuni": {"type": "array", "items": {"type": "string"}},
+        "glossario": {"type": "array", "items": {"type": "object", "properties": {"termine": {"type": "string"}, "definizione": {"type": "string"}}, "required": ["termine", "definizione"]}}
+      },
+      "required": ["introduzione", "sezioni", "analogia", "errori_comuni", "glossario"]
+    },
+    "causa_effetto": {
+      "type": "object",
+      "properties": {
+        "fenomeno": {"type": "string"},
+        "catena": {"type": "array", "items": {"type": "object", "properties": {"passo": {"type": "string"}, "spiegazione": {"type": "string"}}, "required": ["passo", "spiegazione"]}},
+        "impatti_tipici": {"type": "array", "items": {"type": "object", "properties": {"asset": {"type": "string"}, "effetto": {"type": "string"}, "motivo": {"type": "string"}}, "required": ["asset", "effetto", "motivo"]}},
+        "cosa_puo_andare_storto": {"type": "string"}
+      },
+      "required": ["fenomeno", "catena", "impatti_tipici", "cosa_puo_andare_storto"]
+    },
+    "caso_studio": {
+      "type": "object",
+      "properties": {
+        "titolo": {"type": "string"},
+        "periodo": {"type": "string"},
+        "contesto": {"type": "string"},
+        "cosa_e_successo": {"type": "string"},
+        "legame_con_il_concetto": {"type": "string"},
+        "nota_sui_dati": {"type": "string"}
+      },
+      "required": ["titolo", "periodo", "contesto", "cosa_e_successo", "legame_con_il_concetto", "nota_sui_dati"]
+    },
+    "quiz": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "domanda": {"type": "string"},
+          "opzioni": {"type": "array", "items": {"type": "object", "properties": {"testo": {"type": "string"}, "spiegazione": {"type": "string"}}, "required": ["testo", "spiegazione"]}},
+          "indice_corretta": {"type": "integer"}
+        },
+        "required": ["domanda", "opzioni", "indice_corretta"]
+      }
+    },
+    "simulazione": {
+      "type": "object",
+      "properties": {
+        "titolo": {"type": "string"},
+        "obiettivo_didattico": {"type": "string"},
+        "strumento_da_osservare": {"type": "object", "properties": {"nome": {"type": "string"}, "ticker": {"type": "string"}, "perche_adatto": {"type": "string"}}, "required": ["nome", "ticker", "perche_adatto"]},
+        "passi": {"type": "array", "items": {"type": "string"}},
+        "guida_all_ipotesi": {"type": "string"},
+        "guida_all_invalidazione": {"type": "string"},
+        "cosa_registrare": {"type": "array", "items": {"type": "string"}},
+        "giorni_prima_della_revisione": {"type": "integer"},
+        "domande_di_revisione": {"type": "array", "items": {"type": "string"}},
+        "avvertenza": {"type": "string"}
+      },
+      "required": ["titolo", "obiettivo_didattico", "strumento_da_osservare", "passi", "guida_all_ipotesi", "guida_all_invalidazione", "cosa_registrare", "giorni_prima_della_revisione", "domande_di_revisione", "avvertenza"]
+    },
+    "riepilogo": {
+      "type": "object",
+      "properties": {"punti_chiave": {"type": "array", "items": {"type": "string"}}, "domanda_di_riflessione": {"type": "string"}},
+      "required": ["punti_chiave", "domanda_di_riflessione"]
+    }
+  },
+  "required": ["titolo", "tempo_stimato_minuti", "concetto", "causa_effetto", "caso_studio", "quiz", "simulazione", "riepilogo"]
+}
