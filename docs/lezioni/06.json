@@ -1,0 +1,228 @@
+{
+ "titolo": "Modulo 6: Obbligazioni: prestare denaro e come si muovono i prezzi",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nel Modulo 3 abbiamo esaminato le azioni, che rappresentano quote di proprietà di un'azienda. Ora analizziamo la seconda grande classe di attivo sui mercati finanziari: le obbligazioni. Quando acquisti un'obbligazione, non stai diventando il comproprietario di nulla; stai agendo come un creditore. Stai prestando denaro a un ente pubblico (come uno Stato) o a una società privata. In cambio del tuo capitale, il debitore si impegna a pagarti un interesse periodico e a restituirti l'intera somma prestata a una data stabilita. Comprendere il funzionamento delle obbligazioni è fondamentale per capire l'intero sistema finanziario, poiché il costo del debito influenza la valutazione di qualsiasi altro asset, comprese le azioni e gli immobili.",
+  "sezioni": [
+   {
+    "titolo": "Gli elementi costitutivi di un'obbligazione: nominale, cedola e scadenza",
+    "testo": "Ogni obbligazione ha una struttura definita al momento dell'emissione basata su tre parametri fondamentali. Il valore nominale è la cifra che il debitore prende in prestito e s'impegna a restituire alla scadenza (solitamente 1.000 euro o 1.000 dollari per singolo titolo). La cedola rappresenta l'interesse che l'emittente paga periodicamente al possessore dell'obbligazione. Se un'obbligazione ha un valore nominale di 1.000 euro e una cedola annua del 4%, pagherà 40 euro all'anno fino al termine del contratto. La data di scadenza è il giorno esatto in cui il contratto termina e l'emittente deve rimborsare il valore nominale originario. Le scadenze possono variare da pochi mesi fino a 10, 30 o persino 50 anni."
+   },
+   {
+    "titolo": "Mercato primario e secondario: perché il prezzo cambia ogni giorno",
+    "testo": "Quando un'obbligazione viene emessa per la prima volta, si parla di mercato primario. Una volta emessa, l'obbligazione non rimane bloccata nei cassaforti fino alla scadenza: viene scambiata liberamente tra investitori sul mercato secondario. Se decidi di vendere la tua obbligazione a 10 anni dopo soli 2 anni, non chiederai i soldi all'emittente originario, ma venderai il titolo a un altro investitore sul mercato. È qui che il prezzo dell'obbligazione smette di essere fisso e comincia a fluttuare ogni secondo in base alla domanda, all'offerta e, soprattutto, all'evoluzione dei tassi d'interesse di mercato che abbiamo studiato nel Modulo 5."
+   },
+   {
+    "titolo": "La legge fondamentale: la relazione inversa tra tassi d'interesse e prezzi",
+    "testo": "Questo è il concetto centrale dell'intera lezione: quando i tassi d'interesse generali di mercato salgono, i prezzi delle obbligazioni già esistenti scendono. Viceversa, quando i tassi scendono, i prezzi delle obbligazioni esistenti salgono. Perché avviene questo meccanismo? Immagina di possedere un'obbligazione emessa l'anno scorso che paga una cedola del 2% fisso per i prossimi 10 anni. Se oggi la Banca Centrale alza i tassi e i nuovi titoli di Stato dello stesso tipo iniziano a offrire il 4%, nessuno vorrà comprare la tua obbligazione al 2% pagandola a prezzo pieno (100% del valore nominale). Per convincere qualcuno ad acquistare la tua obbligazione al 2% sul mercato secondario, dovrai ridurre il prezzo a cui la vendi. Vendendola a uno sconto (ad esempio a 90 o 85 anziché 100), il rendimento totale per il nuovo acquirente salirà fino al 4%, riallineandosi con i rendimenti offerti dai nuovi titoli di mercato."
+   },
+   {
+    "titolo": "Il rendimento a scadenza (Yield to Maturity) e il rischio di credito",
+    "testo": "A causa di queste variazioni di prezzo, il tasso cedolare (es. 2%) non coincide quasi mai con il rendimento reale dell'investitore. Si definisce Rendimento a Scadenza (in inglese Yield to Maturity o YTM) il rendimento complessivo annuo che un investitore otterrà acquistando il titolo al prezzo corrente di mercato e mantenendolo fino alla scadenza. L'YTM tiene conto sia delle cedole incassate, sia della differenza tra il prezzo d'acquisto sul mercato secondario e il valore nominale rimborsato alla fine. Oltre al rischio di oscillazione dei prezzi legato ai tassi, esiste il rischio di credito (o rischio di default): la possibilità che l'emittente non riesca a pagare le cedole o a rimborsare il capitale a causa di un dissesto finanziario. Gli emittenti ritenuti meno solidi devono offrire cedole significativamente più alte per compensare gli investitori del maggior rischio assento."
+   }
+  ],
+  "analogia": "Immagina di aver stipulato un contratto di affitto per un appartamento a 500 euro al mese per i prossimi 10 anni. Se improvvisamente il valore di mercato degli affitti nella zona sale a 1.000 euro al mese per appartamenti simili, il tuo contratto diventa estremamente svantaggioso per il proprietario e molto vantaggioso per te. Se volessi cedere quel contratto di affitto bloccato a 500 euro a un altro inquilino, potresti farti pagare una somma d'ingresso molto elevata. Se invece gli affitti di mercato crollassero a 250 euro al mese, nessuno vorrebbe subentrare nel tuo contratto a 500 euro, a meno che tu non offra un cospicuo incentivo in denaro per compensare il costo superiore alla media. Le obbligazioni sul mercato funzionano esattamente allo stesso modo.",
+  "errori_comuni": [
+   "Credere che le obbligazioni non possano mai perdere valore. Se vendute prima della data di scadenza sul mercato secondario, le obbligazioni possono registrare sensibili perdite in conto capitale.",
+   "Confondere il tasso della cedola con il rendimento effettivo dell'investimento. Un'obbligazione con cedola del 5% pagata a un prezzo di mercato molto alto può rendere molto meno di una con cedola dell'1% acquistata a forte sconto.",
+   "Ritenere che i titoli di Stato siano privi di qualsiasi rischio. Anche se il rischio di default di uno Stato sovrano solido è ridotto, il rischio di prezzo legato al rialzo dei tassi d'interesse rimane pienamente operativo su titoli a medio-lungo termine."
+  ],
+  "glossario": [
+   {
+    "termine": "Cedola",
+    "definizione": "Il pagamento periodico degli interessi effettuato dall'emittente dell'obbligazione al proprietario del titolo fino alla data di scadenza."
+   },
+   {
+    "termine": "Rendimento a Scadenza (Yield to Maturity)",
+    "definizione": "Il tasso di rendimento totale stimato che un investitore otterrà se acquista un'obbligazione al prezzo attuale di mercato e la detiene fino alla data di rimborso finale."
+   },
+   {
+    "termine": "Rischio di Credito (o di Default)",
+    "definizione": "La probabilità economica che il soggetto debitore (Stato o azienda) non sia in grado di adempiere al pagamento delle cedole o alla restituzione del valore nominale a scadenza."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Rialzo rapido dei tassi di interesse di riferimento da parte della Banca Centrale a parità di altre condizioni.",
+  "catena": [
+   {
+    "passo": "Step 1",
+    "spiegazione": "La Banca Centrale alza i tassi ufficiali per contrastare l'inflazione (concetto trattato nel Modulo 5)."
+   },
+   {
+    "passo": "Step 2",
+    "spiegazione": "Le nuove obbligazioni emesse oggi sul mercato offrono cedole più generose per riflettere il maggior costo del denaro stabilito dalla Banca Centrale."
+   },
+   {
+    "passo": "Step 3",
+    "spiegazione": "Le obbligazioni emesse in passato a tassi più bassi diventano meno desiderabili per gli investitori rispetto ai nuovi titoli apparsi sul mercato."
+   },
+   {
+    "passo": "Step 4",
+    "spiegazione": "Per poter vendere le vecchie obbligazioni sul mercato secondario, i venditori devono abbassarne il prezzo fino a quando il loro Rendimento a Scadenza equivale a quello delle nuove emissioni."
+   },
+   {
+    "passo": "Step 5",
+    "spiegazione": "Il valore di mercato dei portafogli obbligazionari a tasso fisso esistenti subisce un calo proporzionale alla durata residua dei titoli stessi."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Obbligazioni a lungo termine (es. titoli di Stato a 20 o 30 anni a tasso fisso)",
+    "effetto": "Forte calo del prezzo di mercato.",
+    "motivo": "Essendo il tasso fisso bloccato per molti anni, l'adeguamento di prezzo necessario per riallineare il rendimento alle condizioni attuali è molto elevato."
+   },
+   {
+    "asset": "Obbligazioni a brevissimo termine (es. titoli a 3 o 6 mesi)",
+    "effetto": "Variazione di prezzo contenuta o trascurabile.",
+    "motivo": "La vicinanza della data di rimborso al valore nominale riduce la sensibilità del titolo ai cambiamenti dei tassi d'interesse."
+   },
+   {
+    "asset": "Obbligazioni a tasso variabile",
+    "effetto": "Prezzo di mercato sostanzialmente stazionario.",
+    "motivo": "Le cedole periodiche si aggiornano automaticamente ai nuovi tassi di mercato, eliminando la necessità per il prezzo del capitale di svalutarsi."
+   }
+  ],
+  "cosa_puo_andare_storto": "La catena logica si basa sull'ipotesi che il rischio di credito dell'emittente rimanga invariato. Se contestualmente al rialzo dei tassi l'emittente subisce un marcato miglioramento della propria solidità finanziaria, la riduzione del premio per il rischio di default potrebbe attenuare il calo del prezzo dell'obbligazione. Inoltre, se il mercato ritiene che il rialzo dei tassi sarà temporaneo ed è imminente una nuova fase di recessione, le obbligazioni a lungo termine potrebbero persino registrare acquisti per motivi di copertura, mantenendo sostenuto il prezzo."
+ },
+ "caso_studio": {
+  "titolo": "Silicon Valley Bank (2023) e le perdite latenti sui titoli di Stato",
+  "periodo": "Marzo 2023",
+  "contesto": "Negli anni compresi tra il 2020 e il 2021, caratterizzati da tassi d'interesse vicini allo zero, la Silicon Valley Bank (SVB) ricevette un ingente afflusso di depositi da parte di startup e aziende tecnologiche. Trovandosi con una liquidità in eccesso enorme e pochi impieghi commerciali, la banca scelse di investire decine di miliardi di dollari in titoli del Tesoro americano e obbligazioni garantite da ipoteche con scadenze a lungo termine, caratterizzati da rendimenti fissi bassi (nell'ordine dell'1,5% - 2%).",
+  "cosa_e_successo": "Nel corso del 2022 e 2023, la Federal Reserve alzò i tassi di interesse con una velocità non riscontrata nei decenni precedenti per combattere l'inflazione elevated. Con l'impennata dei tassi, il valore di mercato dei titoli di Stato a tasso fisso in possesso di SVB subì una forte contrazione. Finchè le obbligazioni rimangono nel bilancio fino alla scadenza naturale, le perdite restano puramente teoriche (non realizzate). Tuttavia, nel marzo 2023, le startup clienti iniziarono a ritirare massicciamente i propri depositi per coprire i costi operativi. Per soddisfare le richieste di contante, SVB fu costretta a vendere d'urgenza circa 21 miliardi di dollari di obbligazioni sul mercato secondario prima della loro scadenza, trasformando le perdite teoriche in perdite effettive per circa 1,8 miliardi di dollari. La notizia di questa perdita spaventò i correntisti, scatenando una corsa agli sportelli virtuale che portò la banca all'insolvenza in 48 ore.",
+  "legame_con_il_concetto": "Questo evento dimostra in modo drammatico l'operatività della relazione inversa tra tassi d'interesse e prezzi delle obbligazioni. Molti investitori non professionisti ritenevano che i titoli del Tesoro statunitense fossero esenti da rischi in quanto coperti dalla massima garanzia di solido debitore sovrano. Sebbene il rischio di credito fosse quasi zero, il rischio di prezzo legato al tasso d'interesse sulle scadenze lunghe si è rivelato fatale quando le obbligazioni sono state forzatamente liquidate prima della scadenza.",
+  "nota_sui_dati": "Le cifre riportate relative alla cessione del portafoglio (circa 21 miliardi di dollari di controvalore e circa 1,8 miliardi di dollari di perdita realizzata netta) sono basate sui comunicati contabili diffusi dalla banca prima dell'intervento degli organi di vigilanza bancaria nel marzo 2023."
+ },
+ "quiz": [
+  {
+   "domanda": "Se la Banca Centrale decide di aumentare i tassi d'interesse di riferimento di 100 punti base, cosa ci si aspetta che accada al prezzo sul mercato secondario di un'obbligazione a tasso fisso a 10 anni emessa due anni fa?",
+   "opzioni": [
+    {
+     "testo": "Il prezzo dell'obbligazione aumenta per adeguarsi al maggior costo del denaro.",
+     "spiegazione": "Errato. Questa affermazione inverte la legge fondamentale dei mercati obbligazionari: se i tassi salgono, le vecchie obbligazioni perdono valore."
+    },
+    {
+     "testo": "Il prezzo dell'obbligazione diminuisce per offrire un rendimento complessivo in linea con i nuovi tassi di mercato.",
+     "spiegazione": "Corretto. Per rendere un titolo vecchio al 2% competitivo verso i nuovi titoli emessi al 3%, il suo prezzo di mercato deve necessariamente scendere a sconto."
+    },
+    {
+     "testo": "Il prezzo rimane invariato perché la cedola pattuita nel contratto originale è fissa.",
+     "spiegazione": "Errato. La cedola rimane fissa in termini monetari, ma è proprio per questo motivo che deve fluttuare il prezzo di scambio per riallineare il rendimento per i nuovi compratori."
+    },
+    {
+     "testo": "Il prezzo scende immediatamente a zero poiché il titolo viene considerato automaticamente insolvente.",
+     "spiegazione": "Errato. Un rialzo dei tassi d'interesse modella il rendimento di mercato del titolo, ma non implica di per sé il fallimento dell'emittente."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Quale tra le seguenti affermazioni descrive in modo corretto la differenza tra il tasso di cedola e il Rendimento a Scadenza (YTM) di un'obbligazione?",
+   "opzioni": [
+    {
+     "testo": "Il tasso di cedola calcola solo la quota capitale rimborsata, mentre l'YTM calcola esclusivamente la componente di interessi.",
+     "spiegazione": "Errato. La cedola indica proprio la percentuale periodica di interessi da contratto, mentre l'YTM integra sia gli interessi che il guadagno o la perdita sul prezzo del capitale."
+    },
+    {
+     "testo": "La cedola è una percentuale fissa calcolata sul valore nominale, mentre l'YTM considera il prezzo di acquisto effettivo sul mercato e il guadagno/perdita fino alla scadenza.",
+     "spiegazione": "Corretto. La cedola determina il flusso di cassa fisso concordato, mentre l'YTM misura il rendimento totale reale per chi acquista il titolo al prezzo corrente di mercato."
+    },
+    {
+     "testo": "Il tasso di cedola varia ogni giorno sul mercato, mentre il Rendimento a Scadenza rimane sempre fisso al momento del collocamento.",
+     "spiegazione": "Errato. È esattamente l'opposto: il tasso della cedola (nelle obbligazioni a tasso fisso) resta invariato, mentre il rendimento a scadenza varia quotidianamente con la fluttuazione del prezzo."
+    },
+    {
+     "testo": "Non esiste alcuna differenza: le due definizioni indicano esatto identico valore matematico.",
+     "spiegazione": "Errato. Le due cifre coincidono soltanto se l'obbligazione viene acquistata esattamente al pari (ovvero al 100% del suo valore nominale)."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Per quale motivo un'obbligazione emessa da una società ad alto rischio (con basso merito creditizio) offre una cedola più alta rispetto a un titolo di Stato di una nazione economicamente solida?",
+   "opzioni": [
+    {
+     "testo": "Perché le società ad alto rischio sono obbligate per legge a pagare tassi più alti a tutela dei risparmiatori.",
+     "spiegazione": "Errato. Non è una regola di legge, ma una dinamica di mercato guidata dalla legge della domanda e dell'offerta di capitale."
+    },
+    {
+     "testo": "Per compensare l'investitore del maggiore rischio di credito, ossia la possibilità che l'emittente non riesca a rimborsare il debito.",
+     "spiegazione": "Corretto. Come studiato nel Modulo 4, a maggior rischio richiesto deve corrispondere un maggior rendimento potenziale offerto per attrarre capitale."
+    },
+    {
+     "testo": "Perché le obbligazioni societarie non risentono delle variazioni dei tassi stabiliti dalla Banca Centrale.",
+     "spiegazione": "Errato. Tutti i titoli di debito sono influenzati dal costo del denaro globale stabilito dalla Banca Centrale."
+    },
+    {
+     "testo": "Perché le obbligazioni di società fragili non hanno una data di scadenza e devono pagare cedole in perpetuo.",
+     "spiegazione": "Errato. Il rischio di credito prescinde dalla durata strutturale, e la stragrande maggioranza delle obbligazioni ha una data di scadenza precisa."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Se acquisti un'obbligazione statale a tasso fisso emessa al valore nominale di 1.000 euro con scadenza a 5 anni e la conservi nel portafoglio fino alla scadenza senza venderla sul mercato, cosa accadrà se l'anno prossimo i tassi di mercato dovessero raddoppiare?",
+   "opzioni": [
+    {
+     "testo": "Subirai una perdita definitiva di capitale pari alla svalutazione del prezzo di mercato verificatasi nel secondo anno.",
+     "spiegazione": "Errato. Le oscillazioni temporanee di prezzo sul mercato secondario non incidono sul contratto finale se il titolo viene detenuto fino alla naturale scadenza."
+    },
+    {
+     "testo": "L'emittente ridurrà la tua cedola per allinearla alle nuove norme di politica monetaria.",
+     "spiegazione": "Errato. L'emittente è contrattualmente vincolato a pagare la cedola fissa pattuita al momento dell'emissione."
+    },
+    {
+     "testo": "Continuerai a incassare la cedola pattuita ogni anno e a scadenza ti verrà rimborsato l'intero valore nominale di 1.000 euro, salvo default dello Stato.",
+     "spiegazione": "Corretto. Mantenere l'obbligazione fino a scadenza ti isola dal rischio di prezzo (fluttuazioni di mercato), lasciando attivo soltanto il rischio di credito dell'emittente."
+    },
+    {
+     "testo": "La scadenza del titolo verrà prolungata automaticamente dalla Banca Centrale per bilanciare la perdita di valore.",
+     "spiegazione": "Errato. La data di scadenza di una determinata obbligazione è fissa e inviolabile nei termini di contratto originali."
+    }
+   ],
+   "indice_corretta": 2
+  }
+ ],
+ "simulazione": {
+  "titolo": "Esperimento didattico: Osservare la sensibilità del prezzo al variare dei tassi tramite l'ETF TLT",
+  "obiettivo_didattico": "Comprendere concretamente come le aspettative sui tassi d'interesse impattano il prezzo di mercato di un paniere di obbligazioni a lungo termine senza impiegare capitale reale.",
+  "strumento_da_osservare": {
+   "nome": "iShares 20+ Year Treasury Bond ETF",
+   "ticker": "TLT",
+   "perche_adatto": "TLT è uno degli strumenti trasparenti e altamente liquidi più usati al mondo per osservare l'andamento dei prezzi dei titoli del Tesoro americano a lunghissima scadenza (oltre i 20 anni). Essendo un asset a lungo termine, la sua sensibilità ai tassi è marcata e facilmente osservabile."
+  },
+  "passi": [
+   "Apri una piattaforma grafica gratuita (es. TradingView) e cerca il ticker 'TLT'.",
+   "Attiva il conto demo (paper trading) senza registrare ordini con denaro reale.",
+   "Trova il rendimento attuale del titolo di Stato USA a 10 anni (ticker 'US10Y') o ascolta le ultime notizie sulla direzione dei tassi dichiarata dalla Federal Reserve.",
+   "Aggiungi TLT alla lista dei titoli sotto osservazione senza eseguire operazioni reali di acquisto o vendita."
+  ],
+  "guida_all_ipotesi": "Formula una supposizione scritta: 'Se nelle prossime settimane i mercati inizieranno ad attendersi un rialzo dei tassi da parte delle Banche Centrali, ipotizzo che il prezzo dell'ETF TLT subirà una contrazione. Viceversa, se ci si attende un taglio dei tassi, il prezzo di TLT dovrebbe mostrare un apprezzamento.'",
+  "guida_all_invalidazione": "La tua ipotesi sulla dinamica di prezzo sarà invalidata se, a fronte di un forte incremento dei rendimenti dei titoli di Stato, il prezzo dell'ETF TLT dovesse salire anziché scendere. In tal caso, dovrai analizzare quali altri fattori di mercato (es. panico azionario che spinge gli acquisti verso asset rifugio) hanno sovrastato il semplice fattore tasso.",
+  "cosa_registrare": [
+   "Il prezzo iniziale dell'ETF TLT sul grafico.",
+   "Il livello dei rendimenti obbligazionari di riferimento all'inizio dell'osservazione (US10Y o US30Y).",
+   "Le notizie principali relative a comunicati della Banca Centrale uscite durante la settimana."
+  ],
+  "giorni_prima_della_revisione": 14,
+  "domande_di_revisione": [
+   "Come si è mosso il prezzo dell'ETF TLT negli ultimi 14 giorni rispetto all'andamento generale delle aspettative sui tassi?",
+   "Se il prezzo dell'ETF è sceso, l'entità del calo è stata maggiore o minore rispetto all'andamento delle azioni tradizionali?",
+   "In che modo la lunga scadenza dei titoli contenuti nel fondo TLT ha amplificato la sua volatilità quotidiana?"
+  ],
+  "avvertenza": "L'esercitazione ha fini esclusivamente didattici. L'utilizzo di un conto demo (paper trading) elimina qualsiasi componente emotiva e rischio finanziario reale. Non costituisce in alcun modo una raccomandazione di investimento o un segnale operativo su strumenti reali."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "Un'obbligazione è un contratto di prestito in cui il sottoscrittore veste i panni di creditore e riceve cedole periodiche più il rimborso del capitale alla data di scadenza.",
+   "Tra i tassi d'interesse di mercato e il prezzo delle obbligazioni esistenti vige una relazione rigorosamente inversa: all'aumentare dei tassi i prezzi diminuiscono, e viceversa.",
+   "I titoli di Stato privi di rischio di default teorico contengono comunque un rischio di prezzo importante se venduti prima della scadenza durante contesti di tassi in crescita.",
+   "Il Rendimento a Scadenza (YTM) rappresenta la vera misura del rendimento totale di un'obbligazione in quanto include sia la cedola sia le oscillazioni di prezzo rispetto al valore nominale."
+  ],
+  "domanda_di_riflessione": "Se fossi un investitore con un orizzonte temporale di soli 2 anni e avessi la necessità matematica di utilizzare tutto il tuo capitale per acquistare una casa allo scadere del biennio, sceglieresti di acquistare un'obbligazione con scadenza a 30 anni basandoti unicamente sul fatto che offre una cedola più alta? Quali rischi specifici correresti?"
+ },
+ "modulo": 6,
+ "area": "Strumenti",
+ "generata_il": "2026-11-24",
+ "modello": "gemini-3.6-flash"
+}

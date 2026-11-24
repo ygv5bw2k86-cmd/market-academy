@@ -21,19 +21,19 @@
   "id": 4,
   "area": "Rischio",
   "titolo": "Rischio e rendimento: il compromesso fondamentale",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 5,
   "area": "Macro",
   "titolo": "Banche centrali e tassi d'interesse",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 6,
   "area": "Strumenti",
   "titolo": "Obbligazioni: prestare denaro e come si muovono i prezzi",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 7,
