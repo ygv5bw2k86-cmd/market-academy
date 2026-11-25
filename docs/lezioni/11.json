@@ -1,0 +1,228 @@
+{
+ "titolo": "Modulo 11: Diversificazione e correlazione",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nelle lezioni precedenti abbiamo esaminato la natura delle azioni, il funzionamento delle obbligazioni e il ruolo centrale dei tassi d interesse e dell inflazione. Abbiamo anche stabilito il principio fondamentale per cui a un maggiore rendimento potenziale corrisponde un rischio piu elevato. In questo modulo affrontiamo uno dei concetti piu cruciali dell intera finanza moderna: la gestione del rischio attraverso la diversificazione e lo studio della correlazione. Capire come interagiscono tra loro titoli diversi permette di costruire strutture piu stabili, distinguendo cio che e controllabile dall investitore da cio che e inerente al sistema economico complessivo.",
+  "sezioni": [
+   {
+    "titolo": "Rischio specifico e rischio sistematico",
+    "testo": "Per comprendere la diversificazione occorre prima separare il rischio in due componenti distinte. Il rischio specifico, chiamato anche rischio idiosincratico, riguarda eventi che colpiscono esclusivamente un singola azienda o un singolo emittente. Esempi tipici sono un difetto di fabbricazione in un nuovo prodotto, il cambio inatteso di un amministratore delegato o un errore nella gestione contabile di un impresa. Se possedete solo le azioni di quell azienda, il vostro capitale soffrira l intero impatto negativo di tale evento. Tuttavia, se distribuite il vostro capitale su centinaia di aziende operanti in settori differenti, l eventuale fallimento o calo di una singola impresa sara compensato dalla stabilita o dalla crescita delle altre. Il rischio specifico puo quindi essere quasi del tutto eliminato aumentandola varieta degli attivi in portafoglio. Il rischio sistematico, invece, riguarda l intero sistema economico o un intero mercato. Tra le sue cause figurano guerre, crisi sanitarie globali, shock petroliferi o decisioni improvvise sulle politiche dei tassi d interesse da parte delle banche centrali. Nessun livello di diversificazione azionaria o obbligazionaria puo cancellare del tutto il rischio sistematico, poiche tali eventi colpiscono l economia nel suo insieme."
+   },
+   {
+    "titolo": "La correlazione matematica e concettuale",
+    "testo": "Inserire piu titoli in un portafoglio non basta per diversificare in modo efficace. Se acquistate dieci aziende diverse, ma tutte operanti nel settore della tecnologia software negli Stati Uniti, non state eliminando davvero il rischio specifico: se quel settore subisce una contrazione contabile o regolatoria, tutte e dieci le aziende tendono a calare contemporaneamente. Qui entra in gioco la correlazione. La correlazione e una misura statistica che indica il modo in cui due strumenti finanziari si muovono l uno rispetto all altro. Varia su una scala che va da piu uno a meno uno. Una correlazione pari a piu uno indica che due titoli si muovono nella stessa identica direzione e proporzione. Una correlazione pari a zero indica che i movimenti dei due titoli sono completamente indipendenti l uno dall altro. Una correlazione pari a meno uno significa che i due titoli si muovono in direzioni perfettamente opposte: quando uno sale, l altro scende della stessa intensita relativa. In termini didattici, la vera diversificazione si ottiene combinando strumenti che presentano tra loro una correlazione bassa o negativa."
+   },
+   {
+    "titolo": "Il rischio di concentrazione",
+    "testo": "Il rischio di concentrazione e l esatto opposto della diversificazione. Si verifica quando una quota sproporzionata del capitale e esposta a un unico fattore di rischio. Questo fattore puo essere una singola azienda, un singolo settore industriale, una singola nazione o perfino una singola valuta. Un errore comune dei principianti e il bias di familiarita, gia accennato nel modulo sui comportamenti cognitivi: investire gran parte dei propri risparmi nelle azioni della societa per cui si lavora o soltanto nelle obbligazioni del proprio stato nazionale. In questo modo si sovrappongono il rischio lavorativo e il rischio finanziario. Se quel settore o quel paese attraversa una crisi profonda, l investitore rischia di perdere contemporaneamente l impiego e una quota rilevante del proprio patrimonio."
+   },
+   {
+    "titolo": "I limiti matematici e pratici della diversificazione",
+    "testo": "E essenziale comprendere che la diversificazione non e una formula magica che azzera le perdite. Innanzitutto, aggiungere elementi a un portafoglio riduce il rischio specifico in maniera marginale decrescente: passare da 1 a 20 titoli ben scelti riduce drasticamente il rischio, mentre passare da 500 a 1000 titoli produce un beneficio infinitesimale nel contenimento della volatilita. In secondo luogo, la correlazione tra gli asset non e un valore statico scolpito nella pietra. Cambia nel tempo in base al contesto macroeconomico. Durante le fasi di grave panico finanziario o di prosciugamento della liquidita, le correlazioni tra asset rischiosi tendono a salire verso piu uno. Gli investitori vendono cio che possiedono per liquidare le proprie posizioni o coprire i debiti, facendo crollare contemporaneamente mercati che in fasi ordinarie si muovevano in modo del tutto indipendente."
+   }
+  ],
+  "analogia": "Immaginate di possedere una fattoria. Se piantate esclusivamente il grano, il vostro intero reddito dipendera dalle condizioni atmosferiche perfette per quel tipo di spiga. Un estate eccezionalmente piovosa distruggera l intero raccolto. Se invece decidete di coltivare in parte il grano e in parte il riso, la pioggia abbondante che danneggia il grano favorira la crescita del riso. Avete cosi ridotto la volatilita del vostro reddito complessivo. Se tuttavia un asteroide o una gelata globale colpisce l intero pianeta, sia il grano che il riso subiranno danni: questo evento globale rappresenta il rischio sistematico, incapace di essere azzerato dalla sola varieta delle colture.",
+  "errori_comuni": [
+   "Credere che possedere venti titoli appartenenti allo stesso settore sia una diversificazione efficace.",
+   "Pensare che un portafoglio diversificato debba generare guadagni in qualsiasi condizione di mercato.",
+   "Considerare il valore della correlazione statistica tra due strumenti come una costante immutabile che non variera mai in futuro."
+  ],
+  "glossario": [
+   {
+    "termine": "Correlazione",
+    "definizione": "Misura statistica che indica il grado e la direzione in cui i prezzi di due strumenti finanziari si muovono in modo congiunto, compresa tra il valore di piu uno e meno uno."
+   },
+   {
+    "termine": "Rischio specifico",
+    "definizione": "La quota di rischio legata esclusivamente a fattori interni a un singolo emittente o azienda, riducibile mediante la diversificazione."
+   },
+   {
+    "termine": "Rischio sistematico",
+    "definizione": "La quota di rischio intrinseca all intero sistema economico o al mercato globale, non eliminabile attraverso la selezione di titoli diversi."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Aumento inatteso dell inflazione globale e rapido rialzo dei tassi d interesse da parte delle banche centrali.",
+  "catena": [
+   {
+    "passo": "Pressione inflazionistica eccezionale",
+    "spiegazione": "L inflazione cresce a ritmi superiori alle attese, erodendo il potere d acquisto della moneta e alterando le previsioni degli operatori economici."
+   },
+   {
+    "passo": "Intervento restrittivo della banca centrale",
+    "spiegazione": "Per contrastare l inflazione, la banca centrale incrementa con decisione i tassi d interesse di riferimento."
+   },
+   {
+    "passo": "Aumento dei tassi di rendimento di mercato",
+    "spiegazione": "I rendimenti richiesti per prestare capitale salgono su tutte le scadenze."
+   },
+   {
+    "passo": "Calo contemporaneo del valore delle obbligazioni e delle azioni",
+    "spiegazione": "I prezzi delle obbligazioni esistenti scendono per adeguarsi ai nuovi tassi piu alti. Parallelamente, i tassi piu alti aumentano il costo del debito per le aziende e riducono il valore attuale dei loro flussi di cassa futuri, spingendo al ribasso le quotazioni azionarie."
+   },
+   {
+    "passo": "Rottura temporanea della correlazione negativa",
+    "spiegazione": "Gli asset che solitamente si bilanciavano a vicenda scendono in parallelo, rendendo inefficace la diversificazione tradizionale basata unicamente sul bilanciamento tra azioni e obbligazioni."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni a elevata crescita",
+    "effetto": "Marcata contrazione del valore di mercato",
+    "motivo": "Il tasso di sconto applicato ai flussi di cassa previsti nel lontano futuro aumenta significativamente con i tassi alti."
+   },
+   {
+    "asset": "Obbligazioni a lungo termine",
+    "effetto": "Sensibile riduzione del prezzo",
+    "motivo": "I titoli a reddito fisso con scadenze lontane sono i piu penalizzati quando i tassi di interesse salgono rapidamente."
+   },
+   {
+    "asset": "Portafogli bilanciati tradizionali",
+    "effetto": "Drawdown contemporaneo di piu componenti",
+    "motivo": "La variabile dominante del ciclo diventa il costo del denaro, che impatta negativamente sia il capitale di rischio che il capitale di debito."
+   }
+  ],
+  "cosa_puo_andare_storto": "La catena logica assume che l unico fattore guida sia lo shock sui tassi. Tuttavia, se l economia entra simultaneamente in una recesione estremamente profonda senza inflazione, la banca centrale potrebbe essere costretta a tagliare di nuovo i tassi, facendo ripartire il prezzo delle obbligazioni mentre le azioni continuano a scendere. La risposta dei mercati dipende sempre dalla forza relativa dei diversi fattori macroeconomici in gioco."
+ },
+ "caso_studio": {
+  "titolo": "Il 2022 e il crollo simultaneo di azioni e obbligazioni",
+  "periodo": "Anno 2022",
+  "contesto": "Per diversi decenni, una delle strategie di costruzione del portafoglio piu diffuse e stata l allocazione bilanciata, tipicamente composta al sessanta percento da azioni globali e al quaranta percento da obbligazioni governative. L assunto di base era che le obbligazioni avrebbero agito da cuscinetto durante i ribassi azionari: nelle fasi di contrazione economica, le azioni calavano ma i tassi venivano tagliati, spingendo in alto i prezzi dei titoli di Stato.",
+  "cosa_e_successo": "Nel corso del 2022, in risposta a un inflazione che ha raggiunto picchi elevati in America ed Europa, le principali banche centrali hanno alzato i tassi di interesse a un ritmo estremamente sostenuto. Questo fenomeno ha colpito contemporaneamente i prezzi delle azioni e delle obbligazioni. L indice S&P 500 ha chiuso l anno con una perdita di circa il diciannove percento, mentre gli indici obbligazionari a lungo termine hanno subito perdite comprese tra il quindici e il venti percento. L annata e risultata una delle rarissime fasi storiche in cui sia la componente di rischio azionario sia la componente di copertura obbligazionaria hanno registrato cali consistenti a due cifre nello stesso momento.",
+  "legame_con_il_concetto": "Questo evento dimostra empiricamente due limiti fondamentali: la correlazione tra azioni e obbligazioni non e costante e puo virare in positivo quando l elemento scatenante e l inflazione o la liquidita; inoltre, la diversificazione riduce il rischio specifico ma non mette al riparo dal rischio sistematico causato da profondi mutamenti di politica monetaria.",
+  "nota_sui_dati": "Le percentuali riportate indicano le variazioni medie annuali approssimative dei principali indici rappresentativi del mercato americano ed europeo nel 2022 e servono a illustrare la direzione del fenomeno senza pretesa di precisione assoluta su ogni singolo strumento esistente."
+ },
+ "quiz": [
+  {
+   "domanda": "Quale tra le seguenti affermazioni descrive correttamente la differenza tra rischio specifico e rischio sistematico?",
+   "opzioni": [
+    {
+     "testo": "Il rischio specifico riguarda l intera economia, mentre il rischio sistematico colpisce solo un settore.",
+     "spiegazione": "Errato. E l esatto contrario: il rischio specifico e legato alla singola azienda, quello sistematico all intero sistema."
+    },
+    {
+     "testo": "Il rischio specifico puo essere ridotto diversificando, mentre il rischio sistematico non puo essere eliminato semplicemente aggiungendo piu titoli al portafoglio.",
+     "spiegazione": "Corretto. La diversificazione elimina le fragilita idiosincratiche dei singoli titoli ma lascia invariata l esposizione agli shock globali di mercato."
+    },
+    {
+     "testo": "Entrambi i rischi possono essere azzerati completamente se si acquistano piu di cinquanta azioni diverse.",
+     "spiegazione": "Errato. Nessun numero di azioni puo azzerare il rischio sistematico legato all economia globale."
+    },
+    {
+     "testo": "Il rischio sistematico riguarda unicamente le obbligazioni, mentre il rischio specifico riguarda solo le azioni.",
+     "spiegazione": "Errato. Entrambi i tipi di rischio si applicano sia al mercato azionario sia a quello obbligazionario."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Se due asset finanziari hanno un coefficiente di correlazione pari a meno zero virgola otto (-0,8), cosa significa?",
+   "opzioni": [
+    {
+     "testo": "I due asset si muovono quasi sempre nella stessa direzione con la stessa intensita.",
+     "spiegazione": "Errato. Questo accadrebbe con una correlazione prossima a piu uno."
+    },
+    {
+     "testo": "I due asset tendono a muoversi in direzioni opposte nella maggior parte delle condizioni di mercato.",
+     "spiegazione": "Corretto. Un valore negativo vicino a meno uno indica che all aumentare del valore di un asset, l altro tende a scendere."
+    },
+    {
+     "testo": "Non vi e alcuna relazione logica o statistica tra i movimenti dei due titoli.",
+     "spiegazione": "Errato. L assenza di relazione e indicata da una correlazione vicina a zero."
+    },
+    {
+     "testo": "Uno dei due asset garantisce un rendimento negativo fisso dell otto percento.",
+     "spiegazione": "Errato. La correlazione misura il legame tra i movimenti di prezzo, non esprime un rendimento percentuale."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Per quale motivo l acquisto di dieci aziende attive nello stesso settore tecnologico non costituisce una reale diversificazione?",
+   "opzioni": [
+    {
+     "testo": "Perche tutte le aziende appartengono al medesimo paese di origine.",
+     "spiegazione": "Errato. Anche se avessero sedi diverse, condividerebbero comunque le dinamiche fondamentali di quel singolo settore."
+    },
+    {
+     "testo": "Perche le aziende operanti nello stesso settore sono soggette agli stessi fattori di rischio specifici del settore e mostrano spesso un elevata correlazione positiva.",
+     "spiegazione": "Corretto. Se cambia la regolamentazione o la domanda di quel settore, tutti i dieci titoli ne risentiranno contemporaneamente."
+    },
+    {
+     "testo": "Perche la legge vieta di acquistare piu di tre aziende dello stesso settore.",
+     "spiegazione": "Errato. Non esiste alcun divieto normativo di questo genere per un investitore."
+    },
+    {
+     "testo": "Perche le aziende tecnologiche non emettono mai dividendi al pubblico.",
+     "spiegazione": "Errato. La distribuzione di dividendi non c entra con la definizione statistica di diversificazione."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Cosa e accaduto alla correlazione tra azioni e obbligazioni durante l anno 2022?",
+   "opzioni": [
+    {
+     "testo": "E rimasta negativamente correlata, permettendo ai portafogli di rimanere del tutto stabili.",
+     "spiegazione": "Errato. Nel 2022 entrambe le componenti hanno registrato ribassi significativi."
+    },
+    {
+     "testo": "E passata a valori negativi estremi, facendo salire le obbligazioni mentre le azioni crollavano.",
+     "spiegazione": "Errato. Le obbligazioni non sono salite, ma sono scese insieme alle azioni."
+    },
+    {
+     "testo": "E diventata positiva, in quanto il rapido aumento dei tassi causato dall inflazione ha spinto al ribasso sia il valore delle azioni sia quello delle obbligazioni.",
+     "spiegazione": "Corretto. L elemento scatenante dei tassi ha impattato negativamente entrambi i mercati contemporaneamente."
+    },
+    {
+     "testo": "E azzerata completamente l inflazione, portando tutti i titoli di borsa a nuovi massimi storici.",
+     "spiegazione": "Errato. L inflazione era particolarmente elevata e i mercati hanno subito un drawdown esteso."
+    }
+   ],
+   "indice_corretta": 2
+  }
+ ],
+ "simulazione": {
+  "titolo": "Analisi visiva delle traiettorie di due asset non omogenei",
+  "obiettivo_didattico": "Osservare in un conto di simulazione grafica (paper trading o charting su TradingView) il comportamento comparato di un ETF azionario ampio e un ETF obbligazionario a lungo termine durante le variazioni di mercato.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust e iShares 20+ Year Treasury Bond ETF",
+   "ticker": "SPY e TLT",
+   "perche_adatto": "Si tratta di due strumenti altamente liquidi e trasparenti, rappresentativi rispettivamente dell azionario statunitense a grande capitalizzazione e delle obbligazioni di Stato americane a lungo termine."
+  },
+  "passi": [
+   "Aprire la piattaforma di simulazione grafica e caricare il grafico del fondo SPY con cadenza temporale giornaliera.",
+   "Aggiungere sullo stesso grafico il confronto diretto con lo strumento TLT tramite la funzione di sovrapposizione percentuale.",
+   "Selezionare un intervallo di tempo storico recente di almeno sei mesi o un anno.",
+   "Identificare i periodi in cui le due linee si muovono in senso opposto e quelli in cui si muovono nella stessa direzione."
+  ],
+  "guida_all_ipotesi": "Formulare un ipotesi preliminare: in fasi di volatilita ordinaria guidata dalle notizie aziendali, ci si attende una correlazione contenuta o negativa; in fasi di forte revisione delle aspettative sui tassi d interesse, le due traiettorie potrebbero mostrare momenti di correlazione positiva.",
+  "guida_all_invalidazione": "L ipotesi di una prevalente correlazione negativa e invalidata se si nota che per settimane consecutive i due strumenti salgono o scendono insieme spinti dallo stesso fattore macroeconomico.",
+  "cosa_registrare": [
+   "I giorni in cui SPY scende mentre TLT sale.",
+   "I giorni in cui sia SPY sia TLT chiudono la giornata in calo significativo.",
+   "Gli eventuali annunci di politica monetaria avvenuti in quelle date."
+  ],
+  "giorni_prima_della_revisione": 14,
+  "domande_di_revisione": [
+   "Nelle due settimane di osservazione, gli strumenti hanno mostrato una relazione di movimento prevalentemente opposta o concordante?",
+   "Quali notizie macroeconomiche hanno coinciso con i movimenti piu marcati di entrambi i titoli?",
+   "Come avrebbe reagito la volatilita complessiva di un portafoglio teorico diviso a meta tra questi due strumenti rispetto a uno concentrato solo su SPY?"
+  ],
+  "avvertenza": "Questa esercitazione ha valore esclusivamente analitico e didattico. L osservazione su conto simulato serve a sviluppare la comprensione delle dinamiche di mercato e non costituisce in alcun modo un consiglio operativo o una sollecitazione all investimento reale."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "La diversificazione efficace riduce o elimina il rischio specifico di singole aziende o settori, ma non puo azzerare il rischio sistematico di mercato.",
+   "La correlazione misura come due asset variano insieme: valori negativi o bassi aiutano a stabilizzare la dinamica di un portafoglio.",
+   "Il rischio di concentrazione si verifica quando troppo capitale e esposto a un unico fattore, nazione o settore economico.",
+   "Le correlazioni storiche non sono immutabili: in presenza di uno shock inflazionistico o sui tassi di interesse, come avvenuto nel 2022, asset diversi possono scendere contemporaneamente."
+  ],
+  "domanda_di_riflessione": "Se doveste valutare la sicurezza del vostro capitale, preferireste possedere cinque aziende del vostro settore lavorativo che conoscete benissimo o cinquecento aziende globali operanti in mercati che non avete mai visto di persona? Quale bias cognitivo potrebbe condizionare la vostra risposta?"
+ },
+ "modulo": 11,
+ "area": "Rischio",
+ "generata_il": "2026-11-25",
+ "modello": "gemini-3.6-flash"
+}

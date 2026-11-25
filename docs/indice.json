@@ -39,31 +39,31 @@
   "id": 7,
   "area": "Psicologia",
   "titolo": "Il tuo cervello contro il mercato: i bias cognitivi",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 8,
   "area": "Strumenti",
   "titolo": "ETF e fondi indicizzati",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 9,
   "area": "Strumenti",
   "titolo": "Indici di borsa: S&P 500, Nasdaq, MSCI World",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 10,
   "area": "Analisi",
   "titolo": "Come si legge un bilancio",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 11,
   "area": "Rischio",
   "titolo": "Diversificazione e correlazione",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 12,

@@ -1,0 +1,220 @@
+{
+ "titolo": "ETF e fondi indicizzati: comprendere la gestione passiva e i costi",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo esaminato la natura delle azioni e delle obbligazioni, oltre al rapporto fondamentale tra rischio e rendimento. Tuttavia, costruire un portafoglio acquistando decine o centinaia di singoli titoli richiede un'analisi complessa, molto tempo e costi transazionali elevati. Per superare questi ostacoli sono stati creati gli ETF e i fondi indicizzati, strumenti finanziari concepiti per offrire una diversificazione immediata consentendo di acquistare un intero paniere di titoli con un'unica operazione.",
+  "sezioni": [
+   {
+    "titolo": "Gestione attiva e gestione passiva",
+    "testo": "La differenza principale tra i fondi riguarda la filosofia di gestione. Un fondo a gestione attiva si avvale di un team di analisti e gestori che selezionano specifici titoli con l'obiettivo di superare il rendimento del mercato di riferimento. Al contrario, la gestione passiva non cerca di battere il mercato o di indovinare quali titoli andranno meglio. Il suo unico scopo e replicare fedelmente la composizione e la performance di un indice di mercato. Poiche la gestione passiva non richiede complessi processi di analisi umana continua, i suoi costi operative sono notevolmente piu bassi."
+   },
+   {
+    "titolo": "Come funziona un ETF e la replica di un indice",
+    "testo": "La sigla ETF sta per Exchange Traded Fund, ovvero un fondo d'investimento negoziato in borsa esattamente come se fosse una singola azione. Quando si acquista una quota di un ETF, si diventa proprietari pro-quota di tutti i titoli contenuti nel fondo. L'emittente dell'ETF compra le azioni o obbligazioni che compongono l'indice di riferimento (replica fisica) oppure usa strumenti derivati per tracciarne le variazioni (replica sintetica). In entrambi i casi, l'obiettivo didattico da comprendere e che l'andamento del prezzo dell'ETF seguira da vicino l'andamento del suo indice sottostante."
+   },
+   {
+    "titolo": "Il costo invisibile: il TER",
+    "testo": "Il TER, acronimo di Total Expense Ratio o indicatore di spesa totale, rappresenta la percentuale annua trattenuta dall'emittente per coprire le spese di gestione, amministrazione e custodia del fondo. Questo costo non viene addebitato con un bollettino sul conto, ma viene prelevato quotidianamente in modo impercettibile dal valore della quota del fondo. Anche se differenze dello 0.5% o dell'1% annuo possono sembrare irrilevanti a prima vista, sul lungo periodo riducono in modo significativo il capitale finale a causa del mancato effetto della capitalizzazione composta su quelle somme sottratte."
+   },
+   {
+    "titolo": "Destinazione dei proventi: accumulo o distribuzione",
+    "testo": "Le aziende contenute in un ETF possono staccare dividendi, cosi come le obbligazioni possono pagare cedole. Gli ETF gestiscono questi flussi di cassa in due modi distinti. Negli ETF a distribuzione, la liquidita generata dai dividendi viene accreditata periodicamente sul conto dell'investitore. Negli ETF ad accumulo, la gestione reinveste automaticamente quei proventi all'interno del fondo stesso per acquistare ulteriori titoli del paniere. Questo meccanismo aumenta direttamente il valore della singola quota senza generare un flusso di cassa immediato."
+   }
+  ],
+  "analogia": "Immaginiamo di voler preparare una macedonia. Possiamo andare al mercato, selezionare ogni singolo frutto uno per uno, pesarlo e pagare le singole commissioni alla cassa per ciascun frutto (acquisto di singole azioni). Oppure possiamo acquistare una vaschetta confezionata che contiene gia tutti i frutti tagliati nelle proporzioni esatte della ricetta standard (ETF passivo). Il piccolo costo di confezionamento della vaschetta corrisponde al TER del fondo.",
+  "errori_comuni": [
+   "Ritenere che la gestione attiva garantisca rendimenti migliori rispetto a quella passiva ignorando che la maggioranza dei fondi attivi sottoperforma il mercato nel lungo termine al netto dei costi.",
+   "Considerare irrilevante una differenza di costo annuo dello 0.50% o dell'1%, senza calcolare l'impatto cumulato su orizzonti temporali di dieci o venti anni.",
+   "Pensare che gli ETF ad accumulo perdano il valore dei dividendi staccati dalle aziende sottostanti anziche comprendere che viene reintegrato nel capitale del fondo."
+  ],
+  "glossario": [
+   {
+    "termine": "TER (Total Expense Ratio)",
+    "definizione": "La percentuale annua totale dei costi operativi e di gestione trattenuta dal fondo direttamente dal valore delle quote."
+   },
+   {
+    "termine": "Gestione passiva",
+    "definizione": "Strategia di investimento che mira a rispecchiare in modo esatto la composizione e le variazioni di un indice di mercato senza selezionare discrezionalmente i titoli."
+   },
+   {
+    "termine": "ETF ad accumulo",
+    "definizione": "Strumento finanziario che reinveste automaticamente i dividendi e i proventi incassati all'interno del fondo stesso per far crescere il capitale gestito."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Riduzione strutturale dei costi di gestione tramite il passaggio dai fondi tradizionali attivi agli ETF passivi",
+  "catena": [
+   {
+    "passo": "Riduzione delle spese di gestione",
+    "spiegazione": "L'investitore passa da un fondo attivo con costi annui del 2% a un ETF passivo con un TER dello 0.15%."
+   },
+   {
+    "passo": "Trattenuta annua inferiore",
+    "spiegazione": "A parita di rendimento lordo generato dal mercato sottostante, l'ETF trattiene una frazione molto piu piccola del capitale investito ogni anno."
+   },
+   {
+    "passo": "Maggiore capitale residuo",
+    "spiegazione": "La quota di denaro risparmiata sulle commissioni rimane all'interno del fondo e continua a generare potenziali rendimenti negli anni successivi."
+   },
+   {
+    "passo": "Effetto composto nel tempo",
+    "spiegazione": "Nell'arco di diversi decenni, i minori costi accumulati e reinvestiti creano un capitale netto finale considerevolmente piu alto per l'investitore."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "ETF su indici azionari ampi",
+    "effetto": "Rendimento netto piu aderente al mercato reale nel lungo periodo",
+    "motivo": "Il ridotto livello di spese annue limita la dispersione di rendimento tra l'indice e lo strumento."
+   },
+   {
+    "asset": "Fondi comuni a gestione attiva tradizionali",
+    "effetto": "Maggiore probabilita di sottoperformare l'indice di riferimento al netto dei costi",
+    "motivo": "Le commissioni elevate richiedono che il gestore batta costantemente il mercato solo per coprire i costi della propria struttura."
+   }
+  ],
+  "cosa_puo_andare_storto": "Un ETF riduce i costi e diversifica l'investimento, ma non elimina il rischio di mercato. Se l'indice di riferimento registra un calo, l'ETF subira una flessione equivalente a parita di altre condizioni. Inoltre, in fasi di estrema illiquidita dei mercati sottostanti, il prezzo dell'ETF in borsa puo temporaneamente scostarsi dal valore netto reale delle sue attività (NAV)."
+ },
+ "caso_studio": {
+  "titolo": "La nascita di SPY nel 1993 e la diffusione della gestione passiva",
+  "periodo": "Dal gennaio 1993 ad oggi",
+  "contesto": "Agli inizi degli anni Novanta, gli investitori al dettaglio interessati al mercato azionario statunitense dovevano fare affidamento su fondi comuni a gestione attiva sostenendo spese di gestione annue spesso superiori all'1.5% o commissioni di vendita elevate.",
+  "cosa_e_successo": "Nel gennaio del 1993 e stato quotato negli Stati Uniti il primo ETF moderno, il SPDR S&P 500 ETF Trust, noto con il ticker SPY. Il fondo nasceva con una struttura passiva mirata unicamente a tracciare l'indice S&P 500 a un costo estremamente contenuto. Nei decenni successivi, l'evidenza empirica ha mostrato che la stragrande maggioranza dei fondi attivi non e riuscita a superare le prestazioni di SPY al netto delle spese, determinando una migrazione storica di centinaia di miliardi di dollari verso gli strumenti passivi.",
+  "legame_con_il_concetto": "Il caso dimostra concretamente come la combinazione di replica passiva e costi ridotti (TER contenuto) consenta all'investitore di trattenere per se la maggior parte del rendimento generato dall'economia reale rispetto a strumenti attivi a costo elevato.",
+  "nota_sui_dati": "Le osservazioni sull'incapacita della maggior parte dei gestori attivi di battere i fondi indicizzati nel lungo periodo si basano sui dati storici raccolti dagli studi di settore come i report SPIVA."
+ },
+ "quiz": [
+  {
+   "domanda": "Qual e la differenza fondamentale tra la gestione attiva e la gestione passiva di un fondo?",
+   "opzioni": [
+    {
+     "testo": "La gestione attiva punta a battere il mercato selezionando i titoli, mentre quella passiva intende replicare l'andamento di un indice.",
+     "spiegazione": "Corretto. La gestione attiva cerca di sovraperformare l'indice di riferimento mediante scelte discrezionali, mentre la passiva traccia l'indice in modo automatico."
+    },
+    {
+     "testo": "La gestione attiva garantisce un rendimento positivo in ogni fase di mercato, mentre quella passiva puo subire perdite.",
+     "spiegazione": "Sbagliato. Nessuna forma di gestione garantisce rendimenti positivi e la gestione attiva puo subire perdite pari o superiori a quella passiva."
+    },
+    {
+     "testo": "La gestione passiva investe solo in obbligazioni statali, mentre quella attiva investe unicamente in azioni aziendali.",
+     "spiegazione": "Sbagliato. Sia la gestione passiva che quella attiva possono applicarsi a qualsiasi asset class, inclusi azioni e obbligazioni."
+    },
+    {
+     "testo": "La gestione attiva non applica commissioni di gestione, mentre la gestione passiva e estremamente costosa.",
+     "spiegazione": "Sbagliato. E esattamente l'opposto: la gestione attiva richiede strutture di analisi costose, mentre la passiva ha spese operative molto basse."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Che cosa rappresenta il parametro TER (Total Expense Ratio) in un ETF?",
+   "opzioni": [
+    {
+     "testo": "La tassa sulle plusvalenze che lo Stato applica direttamente sulle vendite dell'ETF.",
+     "spiegazione": "Sbagliato. Il TER e un costo di gestione interno al fondo e non ha alcuna relazione con le imposte fiscali statali."
+    },
+    {
+     "testo": "La commissione che la banca o il broker addebita al momento dell'ordine di acquisto.",
+     "spiegazione": "Sbagliato. Le commissioni di intermediazione del broker sono separate e indipendenti dai costi interni dell'ETF definiti dal TER."
+    },
+    {
+     "testo": "La percentuale annua trattenuta dal fondo sul patrimonio gestito per coprire i costi operativi.",
+     "spiegazione": "Corretto. Il TER indica la spesa annua totale incassata dall'emittente per la gestione e la manutenzione del fondo."
+    },
+    {
+     "testo": "Il rendimento minimo annuo assicurato dall'emittente dell'ETF all'investitore.",
+     "spiegazione": "Sbagliato. Il TER e una voce di costo e non una garanzia di rendimento."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Come gestisce i dividendi delle azioni sottostanti un ETF ad accumulo?",
+   "opzioni": [
+    {
+     "testo": "Li accredita direttamente sul conto corrente dell'investitore con cadenza trimestrale.",
+     "spiegazione": "Sbagliato. Questa e la modalita di funzionamento degli ETF a distribuzione, non di quelli ad accumulo."
+    },
+    {
+     "testo": "Li reinveste automaticamente acquistando ulteriori titoli e incrementando il valore del fondo.",
+     "spiegazione": "Corretto. Gli ETF ad accumulo trattennero i proventi per reinvestirli nel fondo stesso, facendo crescere il valore unitario della quota."
+    },
+    {
+     "testo": "Li trattiene integralmente per pagare le sanzioni amministrative del fondo.",
+     "spiegazione": "Sbagliato. I dividendi appartengono agli investitori e vengono reinvestiti nel fondo per aumentarne il valore complessivo."
+    },
+    {
+     "testo": "Li converte in valuta estera conservandoli come liquidita non investita.",
+     "spiegazione": "Sbagliato. I proventi vengono reinvestiti negli asset previsti dall'indice per mantenere la piena replica del mercato."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Se un indice azionario ampiamente seguito crolla del 15% in un mese, cosa accade a un ETF passivo che replica quell'indice?",
+   "opzioni": [
+    {
+     "testo": "Rimane invariato grazie ai meccanismi di protezione interna della gestione passiva.",
+     "spiegazione": "Sbagliato. La gestione passiva non protegge dai cali di mercato, in quanto il suo unico obiettivo e rispecchiare l'indice."
+    },
+    {
+     "testo": "Aumenta del 15% per compensare le perdite subite dall'indice di riferimento.",
+     "spiegazione": "Sbagliato. Un ETF passivo tradizionale si muove nella stessa direzione dell'indice sottostante."
+    },
+    {
+     "testo": "Registra una flessione di circa il 15%, rispecchiando l'andamento del sottostante.",
+     "spiegazione": "Corretto. A parita di altre condizioni, l'ETF passivo replica accuratamente il calo dell'indice di riferimento."
+    },
+    {
+     "testo": "Viene chiuso e liquidato immediatamente dall'emittente per evitare ulteriori perdite.",
+     "spiegazione": "Sbagliato. Le oscillazioni ordinarie di mercato non causano la chiusura straordinaria di un fondo passivo."
+    }
+   ],
+   "indice_corretta": 2
+  }
+ ],
+ "simulazione": {
+  "titolo": "Osservazione visiva della replica di un ETF su conto simulato",
+  "obiettivo_didattico": "Verificare empiricamente l'allineamento tra un ETF passivo a elevata liquidita e il suo indice sottostante, comprendendo la struttura dei costi senza assumere rischi finanziari.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "perche_adatto": "E l'ETF piu grande e liquido al mondo per la replica dell'indice S&P 500, ideale per osservare l'impatto della replica passiva priva di disallineamenti significativi."
+  },
+  "passi": [
+   "Apri la piattaforma TradingView e seleziona l'ambiente di prova senza impiegare capitale reale.",
+   "Inserisci nel grafico il ticker SPY e aggiungi a confronto il grafico dell'indice S&P 500 (ticker SPX).",
+   "Esamina la scheda informativa ufficiale dello strumento per individuare la voce relativa al TER e la tipologia di gestione dei dividendi.",
+   "Registra le variazioni percentuali giornaliere dell'ETF e dell'indice per valutare la precisione con cui lo strumento replica il mercato sottostante."
+  ],
+  "guida_all_ipotesi": "Formula la seguente ipotesi didattica: nell'arco di cinque sedute di borsa, la variazione percentuale dell'ETF SPY sara quasi sovrapponibile a quella dell'indice S&P 500, evidenziando uno scostamento minimo legato unicamente alla frazione giornaliera dei costi di gestione e al meccanismo di asta.",
+  "guida_all_invalidazione": "L'ipotesi sara smentita se si dovesse riscontrare una differenza marcata (superiore a qualche decimo di punto percentuale) tra il rendimento dell'ETF e quello dell'indice in giornate di normale operativita.",
+  "cosa_registrare": [
+   "Data e ora della misurazione",
+   "Prezzo dell'ETF SPY e valore dell'indice S&P 500",
+   "Variazione percentuale rispetto alla chiusura precedente di entrambi gli strumenti",
+   "TER dichiarato nella scheda informativa dello strumento"
+  ],
+  "giorni_prima_della_revisione": 5,
+  "domande_di_revisione": [
+   "L'andamento dell'ETF ha rispecchiato accuratamente quello dell'indice come ipotizzato?",
+   "Quali differenze pratiche hai notato tra la negoziazione di un ETF e l'osservazione diretta dell'indice scomputato dai costi?",
+   "Considerando il TER dello strumento osservato, come influirebbe quel costo cumulato su un orizzonte di venti anni?"
+  ],
+  "avvertenza": "Questa attivita si svolge su un conto simulato a fini didattici. Il paper trading serve unicamente a comprendere la meccanica degli strumenti senza comportare rischi reali né replicare l'impatto psicologico dell'investimento con denaro vero."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "Gli ETF e i fondi indicizzati offrono diversificazione immediata consentendo di acquistare un intero paniere di titoli con un'unica operazione.",
+   "La gestione passiva mira a tracciare un indice anziche tentare di superarlo, riducendo le spese operative a beneficio dell'investitore.",
+   "Il TER misura il costo percentuale annuo che incide in modo composto sui rendimenti di lungo periodo.",
+   "Gli ETF ad accumulo reinvestono automaticamente i proventi nel fondo, mentre quelli a distribuzione erogano la liquidita agli investitori."
+  ],
+  "domanda_di_riflessione": "Se due ETF diversi replicano lo stesso identico indice di mercato, quali elementi di analisi valuteresti per confrontarli oltre al semplice valore del TER?"
+ },
+ "modulo": 8,
+ "area": "Strumenti",
+ "generata_il": "2026-11-25",
+ "modello": "gemini-3.6-flash"
+}

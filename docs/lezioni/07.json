@@ -1,0 +1,227 @@
+{
+ "titolo": "Modulo 7: Il tuo cervello contro il mercato: i bias cognitivi",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo esaminato la struttura logica dei mercati: cosa sono le azioni, come funzionano i tassi di interesse e quale relazione lega rischio e rendimento. Tutti questi modelli teorici si basano su un presupposto implicito: che gli operatori economici agiscano sempre in modo perfettamente razionale, soppesando costi, benefici e probabilità matematiche. Nel mondo reale, tuttavia, i mercati non sono gestiti da algoritmi impassibili, ma da esseri umani guidati da emozioni, abitudini mentali ed errori sistematici di giudizio noti come bias cognitivi. Il nostro cervello si è evoluto per garantire la sopravvivenza fisica nella savana, sviluppando scorciatoie di pensiero utilissime per fuggire da un predatore, ma spesso disastrose quando applicate alla gestione del capitale. In questa lezione analizzeremo quattro trappole psicologiche fondamentali: l'avversione alle perdite, l'eccesso di fiducia, la paura di restare esclusi (FOMO) e l'effetto gregge. Comprendere queste dinamiche non serve a prevedere il futuro, ma a riconoscere le forze invisibili che spingono a prendere decisioni irrazionali proprio nei momenti più critici.",
+  "sezioni": [
+   {
+    "titolo": "L'avversione alle perdite e l'asimmetria del dolore",
+    "testo": "Gli psicologi Daniel Kahneman e Amos Tversky hanno dimostrato che gli esseri umani non valutano guadagni e perdite con lo stesso metro di misura. Il dolore psicologico associato a una perdita economica è stimato essere circa il doppio rispetto al piacere provato per un guadagno di pari entità. Perdere 1.000 euro genera un impatto emotivo molto più violento della soddisfazione di guadagnarne 1.000. Sui mercati, questa asimmetria produce comportamenti controproducenti. Quando un investimento perde valore, l'investitore spesso rifiuta di vendere per non trasformare una perdita teorica (sulla carta) in una perdita reale (contabilizzata sul conto). Si tende così a trattenere titoli in declino strutturale, sperando disperatamente di tornare in pareggio, mentre si vendono troppo in fretta le posizioni in guadagno solo per incassare subito la sensazione gratificante del profitto. In economia comportamentale questo comportamento è noto anche come effetto disposizione."
+   },
+   {
+    "titolo": "L'eccesso di fiducia (Overconfidence)",
+    "testo": "L'eccesso di fiducia è la tendenza a sovrastimare le proprie capacità, le proprie conoscenze e l'accuratezza delle proprie previsioni. Se chiedessimo a un gruppo di automobilisti se guidano meglio della media, circa l'ottanta per cento risponderebbe di sì, il che è statisticamente impossibile. Sui mercati finanziari, l'eccesso di fiducia si manifesta con particolare forza dopo una serie di operazioni fortunate: l'investitore attribuisce i guadagni alla propria presunta bravura o intuito, ignorando del tutto il ruolo della fortuna o di un mercato complessivamente rialzista. La conseguenza tipica è l'assunzione di rischi eccessivi, una concentrazione sproporzionata del capitale su singole idee e una frequenza esagerata di compravendite (overtrading), che finisce per erodere il rendimento attraverso costi di transazione e decisioni affrettate."
+   },
+   {
+    "titolo": "La FOMO: la paura di restare esclusi",
+    "testo": "La sigla FOMO sta per Fear Of Missing Out, ovvero la paura angosciante di perdere un'opportunità di guadagno che altri stanno cogliendo. Questa emozione scatta tipicamente quando il prezzo di un'attività finanziaria sale in modo rapido e vistoso, attirando l'attenzione dei media generalisti, dei colleghi o dei conoscenti. Vedere persone comuni arricchirsi apparentemente senza sforzo attiva centri cerebrali legati all'invidia sociale e all'ansia da esclusione. L'investitore colpito da FOMO abbandona qualsiasi criterio di valutazione fondamentale (come il reale valore economico dell'azienda, concetto che approfondiremo nei moduli successivi) e compra ai massimi di mercato, spinto unicamente dal timore di restare indietro. L'acquisto non avviene perché il titolo costa poco o ha prospettive solide, ma semplicemente perché il prezzo sta salendo."
+   },
+   {
+    "titolo": "L'effetto gregge (Herd Behavior)",
+    "testo": "L'effetto gregge è la tendenza a conformare le proprie azioni a quelle della maggioranza, disattivando il giudizio critico individuale. Da una prospettiva evolutiva, seguire il gruppo ha garantito la sopravvivenza della specie umana: se tutti corrono nella stessa direzione, è probabile che ci sia un pericolo reale ed è saggio imitarli senza fermarsi a riflettere. Nei mercati finanziari, tuttavia, questa dinamica porta alla formazione di bolle speculative e di crolli disordinati (panico venditore). Durante una fase euforica, comprare perché tutti comprano dà un senso illusorio di sicurezza sociale; viceversa, durante un crollo, vendere perché tutti vendono allevia temporaneamente il terrore della perdita. In entrambi i casi, l'individuo smette di valutare il valore sottostante e si limita a reagire all'azione collettiva, comprando spesso sui massimi e vendendo sui minimi."
+   }
+  ],
+  "analogia": "Immagina di trovarti in una piazza affollata. All'improvviso, una persona inizia a correre verso l'uscita gridando; subito dopo, altre venti persone si mettono a correre nella stessa direzione. Il tuo istinto naturale ti spinge a scappare all'istante insieme a loro, senza chiederti se ci sia davvero un pericolo o se qualcuno sia semplicemente inciampato. Se ti fermassi a controllare, potresti accorgerti che era un falso allarme. Sui mercati accade lo stesso: quando tutti comprano un titolo che sale, corri a comprarlo per non sentirti escluso; quando tutti scappano, vendi preso dal terrore. Seguire la folla offre conforto psicologico, ma nei mercati finanziari la sicurezza del gruppo si paga quasi sempre a carissimo prezzo.",
+  "errori_comuni": [
+   "Credere che chi subisce i bias cognitivi sia semplicemente poco intelligente o disinformato: le trappole mentali sono cablate nella natura umana e colpiscono anche professionisti esperti.",
+   "Confondere una serie di operazioni fortunate con una reale competenza analitica, dimenticando il ruolo cruciale del contesto di mercato favorevole.",
+   "Pensare che non vendere una posizione in perdita equivalga a non aver perso denaro: il capitale reale disponibile è solo quello espresso dal valore corrente di mercato.",
+   "Ritenere che sia possibile eliminare del tutto le emozioni: l'obiettivo realistico non è diventare freddi robot, ma creare regole operative che impediscano alle emozioni di guidare le scelte."
+  ],
+  "glossario": [
+   {
+    "termine": "Bias cognitivo",
+    "definizione": "Una distorsione sistematica e involontaria del ragionamento che porta a valutare informazioni, rischi o probabilità in modo non oggettivo, influenzando le decisioni."
+   },
+   {
+    "termine": "Avversione alle perdite",
+    "definizione": "Il fenomeno psicologico per cui la sofferenza generata da una perdita monetaria è percepita come nettamente superiore al piacere generato da un guadagno della stessa entità."
+   },
+   {
+    "termine": "Effetto disposizione",
+    "definizione": "La tendenza empiricamente osservata a vendere troppo presto gli asset che sono in profitto e a mantenere troppo a lungo quelli che sono in perdita."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Propagazione virale dell'ottimismo e innesco dell'effetto gregge su un titolo finanziario",
+  "catena": [
+   {
+    "passo": "Notizia o movimento iniziale del prezzo",
+    "spiegazione": "Un titolo registra un rialzo insolito e prolungato a causa di una notizia, di una speculazione o di una temporanea carenza di venditori."
+   },
+   {
+    "passo": "Diffusione mediatica e attivazione della FOMO",
+    "spiegazione": "I social media e la stampa generalista parlano dei guadagni straordinari ottenuti dai primi acquirenti; chi è rimasto fuori sperimenta invidia e ansia da esclusione."
+   },
+   {
+    "passo": "Ingresso massiccio del gregge retail",
+    "spiegazione": "Migliaia di individui acquistano il titolo senza analizzarne i bilanci o la sostenibilità, spinti solo dalla sensazione di sicurezza data dal comportamento collettivo."
+   },
+   {
+    "passo": "Distacco tra prezzo di mercato e valore economico reale",
+    "spiegazione": "La domanda forzata spinge le quotazioni a livelli insostenibili, mentre l'eccesso di fiducia convince i partecipanti che il prezzo continuerà a salire all'infinito."
+   },
+   {
+    "passo": "Inversione improvvisa ed esplosione dell'avversione alle perdite",
+    "spiegazione": "Appena i primi grandi investitori prendono profitto, il prezzo frena; subentra il panico e molti investitori rifiutano di accettare la perdita, restando bloccati nel crollo."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni speculative ad alta visibilità",
+    "effetto": "Forte espansione iniziale dei prezzi seguita da violente e rapide correzioni al ribasso.",
+    "motivo": "I flussi sono mossi dall'emotività della folla piuttosto che dai flussi di cassa o dalla redditività reale dell'azienda."
+   },
+   {
+    "asset": "Portafoglio individuale del singolo investitore emotivo",
+    "effetto": "Erosione del capitale a causa di acquisti effettuati sui massimi e vendite forzate sui minimi.",
+    "motivo": "La decisione di ingresso è guidata dalla FOMO e la decisione di uscita è paralizzata o dettata dal panico incontrollato."
+   }
+  ],
+  "cosa_puo_andare_storto": "A parità di altre condizioni, un rialzo basato unicamente sull'effetto gregge è destinato a sgonfiarsi. Tuttavia, le bolle speculative possono durare molto più a lungo di quanto la logica ritenga ragionevole. Un investitore razionale che tentasse di speculare contro il gregge rischierebbe ingenti perdite se il movimento irrazionale proseguisse. Inoltre, la dinamica può essere interrotta bruscamente da fattori esterni imprevisti, come il blocco degli ordini da parte degli intermediari, interventi dei regolatori o improvvise carenze di liquidità del sistema."
+ },
+ "caso_studio": {
+  "titolo": "La frenesia speculativa su GameStop",
+  "periodo": "Gennaio 2021",
+  "contesto": "GameStop era una catena tradizionale di negozi fisici di videogiochi con sede negli Stati Uniti, caratterizzata da bilanci in difficoltà e modelli di business sotto pressione a causa del passaggio del settore alle vendite digitali. A causa di questa debolezza strutturale, diversi grandi fondi speculativi avevano assunto massicce posizioni ribassiste sul titolo, prevedendone il declino.",
+  "cosa_e_successo": "All'inizio del 2021, un gruppo di investitori individuali riuniti sulla piattaforma social Reddit (nella comunità WallStreetBets) ha iniziato a promuovere l'acquisto coordinato delle azioni GameStop. La narrazione era sia finanziaria che identitaria: sfidare i fondi speculativi di Wall Street. Il prezzo delle azioni, che all'inizio dell'anno oscillava sotto i 20 dollari, ha iniziato a salire vertiginosamente. Con l'aumento delle quotazioni, la vicenda ha dominato i notiziari globali. Milioni di persone prive di esperienza finanziaria hanno scaricato applicazioni di trading per comprare azioni, spinte da una violentissima FOMO e dall'illusione che il prezzo potesse raggiungere cifre stratosferiche. Intorno al 28 gennaio 2021, il titolo ha superato quotazioni intraday nell'ordine di diverse centinaia di dollari (circa 480 dollari per azione prima degli aggiustamenti contabili successivi). Poco dopo, a causa di vincoli sui requisiti di garanzia, alcune popolari piattaforme di intermediazione hanno limitato gli acquisti. Il castello psicologico è crollato: nell'arco di pochi giorni il titolo ha perso una quota enorme del proprio valore di picco, lasciando moltissimi acquirenti dell'ultima ora con perdite gravissime.",
+  "legame_con_il_concetto": "La vicenda GameStop è un esempio da manuale della convergenza tra effetto gregge, FOMO ed eccesso di fiducia. La decisione di acquistare non si basava sull'analisi dei ricavi o dei margini operativi di una catena di negozi, ma sul fatto che tutti gli altri stavano comprando. Chi comprava sui massimi non valutava il rischio oggettivo: l'eccitazione collettiva e la paura di perdere il treno del secolo avevano oscurato ogni pensiero razionale. Quando il prezzo è crollato, l'avversione alle perdite ha spinto molti a non tagliare la posizione, trasformando un sogno di facile ricchezza in una pesante perdita di risparmi.",
+  "nota_sui_dati": "Le quotazioni menzionate fanno riferimento ai valori nominali osservati sul mercato a gennaio 2021 prima del frazionamento azionario quattro a uno effettuato dalla società nel luglio 2022. I volumi esatti e la composizione precisa tra operatori istituzionali e piccoli risparmiatori variano a seconda dei report accademici e delle analisi della Securities and Exchange Commission (SEC)."
+ },
+ "quiz": [
+  {
+   "domanda": "In base agli studi di finanza comportamentale sull'avversione alle perdite, come reagisce tipicamente un investitore medio a una perdita non ancora monetizzata?",
+   "opzioni": [
+    {
+     "testo": "Accetta subito la perdita vendendo la posizione per ridurre il rischio complessivo.",
+     "spiegazione": "Sbagliata. L'accettazione razionale e immediata della perdita è l'atteggiamento corretto dal punto di vista metodologico, ma l'avversione alle perdite spinge quasi sempre nella direzione opposta."
+    },
+    {
+     "testo": "Rifiuta di vendere il titolo nella speranza di tornare almeno in pareggio, per evitare il dolore psicologico di registrare la perdita.",
+     "spiegazione": "Corretta. L'avversione alle perdite porta a considerare una perdita teorica meno dolorosa di una perdita definitiva, spingendo le persone a trattenere titoli deteriorati pur di non ammettere l'errore."
+    },
+    {
+     "testo": "Aumenta la frequenza delle analisi fondamentali per verificare se il modello di business sia cambiato.",
+     "spiegazione": "Sbagliata. Questo sarebbe un comportamento razionale di controllo, mentre i bias cognitivi attivano risposte difensive emotive ed evitamento della realtà."
+    },
+    {
+     "testo": "Investe una cifra identica su titoli obbligazionari per compensare matematicamente la volatilità.",
+     "spiegazione": "Sbagliata. Non esiste alcuna correlazione automatica tra l'avversione alle perdite e una corretta strategia di ribilanciamento prudente."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Quale tra le seguenti situazioni descrive con precisione il bias dell'eccesso di fiducia (overconfidence)?",
+   "opzioni": [
+    {
+     "testo": "Ritenere che i mercati siano completamente imprevedibili e decidere di non investire mai i propri risparmi.",
+     "spiegazione": "Sbagliata. Questo atteggiamento denota sfiducia totale o eccessiva avversione al rischio, non eccesso di sicurezza nelle proprie capacità."
+    },
+    {
+     "testo": "Seguire fedelmente le opinioni di un analista televisivo perché si ritiene di non avere abbastanza tempo per studiare.",
+     "spiegazione": "Sbagliata. Questo comportamento riflette delega passiva o ricerca di autorità esterna, non presunzione delle proprie capacità personali."
+    },
+    {
+     "testo": "Attribuire a una propria superiorità analitica i guadagni ottenuti durante una fase in cui quasi tutte le azioni sono salite.",
+     "spiegazione": "Corretta. L'eccesso di fiducia induce a scambiare una condizione favorevole generale o la pura fortuna per una specifica abilità individuale di battere il mercato."
+    },
+    {
+     "testo": "Acquistare un'azione solo perché ne parlano molti conoscenti e colleghi sul posto di lavoro.",
+     "spiegazione": "Sbagliata. Questo è l'effetto gregge (herd behavior), che nasce dal bisogno di conformità e sicurezza nel gruppo, non dalla presunzione di superiorità tecnica personale."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Per quale motivo la FOMO (paura di restare esclusi) conduce frequentemente a risultati disastrosi sui mercati?",
+   "opzioni": [
+    {
+     "testo": "Spinge a comprare un'attività finanziaria dopo che ha già registrato una forte salita, spesso vicino ai suoi picchi massimi, senza valutarne il valore intrinseco.",
+     "spiegazione": "Corretta. La FOMO non si attiva all'inizio di un trend favorevole, ma quando il movimento è già visibile e maturo; l'acquisto avviene quindi a prezzi gonfiati dall'emotività generale."
+    },
+    {
+     "testo": "Costringe l'investitore a pagare commissioni bancarie triple rispetto a quelle previste per le normali operazioni di mercato.",
+     "spiegazione": "Sbagliata. I costi di transazione dipendono dal listino dell'intermediario e non variano in base allo stato emotivo o al bias di chi immette l'ordine."
+    },
+    {
+     "testo": "Obbliga l'investitore a comprare esclusivamente strumenti derivati complessi vietati ai risparmiatori comuni.",
+     "spiegazione": "Sbagliata. La FOMO può manifestarsi su qualsiasi strumento accessibile, come azioni ordinarie o quote di fondi, senza alcun vincolo di categoria contrattuale."
+    },
+    {
+     "testo": "Induce a diversificare troppo il portafoglio, riducendo eccessivamente il rendimento atteso dei risparmi.",
+     "spiegazione": "Sbagliata. Al contrario, la FOMO porta spesso a concentrare molto capitale su un unico asset di cui tutti parlano, ignorando qualsiasi principio prudenziale di ripartizione."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Come si può contrastare in modo concreto l'impatto distorsivo dei bias emotivi sul proprio processo decisionale?",
+   "opzioni": [
+    {
+     "testo": "Controllando le quotazioni di borsa più volte ogni ora per reagire tempestivamente a qualsiasi piccolo calo.",
+     "spiegazione": "Sbagliata. Monitorare costantemente i prezzi a brevissimo termine aumenta il carico emotivo, stimola l'ansia e favorisce proprio l'attivazione dei bias come l'avversione alle perdite."
+    },
+    {
+     "testo": "Cercando online esclusivamente le opinioni di commentatori che confermano la bontà della propria decisione iniziale.",
+     "spiegazione": "Sbagliata. Questo significa cadere nel bias di conferma, che rafforza l'illusione di avere ragione ed elimina ogni confronto critico con la realtà."
+    },
+    {
+     "testo": "Fidandosi esclusivamente del proprio istinto e della propria memoria storica senza consultare registri scritti.",
+     "spiegazione": "Sbagliata. L'istinto è la fonte principale dei bias cognitivi, e la memoria umana tende a ricordare i successi e a rimuovere o minimizzare i fallimenti passati."
+    },
+    {
+     "testo": "Definendo regole scritte e vincolanti prima di investire, inclusi i motivi della scelta e le condizioni precise in cui si riconoscerà che l'ipotesi è errata.",
+     "spiegazione": "Corretta. Fissare un protocollo prima che entrino in gioco le emozioni consente di prendere decisioni a mente lucida e riduce l'influenza dell'istinto durante le fasi di stress o euforia."
+    }
+   ],
+   "indice_corretta": 3
+  }
+ ],
+ "simulazione": {
+  "titolo": "Osservare l'emotività e il rumore di mercato senza agire",
+  "obiettivo_didattico": "Sperimentare in ambiente protetto la pressione psicologica generata dalle oscillazioni quotidiane di prezzo, imparando a distinguere le reazioni impulsive (FOMO o panico) dalla valutazione metodica di un piano predefinito.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "perche_adatto": "Rappresenta le 500 maggiori aziende statunitensi ed è lo strumento più liquido e scambiato al mondo. Essendo continuamente commentato dai media finanziari globali, offre un flusso costante di stimoli emotivi (notizie allarmistiche o euforiche) su cui testare le proprie reazioni interiori."
+  },
+  "passi": [
+   "Apri la piattaforma di paper trading su TradingView e inserisci il ticker SPY nella tua lista di osservazione (watchlist).",
+   "Osserva il prezzo corrente e consulta le notizie principali degli ultimi tre giorni relative all'indice per farti un'idea del clima emotivo dominante (ottimismo, paura o incertezza).",
+   "Senza aprire alcuna posizione reale o fittizia con capitale, formula per iscritto una semplice ipotesi: prevedi se, nel corso dei prossimi quindici giorni lavorativi, l'indice tenderà a consolidare, salire o scendere, specificando il motivo razionale su cui basi questa convinzione.",
+   "Definisci chiaramente cosa dovrebbe accadere sul grafico per dimostrare che la tua lettura era del tutto errata (ad esempio, una variazione percentuale contraria superiore a un determinato valore prestabilito).",
+   "Durante il periodo di osservazione, non modificare mai l'ipotesi scritta iniziale."
+  ],
+  "guida_all_ipotesi": "Formula la tua ipotesi partendo da un'argomentazione logica e verificabile, non da un desiderio. Chiediti: la mia previsione si basa su un'analisi oggettiva o sul fatto che ho letto titoli enfatici sul giornale? Ricorda che stai conducendo un test su te stesso, non una scommessa sulle quotazioni.",
+  "guida_all_invalidazione": "Stabilisci fin da subito un criterio oggettivo di smentita. Se ipotizzi una fase positiva perché ritieni solidi i fondamentali economici generali, identifica a quale livello di prezzo o di fronte a quale notizia dovrai ammettere: la mia interpretazione iniziale non corrisponde a ciò che il mercato sta esprimendo.",
+  "cosa_registrare": [
+   "Data, ora e prezzo di SPY al momento in cui metti per iscritto la tua ipotesi.",
+   "Le reazioni emotive provate ogni volta che leggi una notizia sensazionalistica su mercati ed economia: hai provato il desiderio impulsivo di modificare la tua previsione?",
+   "Eventuali impulsi di FOMO (se il prezzo sale forte e senti di aver perso un'occasione) o di paura (se il prezzo scende e provi disagio pur non avendo denaro reale a rischio).",
+   "Prezzo finale di SPY al termine del periodo di osservazione stabilito."
+  ],
+  "giorni_prima_della_revisione": 15,
+  "domande_di_revisione": [
+   "Quante volte durante le due settimane hai sentito il bisogno di cambiare la tua previsione iniziale a causa dell'andamento quotidiano dei prezzi o dei titoli dei giornali?",
+   "Nel caso in cui la tua previsione iniziale si sia rivelata corretta, sei sicuro che sia merito della tua analisi o potrebbe essere intervenuta la pura casualità?",
+   "Come ti sei sentito nei giorni in cui il prezzo si è mosso nella direzione opposta alla tua ipotesi? Hai provato l'impulso di negare l'evidenza o di giustificare l'andamento attribuendolo a cause esterne anomale?"
+  ],
+  "avvertenza": "Questa simulazione ha esclusivamente finalità pedagogiche e di autovalutazione comportamentale. Il paper trading non comporta alcun rischio finanziario e non è in grado di riprodurre l'intensità delle emozioni provate quando si impiega denaro reale. Non rappresenta in alcun modo un consiglio finanziario né un'indicazione a comprare o vendere alcuno strumento."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "I mercati finanziari non sono solo formule matematiche, ma sistemi complessi influenzati da reazioni psicologiche individuali e collettive.",
+   "L'avversione alle perdite ci rende asimmetrici: soffriamo per una perdita il doppio di quanto gioiamo per un guadagno equivalente, portandoci a tenere asset decrescenti per non ammettere lo sbaglio.",
+   "L'eccesso di fiducia ci spinge a credere che i successi siano dovuti alla nostra bravura piuttosto che alle circostanze favorevoli del mercato.",
+   "La FOMO e l'effetto gregge portano a comprare per conformismo e paura di sentirsi esclusi, tipicamente quando i prezzi sono già gonfiati e prossimi a invertire la rotta.",
+   "L'antidoto ai bias non è l'eliminazione delle emozioni umane (impossibile), ma la costruzione di un metodo analitico con regole scritte prima di prendere qualsiasi decisione."
+  ],
+  "domanda_di_riflessione": "Se guardi alle tue scelte quotidiane passate legate alla spesa, al lavoro o ad altri ambiti personali, in quale occasione hai preso una decisione spinto solo dal fatto che tutti gli altri lo stavano facendo, e quali sono state le conseguenze reali di quella scelta?"
+ },
+ "modulo": 7,
+ "area": "Psicologia",
+ "generata_il": "2026-11-25",
+ "modello": "gemini-flash-latest"
+}
