@@ -1,0 +1,231 @@
+{
+ "titolo": "Modulo 12: Ciclo economico e curva dei rendimenti",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo esaminato i singoli mattoni dei mercati: azioni, obbligazioni, tassi di interesse e l'inflazione. Ora facciamo un passo indietro per osservare l'intero paesaggio economico. Le economie moderne non crescono in modo lineare e costante: si muovono a onde, alternando fasi di accelerazione a momenti di contrazione. Questo andamento ritmico è chiamato ciclo economico. Gli operatori finanziari cercano continuamente di capire in quale punto del ciclo ci troviamo, e uno degli strumenti più seguiti e rigorosi per scrutare il futuro è la forma della curva dei rendimenti obbligazionari. Capire il ciclo e la curva significa comprendere come le aspettative su produzione, occupazione e politiche monetarie si riflettono istantaneamente sui mercati finanziari.",
+  "sezioni": [
+   {
+    "titolo": "Il ciclo economico e il Prodotto Interno Lordo",
+    "testo": "Il ciclo economico è la fluttuazione naturale dell'attività produttiva di un Paese nel corso del tempo. Per misurare lo stato di salute di un'economia, gli economisti utilizzano principalmente il Prodotto Interno Lordo, abbreviato in PIL. Il PIL rappresenta il valore monetario totale di tutti i beni e servizi finali prodotti all'interno dei confini nazionali in un determinato periodo, solitamente un trimestre o un anno. Quando le aziende producono di più, le famiglie consumano e l'occupazione sale, il PIL cresce: siamo in una fase di espansione. L'espansione porta spesso a un aumento della domanda che, se supera l'offerta disponibile, genera pressioni inflazionistiche. Al contrario, quando l'attività economica rallenta e il PIL diminuisce per almeno due trimestri consecutivi, si entra tecnicamente in una fase di recessione. Durante la recessione, le imprese riducono gli investimenti, la disoccupazione tende a salire e le spese dei consumatori calano. Il ciclo è quindi una successione continua di quattro fasi: ripresa, espansione, picco, contrazione o recessione, fino a toccare un minimo da cui ricomincia la ripresa."
+   },
+   {
+    "titolo": "Indicatori economici: anticipatori, coincidenti e ritardatari",
+    "testo": "Non tutti i dati economici si muovono nello stesso momento. Gli analisti dividono i dati macroeconomici in tre categorie. Gli indicatori coincidenti mostrano lo stato attuale dell'economia nello stesso momento in cui si verificano (come il PIL trimestrale o le vendite al dettaglio correnti). Gli indicatori ritardatari confermano un trend solo dopo che si è già consolidato; il tasso di disoccupazione è un classico indicatore ritardatario, perché le aziende licenziano o assumono solo dopo aver constatato con certezza che i loro ordini sono calati o aumentati stabilmente per mesi. Infine, gli indicatori anticipatori sono grandezze che tendono a cambiare direzione prima che cambi l'intera economia. Tra questi troviamo i permessi di costruzione per nuove case, gli ordini di beni durevoli da parte delle fabbriche e, soprattutto, i prezzi e i tassi espressi dai mercati finanziari, come la curva dei rendimenti. Poiché gli investitori impiegano capitali oggi sulla base di ciò che prevedono avverrà domani, i mercati finanziari agiscono spesso come un sensore avanzato."
+   },
+   {
+    "titolo": "Che cos'è la curva dei rendimenti",
+    "testo": "Come abbiamo imparato nel Modulo 6, le obbligazioni governative hanno diverse scadenze, che vanno da pochi mesi a dieci, venti o trent'anni. La curva dei rendimenti è semplicemente un grafico che mostra la relazione tra la durata residua di un titolo di Stato (sull'asse orizzontale) e il rendimento annuo offerto da quel titolo (sull'asse verticale), a parità di emittente. In condizioni normali, la curva è inclinata positivamente verso l'alto. Questo significa che prestare denaro per dieci o trent'anni rende più che prestarlo per tre mesi o due anni. Questo premio aggiuntivo, chiamato premio per il termine, è intuitivo: vincolare il capitale per un periodo molto lungo espone il creditore a maggiori incertezze sull'inflazione futura, sul rischio che i tassi salgano o che l'emittente incontri difficoltà. Pertanto, chi presta a lungo termine richiede normalmente un interesse maggiore rispetto a chi presta a breve termine."
+   },
+   {
+    "titolo": "L'inversione della curva: perché spaventa gli investitori",
+    "testo": "Talvolta accade un'anomalia storica: i rendimenti dei titoli a breve scadenza superano quelli dei titoli a lunga scadenza. In questa situazione, la curva dei rendimenti diventa inclinata verso il basso, fenomeno noto come inversione della curva dei rendimenti. Una delle metriche più osservate è la differenza tra il rendimento del titolo decennale e quello biennale. Ma perché mai un investitore dovrebbe accettare un rendimento inferiore su un prestito decennale rispetto a uno a due anni? Il motivo risiede nelle aspettative aggregate. I tassi a breve termine sono fortemente influenzati dalle banche centrali, che alzano il costo del denaro per frenare l'inflazione (come visto nel Modulo 5). Quando i mercati ritengono che questi tassi elevati finiranno per soffocare la crescita economica, spingendo il sistema verso una recessione, prevedono che in futuro la banca centrale sarà costretta a tagliare drasticamente i tassi per sostenere l'economia. Di conseguenza, gli investitori acquistano in massa titoli a lungo termine per bloccare i rendimenti attuali prima che scendano ulteriormente. L'alta domanda di obbligazioni a lungo termine ne fa salire il prezzo e, per la legge che lega prezzo e rendimento (Modulo 6), ne fa scendere il tasso, portandolo al di sotto dei rendimenti a breve. L'inversione segnala dunque che il mercato si aspetta un futuro economico debole e un successivo taglio dei tassi."
+   }
+  ],
+  "analogia": "Immagina di voler noleggiare un'automobile. Di norma, noleggiare un'auto per una settimana costa meno al giorno rispetto a impegnarsi in un contratto vincolante di tre anni: impegnarsi a lungo termine comporta incertezze sulla propria vita e sul futuro, quindi chi si vincola per tanto tempo pretende condizioni vantaggiose o garanzie speciali. Ora immagina che tutti prevedano una grave crisi nei trasporti che farà crollare i prezzi dei noleggi tra due anni. Improvvisamente, le persone fanno la fila per bloccare contratti di noleggio a lungo termine anche a condizioni minime, pur di non restare scoperte più avanti. Di conseguenza, i contratti a lungo termine diventano più economici e contesi rispetto a quelli a breve termine, che rimangono costosi solo a causa della stretta immediata. L'inversione della curva funziona allo stesso modo: riflette la corsa ad accaparrarsi la certezza del lungo periodo prima che la tempesta economica arrivi.",
+  "errori_comuni": [
+   "Credere che una recessione significhi semplicemente che i mercati scendono: la recessione riguarda l'economia reale (produzione, consumi e occupazione), mentre i mercati azionari spesso toccano il minimo e ripartono prima che la recessione finisca ufficialmente.",
+   "Considerare l'inversione della curva dei rendimenti come la causa diretta di una recessione: la curva invertita è un sintomo o un barometro delle aspettative, non il motore che causa il rallentamento economico.",
+   "Pensare che all'inversione della curva segua immediatamente un crollo dei mercati: storicamente possono passare molti mesi, talvolta anche più di due anni, tra la prima inversione della curva e l'eventuale inizio di una recessione."
+  ],
+  "glossario": [
+   {
+    "termine": "PIL (Prodotto Interno Lordo)",
+    "definizione": "Il valore complessivo di tutti i beni e servizi finali prodotti in un Paese durante un intervallo temporale definito, utilizzato come metro primario dell'attività economica."
+   },
+   {
+    "termine": "Curva dei rendimenti",
+    "definizione": "Grafico che rappresenta i tassi di interesse offerti da obbligazioni governative della stessa qualità creditizia ma con scadenze temporali differenti."
+   },
+   {
+    "termine": "Indicatore anticipatore",
+    "definizione": "Una variabile economica o finanziaria che storicamente muta direzione prima che l'intera economia inizi a seguire un nuovo trend di espansione o contrazione."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Inversione della curva dei rendimenti derivante da una forte stretta monetaria della banca centrale",
+  "catena": [
+   {
+    "passo": "Aumento repentino dei tassi a breve",
+    "spiegazione": "La banca centrale aumenta i tassi ufficiali per raffreddare un'inflazione elevata, spingendo immediatamente verso l'alto i rendimenti dei titoli di Stato a breve scadenza (ad esempio a 1 o 2 anni)."
+   },
+   {
+    "passo": "Inasprimento delle condizioni di credito",
+    "spiegazione": "Banche e istituti finanziari alzano i tassi sui prestiti a famiglie e imprese, riducendo la convenienza a indebitarsi per consumare o fare nuovi investimenti aziendali."
+   },
+   {
+    "passo": "Corsa ai titoli governativi a lungo termine",
+    "spiegazione": "Gli investitori istituzionali prevedono che la frenata dei consumi porterà a una recessione, spingendo la banca centrale a tagliare i tassi in futuro. Per proteggersi, acquistano titoli di Stato a lunga scadenza (10-30 anni)."
+   },
+   {
+    "passo": "Compressione e inversione dello spread",
+    "spiegazione": "L'aumento della domanda sui titoli a lunga scadenza ne fa salire il prezzo e scendere il rendimento. Il tasso a 10 anni scende al di sotto del tasso a 2 anni: la curva si inverte."
+   },
+   {
+    "passo": "Rallentamento dell'economia reale",
+    "spiegazione": "Con credito più caro e incertezza diffusa, le imprese rallentano le assunzioni e riducono la produzione, portando a una crescita del PIL debole o negativa a distanza di trimestri."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Titoli di Stato a lunga scadenza (es. Treasury a 10 anni)",
+    "effetto": "Rendimenti compressi e aumento della volatilità dei prezzi",
+    "motivo": "Forte domanda di copertura contro il rischio recessivo, bilanciata dall'incertezza sulla durata della stretta monetaria."
+   },
+   {
+    "asset": "Azioni cicliche (es. industriali, beni discrezionali)",
+    "effetto": "Pressione ribassista o performance inferiore alla media",
+    "motivo": "I ricavi e gli utili di queste aziende dipendono direttamente dal vigore della spesa dei consumatori e dal PIL."
+   },
+   {
+    "asset": "Azioni difensive (es. beni di prima necessità, sanità)",
+    "effetto": "Maggiore tenuta relativa della domanda",
+    "motivo": "I consumatori continuano ad acquistare cibo e farmaci essenziali anche durante le fasi di contrazione economica."
+   }
+  ],
+  "cosa_puo_andare_storto": "A parità di altre condizioni, la catena logica descrive la dinamica consueta. Tuttavia, il mercato può reagire in modo controintuitivo. Se l'economia reale mostra una resilienza inaspettata (ad esempio grazie a un mercato del lavoro eccezionalmente solido o a forti risparmi accumulati in precedenza), la recessione prevista potrebbe tardare ad arrivare o non verificarsi affatto, portando a quello che gli economisti chiamano atterraggio morbido. In questo scenario, le azioni possono continuare a salire anche con una curva invertita, perché gli utili aziendali rimangono solidi. Inoltre, quando la recessione effettivamente scoppia, la curva tende spesso a dis-invertirsi (cioè a tornare ripida) in modo molto brusco: non è raro che i minimi di borsa si verifichino proprio mentre la curva sta tornando normale, smentendo chi credeva che l'inversione iniziale coincidesse con il crollo immediato."
+ },
+ "caso_studio": {
+  "titolo": "L'inversione della curva dei Treasury USA nel biennio 2022-2023",
+  "periodo": "Marzo 2022 - Fine 2023",
+  "contesto": "Dopo la fase pandemica, l'inflazione negli Stati Uniti ha raggiunto livelli che non si registravano da quarant'anni, superando l'8-9% su base annua. Per contrastarla, la Federal Reserve ha intrapreso una delle campagne di rialzo dei tassi d'interesse più rapide e aggressive della sua storia moderna, portando il tasso di riferimento da vicino allo zero a oltre il 5% in circa un anno e mezzo.",
+  "cosa_e_successo": "Mentre i tassi sui titoli a breve scadenza (come il Treasury a 2 anni) sono schizzati verso l'alto per seguire le decisioni della Federal Reserve, i titoli a 10 anni hanno registrato rendimenti decisamente più bassi. A partire dall'estate del 2022, la differenza tra il rendimento a 10 anni e quello a 2 anni è diventata negativa. Nel corso del 2023, questo differenziale ha raggiunto livelli negativi nell'ordine di oltre 100 punti base (ovvero un punto percentuale intero), un livello di inversione che non si osservava dall'inizio degli anni '80. La totalità degli analisti prevedeva una recessione imminente negli Stati Uniti entro la fine del 2023. Eppure, per tutto il 2023, l'economia statunitense ha continuato a crescere, sostenuta da una spesa per consumi ancora vigorosa e da un tasso di disoccupazione storicamente basso.",
+  "legame_con_il_concetto": "Questo caso dimostra empiricamente due lezioni cardine. Primo, la curva dei rendimenti riflette fedelmente il meccanismo di mercato: tassi a breve alti per la politica monetaria restrittiva e tassi a lungo più bassi perché gli investitori anticipavano un futuro rallentamento. Secondo, l'inversione non è un cronometro: il ritardo con cui le condizioni finanziarie più severe si trasmettono all'economia reale può essere lungo e variabile, dimostrando come gli indicatori anticipatori indichino la direzione del rischio, ma non il calendario esatto degli eventi.",
+  "nota_sui_dati": "I dati sul differenziale tra i rendimenti dei Treasury a 10 e a 2 anni e i tassi ufficiali della Federal Reserve sono tratti dalle serie storiche pubbliche della Federal Reserve Bank di St. Louis (FRED). I valori sono indicati con ordini di grandezza storici consolidati per il periodo menzionato."
+ },
+ "quiz": [
+  {
+   "domanda": "Cosa si intende esattamente per 'curva dei rendimenti invertita'?",
+   "opzioni": [
+    {
+     "testo": "Una situazione in cui il mercato azionario scende mentre i tassi di interesse salgono.",
+     "spiegazione": "Questa affermazione confonde il mercato azionario con la struttura a termine dei tassi d'interesse governativi."
+    },
+    {
+     "testo": "Una condizione in cui i rendimenti delle obbligazioni governative a breve scadenza sono più alti rispetto a quelli a lunga scadenza.",
+     "spiegazione": "Corretto. Normalmente prestare a lungo termine rende di più; quando i tassi a breve superano quelli a lungo, la curva si definisce invertita."
+    },
+    {
+     "testo": "Il momento in cui l'inflazione supera stabilmente il Prodotto Interno Lordo di un Paese.",
+     "spiegazione": "Questo descrive un fenomeno di stagflazione o perdita di potere d'acquisto, non la relazione grafica dei tassi di interesse obbligazionari."
+    },
+    {
+     "testo": "Una fase in cui le banche centrali decidono di azzerare i tassi d'interesse per stimolare i consumi.",
+     "spiegazione": "L'inversione si verifica quasi sempre in contesti opposti, ovvero quando la banca centrale alza aggressivamente i tassi a breve per frenare l'inflazione."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Perché il tasso di disoccupazione è considerato un indicatore economico 'ritardatario'?",
+   "opzioni": [
+    {
+     "testo": "Perché le agenzie statistiche governative pubblicano i dati sull'occupazione solo una volta all'anno.",
+     "spiegazione": "I dati sul lavoro vengono pubblicati a cadenza mensile nella maggior parte delle economie avanzate, non annuale."
+    },
+    {
+     "testo": "Perché le banche centrali calcolano la disoccupazione solo dopo aver modificato i tassi di interesse.",
+     "spiegazione": "Le banche centrali monitorano continuamente il mercato del lavoro e non ne decidono il metodo di calcolo."
+    },
+    {
+     "testo": "Perché le aziende tendono a tagliare o aumentare il personale solo dopo che il rallentamento o la crescita della produzione sono già in atto da tempo.",
+     "spiegazione": "Corretto. Modificare la forza lavoro comporta costi e attriti notevoli; i datori di lavoro reagiscono ad avvenimenti già manifestati, rendendo la disoccupazione una conferma a posteriori del ciclo."
+    },
+    {
+     "testo": "Perché le persone cercano lavoro solo durante le fasi di profonda espansione economica.",
+     "spiegazione": "La ricerca di lavoro avviene costantemente in ogni fase del ciclo economico, con maggiore intensità nei periodi di necessità."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Per quale motivo razionale gli investitori continuano a comprare obbligazioni a 10 anni se quelle a 2 anni offrono rendimenti più elevati?",
+   "opzioni": [
+    {
+     "testo": "Perché anticipano una futura recessione e prevedono che i tassi scenderanno, preferendo bloccare un rendimento sicuro per un decennio.",
+     "spiegazione": "Corretto. Se ci si aspetta che tra due anni i tassi scendano radicalmente a causa di un rallentamento, vincolare il capitale oggi a tassi a lungo termine garantisce un rendimento che presto potrebbe non essere più disponibile."
+    },
+    {
+     "testo": "Perché per legge i fondi pensione non possono acquistare titoli governativi con scadenza inferiore a dieci anni.",
+     "spiegazione": "Non esiste tale divieto; i fondi istituzionali gestiscono quote importanti di liquidità anche a brevissimo termine."
+    },
+    {
+     "testo": "Perché i titoli a lunga scadenza non subiscono alcuna variazione di prezzo dovuta alle oscillazioni del mercato.",
+     "spiegazione": "Al contrario, come studiato nel Modulo 6, i titoli a lunga scadenza hanno una sensibilità (duration) molto più alta e i loro prezzi oscillano maggiormente rispetto ai titoli a breve."
+    },
+    {
+     "testo": "Perché le obbligazioni a breve scadenza comportano un rischio di fallimento statale superiore a quelle decennali.",
+     "spiegazione": "Il rischio emittente è il medesimo (lo Stato), e se mai un rischio di solvibilità fosse presente, peserebbe maggiormente sull'orizzonte più lungo."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Cosa indica comunemente la definizione tecnica di 'recessione'?",
+   "opzioni": [
+    {
+     "testo": "Un ribasso del principale indice azionario nazionale pari ad almeno il 10% in un mese.",
+     "spiegazione": "Questa è una correzione di borsa, un fenomeno dei mercati finanziari che non corrisponde necessariamente a una recessione economica."
+    },
+    {
+     "testo": "Un aumento del tasso di inflazione per tre trimestri consecutivi.",
+     "spiegazione": "Questo descrive una fase inflattiva, che può coincidere sia con una forte crescita sia con una stagnazione, non definisce una recessione."
+    },
+    {
+     "testo": "Una diminuzione del Prodotto Interno Lordo reale per almeno due trimestri consecutivi.",
+     "spiegazione": "Corretto. Questa è la regola empirica ampiamente utilizzata nella convenzione economica per identificare un declino esteso dell'attività economica."
+    },
+    {
+     "testo": "Il passaggio del saldo della bilancia commerciale statale in territorio costantemente negativo.",
+     "spiegazione": "Il deficit commerciale riguarda gli scambi con l'estero e molti Paesi (tra cui gli Stati Uniti) operano regolarmente con deficit commerciali anche in piena espansione."
+    }
+   ],
+   "indice_corretta": 2
+  }
+ ],
+ "simulazione": {
+  "titolo": "Osservatorio della curva: Treasury a 10 anni vs Treasury a 2 anni",
+  "obiettivo_didattico": "Verificare autonomamente la forma della curva dei rendimenti e comprendere la relazione tra le aspettative macroeconomiche e il prezzo degli ETF che replicano i titoli di Stato a lunga durata.",
+  "strumento_da_osservare": {
+   "nome": "iShares 20+ Year Treasury Bond ETF",
+   "ticker": "TLT",
+   "perche_adatto": "TLT raccoglie obbligazioni del Tesoro statunitense a lunga scadenza (oltre vent'anni). È estremamente liquido e reagisce in tempo reale a qualsiasi variazione delle aspettative sui tassi e sulla salute economica futura."
+  },
+  "passi": [
+   "Apri TradingView (o la tua piattaforma preferita) e visualizza il grafico dello spread tra i rendimenti dei titoli decennali e biennali USA (ticker consueto US10Y-US02Y oppure T10Y2Y).",
+   "Osserva il valore dello spread: se è maggiore di zero la curva è normale, se è inferiore a zero la curva è invertita.",
+   "Apri contemporaneamente il grafico dell'ETF TLT impostando un intervallo temporale settimanale o giornaliero.",
+   "Identifica l'ultima decisione di politica monetaria della Federal Reserve o l'ultima lettura dell'inflazione e osserva se lo spread si sta allargando o restringendo.",
+   "Formula una tua ipotesi didattica su come un mutamento nelle aspettative di crescita economica potrebbe influenzare il prezzo delle obbligazioni a lunga durata riflesse in TLT."
+  ],
+  "guida_all_ipotesi": "Formula la tua ipotesi strutturandola in questo modo: 'Se i dati macroeconomici mostrano un rallentamento della crescita più rapido del previsto, gli operatori aumenteranno le scommesse su tagli futuri dei tassi da parte della banca centrale; di conseguenza mi aspetto che il rendimento a lungo termine scenda e che il prezzo di TLT mostri un movimento al rialzo nel periodo di osservazione.' Ricorda che questa è solo una simulazione logica, non una previsione certa.",
+  "guida_all_invalidazione": "La tua ipotesi didattica viene invalidata se i dati macroeconomici confermano un'economia inaspettatamente solida o se l'inflazione riaccelera: in quel caso, gli investitori rivedranno al rialzo i tassi previsti a lungo termine, provocando una pressione ribassista sul prezzo di TLT e smentendo l'idea di una rapida fuga verso i titoli rifugio.",
+  "cosa_registrare": [
+   "Il valore esatto dello spread decennale-biennale (US10Y-US02Y) al momento dell'inizio dell'osservazione.",
+   "Il prezzo di chiusura corrente dell'ETF TLT.",
+   "Il livello generale dei tassi guida fissati dalla banca centrale in quella data.",
+   "La tua ipotesi sulle aspettative del mercato (crescita solida contro rallentamento in vista)."
+  ],
+  "giorni_prima_della_revisione": 14,
+  "domande_di_revisione": [
+   "Durante questi 14 giorni, il differenziale tra tasso decennale e biennale si è avvicinato o allontanato dallo zero?",
+   "Come ha reagito il prezzo di TLT in corrispondenza delle nuove notizie economiche o dei discorsi dei banchieri centrali?",
+   "I dati macroeconomici usciti nel periodo hanno confermato la percezione di un'economia in espansione o hanno segnalato un indebolimento?",
+   "Hai notato discordanze tra ciò che i commentatori prevedevano e l'effettivo movimento dei prezzi dei bond?"
+  ],
+  "avvertenza": "Questa attività di paper trading e osservazione è puramente didattica e serve ad apprendere i meccanismi di mercato. Il paper trading non comporta l'uso di denaro reale né la pressione psicologica del rischio effettivo. Non rappresenta in alcun modo una raccomandazione di investimento né una sollecitazione al trading."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "Il ciclo economico alterna fasi di espansione a fasi di contrazione o recessione, misurate principalmente attraverso l'andamento del PIL.",
+   "Gli indicatori economici si dividono in anticipatori, coincidenti e ritardatari; il mercato del lavoro è ritardatario, mentre i mercati finanziari tendono a incorporare in anticipo le aspettative future.",
+   "La curva dei rendimenti descrive la relazione tra durata del prestito e tasso di interesse; una curva sana è inclinata positivamente a causa del premio per il termine.",
+   "L'inversione della curva si verifica quando i tassi a breve superano quelli a lungo; storicamente è uno dei più affidabili segnali anticipatori di rallentamento, ma i suoi tempi di trasmissione all'economia reale sono lunghi e variabili."
+  ],
+  "domanda_di_riflessione": "Se le decisioni delle aziende su investimenti e assunzioni dipendono dal costo del denaro, in che modo un periodo prolungato di curva invertita e tassi alti influisce sui bilanci delle imprese che abbiamo analizzato nel Modulo 10?"
+ },
+ "modulo": 12,
+ "area": "Macro",
+ "generata_il": "2026-11-26",
+ "modello": "gemini-flash-latest"
+}

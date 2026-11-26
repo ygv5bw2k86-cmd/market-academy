@@ -1,0 +1,230 @@
+{
+ "titolo": "Modulo 16: Volatilità e drawdown, misurare la turbolenza e le perdite",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo compreso che il rendimento non esiste senza rischio e che la pianificazione dell asset allocation richiede un orizzonte temporale definito. Tuttavia, una delle prove piu difficili per chi investe e sopportare il tragitto che separa il punto di partenza dall obiettivo finale. Questo tragitto e quasi sempre accidentato. Oggi esaminiamo due concetti fondamentali per quantificare e comprendere il comportamento del mercato quando le cose si fanno agitate: la volatilita e il drawdown. Comprendere questi due parametri vi evitera di cadere nelle trappole emotive descritte quando abbiamo parlato di psicologia dell investitore, dandovi gli strumenti numerici per capire cosa aspettarvi davvero dai vostri investimenti.",
+  "sezioni": [
+   {
+    "titolo": "Cos e la volatilita: l ampiezza dell oscillazione",
+    "testo": "Nel linguaggio comune, volatilita e sinonimo di pericolo estremo o di instabilita caotica. In finanza, la volatilita ha una definizione statistica precisa: misura quanto il prezzo di uno strumento finanziario tende a disperdersi o allontanarsi dal suo valore medio in un determinato arco di tempo. In termini semplici, indica l ampiezza e la frequenza delle oscillazioni di prezzo. Uno strumento con bassa volatilita sale o scende compiendo movimenti contenuti, come una barca a remi su un lago calmo. Uno strumento ad alta volatilita compie balzi improvvisi, sia verso l alto sia verso il basso, come un gommone in mezzo a rapide impetuose. Un errore tipico del principiante e pensare che la volatilita sia solo ribassista: matematicamente, anche una salita violenta e improvvisa genera alta volatilita. La volatilita misura l incertezza e il disaccordo tra compratori e venditori: quando le aspettative future su un azienda o sull intera economia diventano confuse, le oscillazioni aumentano perche gli operatori ricalibrano continuamente i prezzi a ogni nuova notizia."
+   },
+   {
+    "titolo": "Il concetto di drawdown e il drawdown massimo",
+    "testo": "Mentre la volatilita misura il grado di scuotimento generale, il drawdown misura il dolore finanziario concreto. Il drawdown e la perdita percentuale calcolata dal punto piu alto raggiunto da un portafoglio o da un asset prima di un calo, fino al punto di minimo successivo. Immaginate di investire 10000 euro. Il vostro investimento sale fino a 15000 euro: quello e il vostro picco. Successivamente, a causa di una crisi di mercato, il valore scende a 9000 euro. Il calo di 6000 euro rispetto al picco di 15000 euro rappresenta una perdita del 40 percento. Quel 40 percento e il vostro drawdown. Il Maximum Drawdown (o massimo drawdown) rappresenta la perdita piu severa mai registrata tra un picco e un minimo in un dato periodo storico. Si tratta di una misura fondamentale perche rivela il caso peggiore sperimentato nel passato da una determinata strategia. Guardare solo i rendimenti medi annuali senza conoscere il massimo drawdown e come attraversare un fiume che e profondo in media un metro, ignorando che al centro c e una fossa profonda quattro metri."
+   },
+   {
+    "titolo": "La crudele matematica dell asimmetria tra perdite e recuperi",
+    "testo": "Uno dei principi matematici piu disorientanti per i principianti e l asimmetria tra percentuali di ribasso e percentuali di rialzo. Nella nostra mente, se perdiamo il 10 percento, pensiamo che basti guadagnare il 10 percento per tornare al punto di partenza. In realta non e cosi, perche la base di calcolo cambia radicalmente. Facciamo un esempio pratico. Se possedete 100 euro e subite una perdita del 10 percento, vi restano 90 euro. Per tornare a 100 euro, dovete guadagnare 10 euro calcolati su 90 euro, il che equivale a un rialzo dell 11,11 percento. Man mano che la perdita aumenta, la discrepanza diventa enorme ed esponenziale. Se il capitale scende del 20 percento, serve un rialzo del 25 percento per pareggiare. Se subite una perdita del 50 percento (il vostro capitale scende da 100 a 50 euro), per tornare al punto di partenza non serve un guadagno del 50 percento (che vi porterebbe solo a 75 euro), bensi un guadagno del 100 percento. Una perdita del 75 percento richiede un guadagno del 300 percento, mentre un crollo del 90 percento esige un rendimento del 900 percento solo per tornare in parita. Questa legge matematica spiega perche evitare perdite catastrofiche sia la prima regola della gestione del capitale."
+   },
+   {
+    "titolo": "Tempo di recupero: la fatica di risalire la china",
+    "testo": "Strettamente legato all asimmetria tra perdite e recuperi troviamo il tempo di recupero, spesso indicato in letteratura come recovery time. Questa grandezza misura quanto tempo impiega il prezzo o il portafoglio per tornare a raggiungere il livello del picco precedente. Un crollo di borsa puo compiersi in poche settimane o mesi, scatenato da panico o shock improvvisi; la ricostruzione del valore richiede invece anni di lavoro aziendale, crescita degli utili e ritorno della fiducia. Se un indice crolla del 50 percento e i mercati azionari storicamente crescono a una media ipotetica dell 8 percento annuo, serviranno svariati anni di rendimenti composti positivi solo per recuperare la ricchezza perduta. Durante questo tempo di recupero, il capitale non sta crescendo, ma sta solo riemergendo dal profondo della perdita. Chi non comprende questo fattore rischia di disinvestire nel momento di massimo sconforto, trasformando una perdita temporanea sulla carta in una rovina finanziaria definitiva."
+   }
+  ],
+  "analogia": "Pensate a un viaggio in auto lungo una strada di montagna. La volatilita e rappresentata dalle buche e dalle curve strette: l auto si scuote a destra e a sinistra, ma se la strada rimane in quota arrivate comunque a destinazione. Il drawdown e invece la discesa in una ripida vallata prima di poter risalire sulla cima successiva. Se scendete per meta montagna (drawdown del 50 percento), per tornare alla vetta non bastera percorrere la stessa quantita di strada pianeggiante, ma dovrete consumare il doppio del carburante per compiere una salita verticale del 100 percento. Se il motore non regge o se vi spaventate e abbandonate l auto nel fondo della valle, il viaggio e terminato li.",
+  "errori_comuni": [
+   "Credere che una perdita del 50 percento si azzeri con un successivo guadagno del 50 percento.",
+   "Confondere la volatilita con il rischio di perdita permanente del capitale.",
+   "Valutare un investimento o un fondo solo dal rendimento medio passato, senza verificare quale sia stato il suo drawdown massimo storico.",
+   "Sottovalutare il fattore tempo, ritenendo di poter sopportare cali del 40 o 50 percento senza considerare che il recupero potrebbe richiedere molti anni."
+  ],
+  "glossario": [
+   {
+    "termine": "Volatilita",
+    "definizione": "Misura statistica dell ampiezza e della rapidita con cui il prezzo di un bene finanziario si scosta dal suo valore medio in un intervallo temporale."
+   },
+   {
+    "termine": "Drawdown",
+    "definizione": "La flessione percentuale registrata da un prezzo o da un portafoglio dal picco massimo raggiunto fino al minimo successivo."
+   },
+   {
+    "termine": "Tempo di recupero (Recovery Time)",
+    "definizione": "L intervallo temporale necessario affinche un asset o un portafoglio recuperi interamente il terreno perso durante un drawdown e torni a eguagliare il picco precedente."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Uno shock macroeconomico imprevisto scuote i mercati provocando un improvviso picco di volatilita e un repentino drawdown.",
+  "catena": [
+   {
+    "passo": "1. Evento imprevisto ed esplosione dell incertezza",
+    "spiegazione": "Si verifica un evento inatteso che minaccia la crescita economica o la stabilita finanziaria. Gli investitori non sanno come quantificare i danni futuri sui bilanci aziendali."
+   },
+   {
+    "passo": "2. Allargamento del disaccordo sui prezzi e aumento della volatilita",
+    "spiegazione": "Compratori e venditori hanno opinioni diametralmente opposte e le notizie si susseguono a ritmi frenetici. La liquidita diminuisce e i prezzi compiono ampie oscillazioni intraday, facendo impennare la volatilita statistica."
+   },
+   {
+    "passo": "3. Vendite generalizzate e formazione del drawdown",
+    "spiegazione": "La pressione di vendita supera la domanda. I prezzi abbandonano i massimi recenti e scivolano verso il basso, generando un drawdown che erode il capitale di chi e esposto a strumenti a rischio."
+   },
+   {
+    "passo": "4. Intervento delle autorita o assorbimento delle notizie e avvio del recupero",
+    "spiegazione": "Le banche centrali intervengono o i mercati quantificano lo shock. La volatilita comincia a scendere, ma per recuperare il drawdown subito il mercato dovra compiere una salita percentuale notevolmente superiore alla perdita accusata."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni ad alta crescita (Growth) con multipli elevati",
+    "effetto": "Subiscono cali piu violenti e un drawdown significativamente piu marcato rispetto alla media.",
+    "motivo": "I loro prezzi incorporano grandi profitti attesi in un futuro lontano; quando l incertezza aumenta, gli investitori fuggono dagli asset piu rischiosi o difficili da quantificare."
+   },
+   {
+    "asset": "Titoli di Stato a breve termine e liquidita",
+    "effetto": "Mantengono un drawdown vicino allo zero e una volatilita bassissima.",
+    "motivo": "Non sono soggetti a oscillazioni rilevanti di mercato e fungono da riserva di stabilita a parita di condizioni di solvibilita dell emittente."
+   },
+   {
+    "asset": "Indici azionari diversificati globali",
+    "effetto": "Sperimentano drawdown rilevanti ma storicamente mostrano capacita di recupero nel medio-lungo termine.",
+    "motivo": "La diversificazione geografica e settoriale attenua i fallimenti delle singole aziende, permettendo all indice di riflettere la resilienza dell intera economia mondiale."
+   }
+  ],
+  "cosa_puo_andare_storto": "A parita di altre condizioni, la catena logica assume che a un calo segua col tempo un recupero guidato dalla ripresa economica. Tuttavia, nel caso di singole aziende o settori strutturalmente obsoleti, il recupero potrebbe non avvenire mai: l azienda puo fallire o perdere per sempre la sua redditivita. Inoltre, se un investitore viene colto dal panico durante il massimo drawdown ed esce dal mercato liquidando le posizioni, congela la perdita definitiva, privandosi della possibilita di beneficiare del rimbalzo e della risalita successiva."
+ },
+ "caso_studio": {
+  "titolo": "Il crollo fulmineo e il rimbalzo globale del febbraio-marzo 2020",
+  "periodo": "Febbraio 2020 - Agosto 2020",
+  "contesto": "All inizio del 2020 i mercati azionari globali registravano nuovi massimi storici sostenuti da una crescita economica moderata ma stabile. La comparsa del virus SARS-CoV-2 e la progressiva attuazione di misure restrittive e chiusure generalizzate hanno generato uno shock esogeno istantaneo sull intera economia mondiale.",
+  "cosa_e_successo": "Tra il 19 febbraio e il 23 marzo 2020, l indice S&P 500 ha accusato un crollo pari a circa il 34 percento in appena 23 giorni di contrattazione. Si e trattato di uno dei drawdown piu rapidi e violenti dell intera storia finanziaria moderna. L indice VIX, che misura la volatilita implicita sulle opzioni dello S&P 500, e schizzato a livelli record simili a quelli toccati durante la crisi bancaria del 2008. Molti operatori temevano una depressione prolungata. Tuttavia, grazie a interventi massicci e coordinati di stimolo monetario da parte delle banche centrali e di sostegno fiscale da parte dei governi, i mercati hanno toccato il minimo il 23 marzo. Per recuperare quel drawdown del 34 percento, l indice ha dovuto mettere a segno un rialzo di oltre il 50 percento. Sorprendentemente, gia nell agosto del 2020, circa cinque mesi dopo il minimo, l indice S&P 500 aveva colmato interamente il drawdown tornando a segnare nuovi massimi storici.",
+  "legame_con_il_concetto": "Questo evento dimostra in modo cristallino tre aspetti chiave della lezione. Primo, la volatilita estrema: oscillazioni giornaliere del 5, 7 o 9 percento in entrambe le direzioni. Secondo, la matematica dell asimmetria: a fronte di un crollo di circa il 34 percento, e stato necessario un rimbalzo di oltre il 50 percento per tornare in parita. Terzo, il tempo di recupero: benche in questo caso eccezionale il recupero sia stato straordinariamente rapido per via della mole senza precedenti di stimoli monetari, chi ha venduto sul fondo del drawdown a marzo per paura ha trasformato una fluttuazione contabile in una distruzione permanente del proprio capitale, perdendosi la successiva ascesa.",
+  "nota_sui_dati": "Le percentuali di calo e rialzo dell indice S&P 500 fanno riferimento ai valori di chiusura ufficiali tra il 19 febbraio 2020 (picco precedente a circa 3386 punti) e il 23 marzo 2020 (minimo a circa 2237 punti). L entita del drawdown e nell ordine del 34 percento e il recupero percentuale richiesto per tornare alla parita e nell ordine del 51-52 percento."
+ },
+ "quiz": [
+  {
+   "domanda": "Se il vostro investimento iniziale di 10000 euro subisce un drawdown del 50 percento arrivando a 5000 euro, quale rendimento percentuale deve ottenere il capitale residuo per ritornare a 10000 euro?",
+   "opzioni": [
+    {
+     "testo": "Un rendimento del 50 percento.",
+     "spiegazione": "Sbagliato. Se a 5000 euro aggiungete il 50 percento (ossia 2500 euro), arrivate a 7500 euro, rimanendo ancora ampiamente sotto il capitale di partenza."
+    },
+    {
+     "testo": "Un rendimento del 100 percento.",
+     "spiegazione": "Corretto. Per colmare un calo del 50 percento serve raddoppiare il capitale rimanente, passando da 5000 a 10000 euro, il che equivale esattamente a un guadagno del 100 percento calcolato sulla nuova base."
+    },
+    {
+     "testo": "Un rendimento del 75 percento.",
+     "spiegazione": "Sbagliato. Il 75 percento di 5000 euro e 3750 euro, che vi porterebbe a 8750 euro, cifra insufficiente a pareggiare i 10000 euro originali."
+    },
+    {
+     "testo": "Un rendimento pari alla perdita piu il tasso d inflazione.",
+     "spiegazione": "Sbagliato. Il calcolo per recuperare il valore nominale dipende puramente dalla relazione matematica tra la nuova base di calcolo ridotta e la perdita subita."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Qual e la principale differenza concettuale tra volatilita e drawdown?",
+   "opzioni": [
+    {
+     "testo": "La volatilita misura la perdita dal picco al minimo, mentre il drawdown misura la velocita con cui salgono i prezzi.",
+     "spiegazione": "Sbagliato. Questa definizione inverte e confonde i due concetti: la perdita da picco a minimo e il drawdown, non la volatilita."
+    },
+    {
+     "testo": "La volatilita riguarda solo le azioni, mentre il drawdown e un concetto applicabile esclusivamente alle obbligazioni.",
+     "spiegazione": "Sbagliato. Entrambi i concetti si applicano a qualunque classe di investimento, dalle azioni agli immobili, dalle materie prime ai portafogli complessi."
+    },
+    {
+     "testo": "La volatilita misura l entita delle oscillazioni di prezzo attorno alla media, mentre il drawdown misura la perdita percentuale registrata tra un picco massimo e il successivo minimo.",
+     "spiegazione": "Corretto. La volatilita cattura la dispersione complessiva dei rendimenti nel tempo, mentre il drawdown quantifica lo specifico calo cumulato dal punto piu alto raggiunto."
+    },
+    {
+     "testo": "Non vi e alcuna differenza: volatilita e drawdown sono due sinonimi intercambiabili usati per descrivere la stessa formula statistica.",
+     "spiegazione": "Sbagliato. Sono due parametri completamente distinti con formule, interpretazioni e scopi operativi differenti."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Per quale motivo un investitore a lungo termine deve prestare grande attenzione al Maximum Drawdown storico di una strategia?",
+   "opzioni": [
+    {
+     "testo": "Perche il Maximum Drawdown permette di calcolare con precisione matematica a quale prezzo vendere per ottenere un profitto sicuro.",
+     "spiegazione": "Sbagliato. Il drawdown e una misura di rischio storico, non uno strumento per prevedere con certezza i profitti o stabilire tempistiche di vendita."
+    },
+    {
+     "testo": "Perche mostra l entita della perdita piu grave subita in passato, aiutando a valutare se la propria tolleranza emotiva e finanziaria sarebbe in grado di sopportarla senza vendere nel panico.",
+     "spiegazione": "Corretto. Conoscere il peggior calo storico evita di sovrastimare la propria resistenza psicologica: se non si puo sopportare un calo del 40 percento senza vendere tutto, quella strategia e inadatta al proprio profilo."
+    },
+    {
+     "testo": "Perche quando un titolo raggiunge il suo Maximum Drawdown storico e matematicamente certo che invertira rotta e salira.",
+     "spiegazione": "Sbagliato. Il mercato non ha memoria dei minimi passati e un asset puo sempre continuare a scendere o persino azzerarsi."
+    },
+    {
+     "testo": "Perche un Maximum Drawdown elevato garantisce che l investimento avra rendimenti futuri proporzionalmente piu alti.",
+     "spiegazione": "Sbagliato. Un drawdown profondo segnala elevata rischiosita e vulnerabilita, ma non fornisce alcuna garanzia automatica di rendimenti futuri stellari."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Cosa si intende esattamente per tempo di recupero (recovery time) dopo una fase ribassista?",
+   "opzioni": [
+    {
+     "testo": "Il tempo impiegato dal governo per dichiarare ufficialmente conclusa una recessione economica.",
+     "spiegazione": "Sbagliato. La recessione e definita da criteri macroeconomici ed elaborata dagli uffici statistici, non coincide con la definizione finanziaria di tempo di recupero."
+    },
+    {
+     "testo": "Il numero di giorni lavorativi in cui il mercato azionario rimane chiuso per festivita o sospensioni tecniche.",
+     "spiegazione": "Sbagliato. Il calendario di negoziazione non ha nulla a che vedere con il recupero delle perdite di valore."
+    },
+    {
+     "testo": "Il tempo che la banca centrale impiega per tagliare i tassi d interesse dopo l inizio di un calo azionario.",
+     "spiegazione": "Sbagliato. Le decisioni di politica monetaria possono influenzare il recupero, ma non definiscono il parametro del tempo di recupero dell investimento."
+    },
+    {
+     "testo": "L arco temporale necessario affinche il valore dell asset o del portafoglio risalga dal minimo fino a raggiungere eguagliando il livello del picco massimo precedente.",
+     "spiegazione": "Corretto. Il tempo di recupero misura l intero periodo di attesa necessario per riassorbire il calo e tornare al livello patrimoniale toccato prima della caduta."
+    }
+   ],
+   "indice_corretta": 3
+  }
+ ],
+ "simulazione": {
+  "titolo": "Analisi grafica di un drawdown storico su SPY",
+  "obiettivo_didattico": "Imparare a individuare visivamente un picco, misurare l ampiezza percentuale di un drawdown e calcolare la percentuale e il tempo necessari per il completo recupero del valore.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "perche_adatto": "E l ETF piu scambiato e liquido al mondo, replica l indice S&P 500 e consente di osservare con precisione millimetrica i cicli di calo e recupero sui grafici storici."
+  },
+  "passi": [
+   "Aprite TradingView o la vostra piattaforma di grafici preferita e digitate il ticker SPY, impostando il grafico su timeframe giornaliero (1D).",
+   "Scorrete indietro sull asse temporale fino a individuare il periodo compreso tra febbraio 2020 e agosto 2020.",
+   "Identificate il picco massimo registrato a meta febbraio 2020 e il punto di minimo assoluto toccato a fine marzo 2020.",
+   "Utilizzate lo strumento di misurazione (righello o strumento percentuale) per tracciare una linea dal massimo di febbraio al minimo di marzo: annotate la percentuale di ribasso registrata (drawdown).",
+   "Senza spostare il punto di partenza temporale, tracciate ora una misurazione dal minimo di marzo 2020 fino alla prima data in cui il prezzo torna a toccare la quota del picco di febbraio.",
+   "Confrontate le due percentuali (quella di calo dal massimo e quella di risalita dal minimo) e contate il numero di giorni di calendario trascorsi per il crollo rispetto a quelli impiegati per la risalita."
+  ],
+  "guida_all_ipotesi": "Prima di misurare, formulate un ipotesi quantitativa: se il calo e stato di circa un terzo del valore (33-34 percento), vi aspettate che per tornare in parita serva un rialzo della stessa misura o sensibilmente superiore? Quanti mesi ritenete siano stati necessari per colmare interamente il drawdown?",
+  "guida_all_invalidazione": "La vostra intuizione intuitiva iniziale verra invalidata se supponete che la percentuale di rialzo coincida con quella di ribasso. I numeri sul grafico vi mostreranno visivamente la discrepanza numerica tra scendere da 100 a 66 e risalire da 66 a 100.",
+  "cosa_registrare": [
+   "Prezzo esatto al picco di febbraio 2020 e data corrispondente.",
+   "Prezzo al minimo di marzo 2020 e data corrispondente.",
+   "Percentuale di drawdown calcolata tra picco e minimo.",
+   "Percentuale di rialzo necessaria per tornare dal minimo al prezzo del picco precedente.",
+   "Numero di giorni o settimane impiegati per scendere rispetto al tempo impiegato per recuperare."
+  ],
+  "giorni_prima_della_revisione": 7,
+  "domande_di_revisione": [
+   "Quale percentuale di salita e stata necessaria per annullare il crollo di circa il 34 percento?",
+   "Cosa accadrebbe al vostro capitale se durante una discesa analoga vendeste in preda all ansia a meta del drawdown?",
+   "Come influisce la comprensione del tempo di recupero sulla durata che dovreste assegnare al vostro orizzonte temporale di investimento?"
+  ],
+  "avvertenza": "Questa simulazione ha fini esclusivamente educativi di misurazione storica e non rappresenta una raccomandazione di investimento. Il paper trading o l osservazione retrospettiva sui grafici non comportano rischi finanziari reali ne riflettono le intense pressioni emotive derivanti dal vedere oscillare i propri risparmi reali."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "La volatilita misura la dispersione statistica dei prezzi attorno alla media: non e solo sinonimo di calo, ma di ampiezza e incertezza delle oscillazioni in entrambe le direzioni.",
+   "Il drawdown misura la perdita percentuale effettiva dal picco piu alto al minimo successivo, mentre il Maximum Drawdown indica il peggior calo storico mai sperimentato da quell asset.",
+   "La matematica delle perdite e asimmetrica: una perdita del 20 percento richiede un guadagno del 25 percento per tornare in parita; una perdita del 50 percento esige un guadagno del 100 percento.",
+   "Il tempo di recupero e il tempo necessario per riassorbire interamente un drawdown: durante questa fase il capitale non genera nuova ricchezza ma si limita a ripristinare il livello precedente.",
+   "La vera tolleranza al rischio si misura sulla capacita psicologica e finanziaria di sopportare il massimo drawdown e il tempo di recupero senza vendere nel panico."
+  ],
+  "domanda_di_riflessione": "Se il portafoglio che avete immaginato nel modulo precedente sull asset allocation subisse domani mattina un drawdown del 30 percento e impiegasse tre interi anni per tornare in parita, la vostra vita quotidiana o la vostra serenita verrebbero compromesse? Se la risposta e si, la vostra allocazione e piu rischiosa di quanto crediate."
+ },
+ "modulo": 16,
+ "area": "Rischio",
+ "generata_il": "2026-11-26",
+ "modello": "gemini-flash-latest"
+}

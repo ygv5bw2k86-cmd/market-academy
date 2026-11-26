@@ -69,31 +69,31 @@
   "id": 12,
   "area": "Macro",
   "titolo": "Ciclo economico e curva dei rendimenti",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 13,
   "area": "Analisi",
   "titolo": "Valutare un'azienda: P/E e multipli",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 14,
   "area": "Psicologia",
   "titolo": "Aspettative e notizie già prezzate",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 15,
   "area": "Rischio",
   "titolo": "Asset allocation e orizzonte temporale",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 16,
   "area": "Rischio",
   "titolo": "Volatilità e drawdown",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 17,

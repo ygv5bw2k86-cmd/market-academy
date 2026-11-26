@@ -1,0 +1,234 @@
+{
+ "titolo": "Modulo 15: Asset allocation, orizzonte temporale e la disciplina del ribilanciamento",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo esaminato i singoli mattoni dei mercati: abbiamo visto cosa sono le azioni e le obbligazioni, come funzionano gli indici, perché la diversificazione riduce il rischio specifico e come le aspettative guidino i prezzi. Ora dobbiamo compiere un passo fondamentale: unire tutti questi pezzi in una struttura coerente e adatta a una persona reale. Questo processo si chiama asset allocation, ovvero l'allocazione delle risorse patrimoniali. L'asset allocation non consiste nell'indovinare quale titolo salirà domani o nel cercare il momento perfetto per entrare sul mercato. È invece la decisione strategica su come suddividere il proprio capitale tra le diverse macro-categorie di investimento, chiamate classi di attivo. Numerosi studi accademici hanno dimostrato che la stragrande maggioranza della variabilità dei rendimenti e del rischio di un portafoglio a lungo termine non dipende dalla scelta delle singole aziende o dal tempismo, ma proprio da questa suddivisione iniziale. In questa lezione impareremo a collegare le classi di attivo all'orizzonte temporale e al profilo di rischio individuale, analizzeremo il classico modello di riferimento bilanciato e scopriremo il meccanismo controintuitivo ma rigoroso del ribilanciamento periodico.",
+  "sezioni": [
+   {
+    "titolo": "Cosa sono le classi di attivo",
+    "testo": "Una classe di attivo, spesso indicata con il termine inglese asset class, è un insieme di strumenti finanziari che condividono caratteristiche economiche omogenee, rispondono a logiche contrattuali simili e tendono a reagire in modo coerente alle forze macroeconomiche. Le tre classi di attivo tradizionali principali sono la liquidità, le obbligazioni e le azioni. La liquidità comprende i depositi bancari, i conti di deposito e gli strumenti monetari a brevissimo termine: offre certezza nominale del capitale e massima disponibilità immediata, ma non offre protezione contro l'inflazione, come abbiamo visto nel Modulo 2. Le obbligazioni rappresentano prestiti a governi o società: offrono cedole regolari e la restituzione del capitale a scadenza, ma il loro valore di mercato oscilla in base ai tassi di interesse, come appreso nel Modulo 6. Le azioni rappresentano quote di proprietà di imprese: partecipano direttamente agli utili e alla crescita economica, offrendo il maggior potenziale di rendimento reale nel tempo, ma esponendo l'investitore a forti oscillazioni di prezzo a breve termine. Esistono anche classi di attivo alternative, come le materie prime, l'oro e gli immobili, che hanno logiche proprie. Comprendere l'asset allocation significa capire che ogni classe svolge un ruolo specifico: le azioni sono il motore di crescita del portafoglio, le obbligazioni fungono da ammortizzatore e fonte di reddito prevedibile, mentre la liquidità garantisce la solvibilità immediata."
+   },
+   {
+    "titolo": "Orizzonte temporale e profilo di rischio",
+    "testo": "La scelta di quante azioni o obbligazioni inserire in un portafoglio non può essere presa a caso o copiata da qualcun altro. Essa dipende da due pilastri inscindibili: l'orizzonte temporale e il profilo di rischio. L'orizzonte temporale è il periodo di tempo per cui si prevede di mantenere investito il denaro prima che debba essere speso per raggiungere un obiettivo concreto, come l'acquisto di una casa, gli studi dei figli o la pensione. La regola fondamentale è che più l'orizzonte temporale è lungo, maggiore è la percentuale di attività volatili, come le azioni, che ci si può permettere di detenere. Nel breve termine, diciamo da uno a tre anni, il prezzo delle azioni è dominato dal rumore, dal sentiment e dai cicli economici: vendere per necessità durante una recessione significa cristallizzare una perdita grave. Su un orizzonte di venti o trenta anni, invece, la crescita economica sottostante tende ad assorbire i cicli negativi. Il secondo pilastro è il profilo di rischio, che non è una semplice etichetta emotiva, ma la combinazione tra capacità finanziaria di subire perdite senza compromettere il proprio stile di vita e tolleranza psicologica alle perdite temporanee. Nel Modulo 7 abbiamo visto come il dolore psicologico di una perdita sia circa il doppio del piacere di un guadagno equivalente. Se un portafoglio è troppo aggressivo per la psicologia dell'investitore, quest'ultimo tenderà a vendere nel momento peggiore, distruggendo il proprio piano."
+   },
+   {
+    "titolo": "Il modello classico del portafoglio 60/40",
+    "testo": "Nel mondo della gestione patrimoniale esiste un portafoglio di riferimento celebre in tutto il mondo: il portafoglio 60/40. Questo modello alloca il 60 percento del capitale in azioni globali o nazionali diversificate e il 40 percento in obbligazioni governative e societarie di alta qualità creditizia a media scadenza. Perché proprio 60 e 40? Non si tratta di una formula magica, ma di un compromesso storico tra crescita e difesa. Il 60 percento di azioni ha storicamente fornito la spinta necessaria per battere l'inflazione e far crescere il potere d'acquisto nel corso dei decenni. Il 40 percento di obbligazioni ha avuto la funzione primaria di stabilizzare il percorso complessivo: quando l'economia entra in recessione e le borse crollano, le banche centrali solitamente tagliano i tassi d'interesse, facendo salire il prezzo delle obbligazioni e compensando, almeno parzialmente, il calo azionario. Questo equilibrio permette a un investitore moderato di partecipare al progresso economico globale senza subire le oscillazioni estreme di un portafoglio composto al cento percento da sole azioni. Tuttavia, come vedremo più avanti, l'efficacia di questo connubio dipende dal livello di inflazione e dalla correlazione tra i due mercati."
+   },
+   {
+    "titolo": "La deriva del portafoglio e la necessità del ribilanciamento",
+    "testo": "Immaginiamo di partire con un portafoglio perfettamente bilanciato: 60 mila euro in azioni e 40 mila euro in obbligazioni, su un totale di 100 mila euro. Con il passare del tempo i mercati si muovono continuamente. Se segue un periodo di forte espansione economica, le azioni potrebbero guadagnare il 50 percento arrivando a 90 mila euro, mentre le obbligazioni potrebbero rimanere stabili a 40 mila euro. Il valore totale sale a 130 mila euro, ma la composizione percentuale è mutata: ora le azioni rappresentano quasi il 70 percento del patrimonio e le obbligazioni solo il 30 percento. Questo fenomeno si chiama deriva del portafoglio. Senza che l'investitore abbia fatto nulla, il suo portafoglio è diventato molto più rischioso rispetto al piano originario, esponendolo a perdite potenzialmente rovinose in caso di improvvisa inversione del ciclo. Il ribilanciamento è l'azione correttiva con cui si riportano i pesi delle classi di attivo alle percentuali originarie prefissate. Per ribilanciare, l'investitore deve vendere una frazione della classe che è cresciuta di più, in questo caso le azioni, e reinvestire il ricavato comprando la classe rimasta indietro, le obbligazioni. In alternativa, può versare nuova liquidità acquistando unicamente l'attività sottopesata. Il ribilanciamento è un principio puramente metodico che costringe a fare ciò che tutti gli investitori sanno di dover fare ma che i bias emotivi impediscono: vendere alto e comprare basso, togliendo l'emozione dal processo decisionale."
+   }
+  ],
+  "analogia": "Pensate all'asset allocation come all'allestimento di un veliero che deve affrontare una traversata oceanica. Le azioni sono le grandi vele maestre: catturano il vento della crescita economica e spingono la nave in avanti a grande velocità, ma se il mare si infuria rischiano di far rovesciare l'imbarcazione. Le obbligazioni sono la zavorra nella chiglia: aggiungono peso e limitano la velocità massima nelle giornate di vento favorevole, ma tengono la nave diritta e stabile quando scoppia una tempesta. La liquidità è la scorta di cibo e acqua dolce nella stiva, indispensabile per i bisogni immediati ma incapace di far avanzare la nave. La scelta di quanta vela montare e quanta zavorra caricare dipende dalla rotta e dalla durata del viaggio: per una traversata di molte settimane in mare aperto si monteranno vele ampie accettando le onde; per manovrare vicino alla costa o tra gli scogli serviranno pochissime vele e massima zavorra. Il ribilanciamento è il compito del marinaio che ridistribuisce il carico nella stiva quando la nave comincia a inclinarsi troppo da un lato, impedendole di ribaltarsi.",
+  "errori_comuni": [
+   "Credere che l'asset allocation sia una scelta definitiva da impostare una volta sola e non monitorare mai, ignorando la deriva del portafoglio.",
+   "Stabilire la quota azionaria guardando solo i rendimenti passati recenti anziché il proprio orizzonte temporale reale e la propria sopportazione del rischio.",
+   "Rifiutarsi di ribilanciare per avidità, lasciando correre le azioni quando sono salite molto perché sembra che debbano salire per sempre.",
+   "Considerare il ribilanciamento come una tecnica per massimizzare i profitti, mentre il suo scopo primario è controllare e mantenere costante il livello di rischio prestabilito."
+  ],
+  "glossario": [
+   {
+    "termine": "Asset allocation",
+    "definizione": "La strategia di distribuzione del patrimonio finanziario complessivo tra diverse macro-categorie di investimento, come azioni, obbligazioni e liquidità, in base a orizzonte temporale e profilo di rischio."
+   },
+   {
+    "termine": "Deriva del portafoglio",
+    "definizione": "La variazione involontaria delle percentuali di allocazione tra le diverse classi di attivo causata dalle differenti performance di mercato dei singoli strumenti nel corso del tempo."
+   },
+   {
+    "termine": "Ribilanciamento",
+    "definizione": "L'operazione periodica o basata su soglie prefissate con cui si acquistano o vendono quote delle varie classi di attivo per riallineare i pesi percentuali effettivi a quelli del piano originario."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Un prolungato ciclo di espansione dei mercati azionari accompagnato da tassi di interesse stabili altera la composizione iniziale di un portafoglio bilanciato.",
+  "catena": [
+   {
+    "passo": "Passo 1: Crescita asimmetrica delle classi di attivo",
+    "spiegazione": "Durante una fase economica positiva, le aziende aumentano utili e fatturati. I titoli azionari crescono a un ritmo medio annuo nettamente superiore rispetto al rendimento cedolare delle obbligazioni governative."
+   },
+   {
+    "passo": "Passo 2: Espansione del peso azionario e contrazione della componente difensiva",
+    "spiegazione": "Poiché il valore monetario della parte azionaria cresce più in fretta, la sua percentuale sul totale del patrimonio aumenta spontaneamente. Se il portafoglio era partito con un rapporto 60/40, dopo qualche anno di mercato rialzista può trovarsi naturalmente a un rapporto 75/25."
+   },
+   {
+    "passo": "Passo 3: Modifica inconsapevole del profilo di rischio",
+    "spiegazione": "L'investitore si trova a detenere un portafoglio molto più aggressivo di quello deliberato all'inizio. La capacità di assorbire uno shock di mercato diminuisce perché la zavorra difensiva, ovvero le obbligazioni, si è ridotta in termini relativi."
+   },
+   {
+    "passo": "Passo 4: Esecuzione del ribilanciamento disciplinato",
+    "spiegazione": "L'investitore applica la regola del ribilanciamento vendendo il 15 percento eccedente di azioni e destinando i proventi all'acquisto di obbligazioni. Così facendo monetizza parte dei guadagni azionari quando i prezzi sono elevati e compra titoli obbligazionari a sconto o a rendimenti stabili."
+   },
+   {
+    "passo": "Passo 5: Ripristino della protezione originaria",
+    "spiegazione": "Il portafoglio torna al 60 percento di azioni e al 40 percento di obbligazioni, pronto ad affrontare un eventuale ciclo ribassista con il livello di rischio per cui era stato originariamente progettato."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni globali (quota eccedente)",
+    "effetto": "Vendita parziale per riallineamento delle percentuali.",
+    "motivo": "Il loro valore di mercato è cresciuto più delle altre classi, portando l'esposizione oltre la soglia programmata."
+   },
+   {
+    "asset": "Obbligazioni a media scadenza",
+    "effetto": "Acquisto aggiuntivo tramite liquidità o proventi azionari.",
+    "motivo": "Il loro peso relativo è sceso sotto la quota obiettivo a causa della sovraperformance azionaria."
+   },
+   {
+    "asset": "Portafoglio totale complessivo",
+    "effetto": "Stabilizzazione della volatilità attesa.",
+    "motivo": "La quota di rischio azionario viene riportata al livello compatibile con la tolleranza e l'orizzonte dell'investitore."
+   }
+  ],
+  "cosa_puo_andare_storto": "A parità di altre condizioni, il ribilanciamento sistematico controlla il rischio ed è una disciplina sana. Tuttavia, possono intervenire complicazioni rilevanti. La prima è l'attrito fiscale e di commissioni: vendere attività che hanno registrato forti plusvalenze genera imposte sul capital gain e costi di transazione che riducono il capitale netto, motivo per cui molti investitori preferiscono ribilanciare iniettando nuovi risparmi direttamente nella classe rimasta indietro invece di vendere. La seconda riguarda i mercati in forte trend prolungato: in un mercato azionario che continua a salire ininterrottamente per molti anni, ribilanciare vendendo azioni ridurrà il rendimento totale rispetto a chi non fa nulla. Infine, c'è il rischio di shock simultaneo: se azioni e obbligazioni scendono contemporaneamente nello stesso anno a causa di un'inflazione imprevista e di un repentino aumento dei tassi, come accaduto nel 2022, il ribilanciamento tra le due classi non elimina la perdita a breve termine, poiché la tradizionale correlazione negativa temporaneamente svanisce."
+ },
+ "caso_studio": {
+  "titolo": "Il portafoglio 60/40 alla prova della storia: decenni di stabilità e il test del 2022",
+  "periodo": "Dal 1980 al 2022",
+  "contesto": "Per oltre quarant'anni, a partire dai primi anni Ottanta fino al 2021, il portafoglio bilanciato 60/40 basato sul mercato statunitense e globale è stato considerato il paradigma della gestione prudente. Durante questi quattro decenni, i tassi d'interesse globali hanno seguito una tendenza strutturale discendente e l'inflazione è rimasta quasi sempre contenuta. In questo contesto, le obbligazioni hanno fornito cedole attraenti e un formidabile apprezzamento di capitale durante le recessioni economiche, compensando fedelmente i violenti crolli delle borse, come durante lo scoppio della bolla tecnologica del 2000-2002 e la grande crisi finanziaria del 2008.",
+  "cosa_e_successo": "Nel corso di questo lungo periodo, un investitore che avesse ribilanciato regolarmente il portafoglio 60/40 avrebbe ottenuto rendimenti medi annui storici intorno al 7-9 percento nominale, con una variabilità e cadute di valore molto più dolci rispetto a chi possedeva sole azioni. Tuttavia, il 2022 ha presentato uno scenario che molti investitori moderni non avevano mai sperimentato. A seguito di shock nelle catene di fornitura globali e di un brusco ritorno dell'inflazione oltre l'8-9 percento nelle principali economie, le banche centrali hanno aumentato i tassi di interesse al ritmo più veloce degli ultimi quattro decenni. Come abbiamo appreso nel Modulo 6, quando i tassi salgono rapidamente, il prezzo delle obbligazioni già in circolazione crolla. Nel 2022, l'indice azionario S&P 500 ha registrato una perdita di circa il 18-19 percento, mentre il mercato obbligazionario statunitense aggregato ha perso oltre il 13 percento, registrando uno dei suoi peggiori anni della storia moderna. Entrambi i motori del portafoglio hanno perso valore nello stesso istante, portando il portafoglio 60/40 a una flessione complessiva nell'ordine del 16-17 percento, la peggiore dal 2008 e una delle più acute dal secondo dopoguerra.",
+  "legame_con_il_concetto": "Questo caso studio dimostra in modo lampante due principi essenziali della finanza. Il primo è che nessun modello di asset allocation è immune al rischio nel breve periodo. La protezione offerta dalle obbligazioni si basa sulla premessa che una frenata economica porti a un calo dei tassi d'interesse, ma quando la crisi è causata da un'inflazione inaspettata e violenta, azioni e obbligazioni possono scendere simultaneamente. Il secondo principio è il valore dell'orizzonte temporale e del ribilanciamento: chi nel 2022 ha mantenuto la rotta e ha ribilanciato acquistando le obbligazioni svalutate che offrivano rendimenti a scadenza tornati finalmente interessanti, ha visto il portafoglio recuperare ampiamente terreno nei successivi anni 2023 e 2024, quando l'inflazione ha iniziato a decelerare. L'asset allocation non garantisce di evitare gli anni cattivi, ma assicura che il portafoglio possieda sempre una struttura solida per ripartire.",
+  "nota_sui_dati": "I rendimenti citati per il 2022 fanno riferimento agli indici standard total return di mercato per l'azionario statunitense (come S&P 500) e per l'obbligazionario aggregato (come Bloomberg US Aggregate Bond Index). A seconda delle valute e degli indici specifici utilizzati, le percentuali precise possono presentare lievi variazioni nell'ordine di uno o due punti percentuali."
+ },
+ "quiz": [
+  {
+   "domanda": "Quale tra le seguenti affermazioni descrive più correttamente il ruolo dell'orizzonte temporale nella costruzione di un'asset allocation?",
+   "opzioni": [
+    {
+     "testo": "Un orizzonte temporale più lungo consente teoricamente di tollerare una quota maggiore di azioni, poiché vi è tempo sufficiente per superare i cicli ribassisti del mercato senza dover liquidare in perdita.",
+     "spiegazione": "Corretta. Più tempo si ha a disposizione prima di dover utilizzare i capitali, minore è il rischio che una perdita di breve termine costringa a vendere in un momento sfavorevole, permettendo al portafoglio di catturare la crescita economica di lungo periodo."
+    },
+    {
+     "testo": "Un orizzonte temporale più lungo richiede di detenere prevalentemente liquidità per poter cogliere ogni ribasso di prezzo che si presenterà negli anni.",
+     "spiegazione": "Sbagliata. Mantenere troppa liquidità su un orizzonte lungo espone il capitale all'erosione certa provocata dall'inflazione e azzera il potenziale di crescita economica."
+    },
+    {
+     "testo": "L'orizzonte temporale indica il giorno esatto del mese in cui è matematicamente più conveniente acquistare o vendere fondi indicizzati.",
+     "spiegazione": "Sbagliata. Questo confonde l'orizzonte temporale con il market timing o il giorno di esecuzione degli ordini. L'orizzonte è l'ampiezza dell'intero periodo di investimento."
+    },
+    {
+     "testo": "L'orizzonte temporale è irrilevante se l'investitore seleziona obbligazioni governative, poiché esse non subiscono mai oscillazioni di prezzo di mercato.",
+     "spiegazione": "Sbagliata. Abbiamo imparato nel Modulo 6 che le obbligazioni oscillano di prezzo quotidianamente in risposta alle variazioni dei tassi di interesse, quindi l'orizzonte temporale è fondamentale anche per loro."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Che cosa si intende esattamente per 'deriva del portafoglio' (portfolio drift)?",
+   "opzioni": [
+    {
+     "testo": "La progressiva riduzione delle commissioni di gestione applicate dalla banca o dal broker nel corso degli anni.",
+     "spiegazione": "Sbagliata. Le commissioni non hanno relazione concettuale con la dinamica di deriva dei pesi tra classi di attivo."
+    },
+    {
+     "testo": "La variazione automatica delle percentuali allocate nelle diverse classi di attivo provocata dai differenti andamenti di prezzo dei singoli mercati.",
+     "spiegazione": "Corretta. Se un'attività sale più velocemente delle altre, il suo controvalore monetario aumenta proporzionalmente di più, alterando la percentuale prefissata rispetto al totale del patrimonio."
+    },
+    {
+     "testo": "La decisione volontaria dell'investitore di cambiare la propria strategia finanziaria passando a strumenti più complessi.",
+     "spiegazione": "Sbagliata. La deriva è un fenomeno naturale e passivo causato dai mercati, non una scelta volontaria di modifica strategica dell'investitore."
+    },
+    {
+     "testo": "Il crollo istantaneo e irreversibile del valore di tutte le azioni presenti all'interno di un portafoglio diversificato.",
+     "spiegazione": "Sbagliata. Questo descrive un evento catastrofico di mercato, non il graduale disallineamento percentuale delle classi di investimento."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Qual è lo scopo fondamentale del ribilanciamento periodico di un portafoglio?",
+   "opzioni": [
+    {
+     "testo": "Garantire che il portafoglio batta costantemente il rendimento massimo registrabile sui mercati azionari ogni singolo anno.",
+     "spiegazione": "Sbagliata. Nessuna tecnica di ribilanciamento può garantire di battere costantemente il mercato più redditizio; in un mercato azionario sempre rialzista, ribilanciare riduce leggermente il rendimento a favore della sicurezza."
+    },
+    {
+     "testo": "Azzerare completamente qualsiasi oscillazione o calo di valore del patrimonio in ogni fase macroeconomica.",
+     "spiegazione": "Sbagliata. Il ribilanciamento non elimina la volatilità, né impedisce perdite temporanee: serve a governare il rischio, non a cancellarlo."
+    },
+    {
+     "testo": "Mantenere il livello di rischio del portafoglio allineato agli obiettivi iniziali, evitando che una classe prevalga eccessivamente sulle altre.",
+     "spiegazione": "Corretta. Lo scopo principale del ribilanciamento è il controllo del rischio: impedisce al portafoglio di diventare inavvertitamente troppo aggressivo o troppo difensivo rispetto al piano."
+    },
+    {
+     "testo": "Eliminare del tutto i costi fiscali legati alle plusvalenze generate dagli investimenti.",
+     "spiegazione": "Sbagliata. Al contrario, vendere quote in guadagno per ribilanciare può generare tassazione sui guadagni di capitale, motivo per cui i costi fiscali vanno gestiti attentamente."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Per quale motivo nel 2022 il classico portafoglio bilanciato 60/40 ha registrato una delle peggiori perdite degli ultimi decenni?",
+   "opzioni": [
+    {
+     "testo": "Tutte le principali società dell'indice azionario sono fallite contemporaneamente a causa di debiti insoluti.",
+     "spiegazione": "Sbagliata. Le aziende non sono affatto fallite in massa; si è trattato di una discesa delle quotazioni dovuta alla revisione dei multipli di valutazione e alle condizioni economiche generali."
+    },
+    {
+     "testo": "I mercati finanziari globali sono stati chiusi dalle autorità per gran parte dell'anno, impedendo la formazione dei prezzi.",
+     "spiegazione": "Sbagliata. I mercati sono sempre rimasti regolarmente aperti e funzionanti nel 2022."
+    },
+    {
+     "testo": "Il governo federale degli Stati Uniti ha dichiarato bancarotta, rendendo nulle le obbligazioni del Tesoro in circolazione.",
+     "spiegazione": "Sbagliata. Gli Stati Uniti non hanno fatto default sui loro titoli di debito; i prezzi sono calati semplicemente perché i nuovi tassi d'interesse erano molto più alti di quelli passati."
+    },
+    {
+     "testo": "Un'inflazione molto elevata e inaspettata ha spinto le banche centrali ad alzare rapidamente i tassi d'interesse, provocando una discesa simultanea dei prezzi sia delle azioni che delle obbligazioni.",
+     "spiegazione": "Corretta. Il rapido rialzo dei tassi ha depresso il valore delle obbligazioni esistenti a cedola fissa e contemporaneamente ha pesato sulle valutazioni delle azioni, facendo crollare temporaneamente la tradizionale correlazione negativa tra le due classi."
+    }
+   ],
+   "indice_corretta": 3
+  }
+ ],
+ "simulazione": {
+  "titolo": "Esperimento pratico di monitoraggio dell'asset allocation e calcolo della deriva",
+  "obiettivo_didattico": "Comprendere concretamente come i movimenti di prezzo quotidiani modifichino le proporzioni relative tra due classi di attivo differenti (azioni e obbligazioni) e osservare come si calcola la deriva percentuale del portafoglio senza farsi influenzare dall'emotività.",
+  "strumento_da_osservare": {
+   "nome": "Coppia di ETF bilanciati: SPDR S&P 500 ETF Trust e iShares 20+ Year Treasury Bond ETF",
+   "ticker": "SPY e TLT",
+   "perche_adatto": "SPY rappresenta l'azionario a larga capitalizzazione USA (la componente di crescita), mentre TLT rappresenta obbligazioni governative a lungo termine (la componente altamente sensibile ai tassi d'interesse). Osservare insieme questi due strumenti molto liquidi permette di vedere chiaramente come reagiscono in modo differente alle notizie macroeconomiche."
+  },
+  "passi": [
+   "Accedi al tuo conto simulato (paper trading) su TradingView o su un foglio di calcolo didattico.",
+   "Imposta un portafoglio ipotetico con un capitale virtuale iniziale di 10.000 dollari.",
+   "Ipotizza un'allocazione teorica 60/40: alloca virtualmente il 60 percento (6.000 dollari) in SPY e il 40 percento (4.000 dollari) in TLT, calcolando quante quote di ciascuno strumento potresti idealmente acquistare al prezzo corrente.",
+   "Annota il prezzo di ingresso di ciascun titolo, il numero di quote fittizie ottenute e il controvalore totale iniziale delle due posizioni.",
+   "Non eseguire modifiche o compravendite durante il periodo di prova; mantieni unicamente un diario di osservazione settimanale registrando i prezzi di chiusura del venerdì."
+  ],
+  "guida_all_ipotesi": "Formula una tua ipotesi iniziale scritta. Ad esempio: ritieni che in questo mese i mercati azionari e obbligazionari si muoveranno in direzioni opposte attenuando le oscillazioni complessive del valore, oppure che si muoveranno nella stessa direzione a causa delle recenti dichiarazioni della banca centrale? Quale delle due classi prevedi che si espanderà di più, alterando il rapporto 60/40 originario?",
+  "guida_all_invalidazione": "La tua ipotesi sarà considerata invalidata se, al termine delle quattro settimane, il peso percentuale tra le due classi resterà pressoché invariato (scostamento inferiore allo 0,5 percento) a causa di movimenti perfettamente sincronizzati e proporzionali, oppure se la classe che ritenevi più difensiva subirà un'oscillazione percentuale maggiore rispetto a quella azionaria.",
+  "cosa_registrare": [
+   "Data di ogni singola rilevazione settimanale (fine settimana).",
+   "Prezzo di mercato corrente di SPY e di TLT.",
+   "Controvalore in dollari della posizione virtuale in SPY e percentuale sul valore totale del portafoglio.",
+   "Controvalore in dollari della posizione virtuale in TLT e percentuale sul valore totale del portafoglio.",
+   "Calcolo della deriva: differenza matematica tra la percentuale attuale e il 60 percento prefissato per SPY (e il 40 percento per TLT)."
+  ],
+  "giorni_prima_della_revisione": 30,
+  "domande_di_revisione": [
+   "Dopo 30 giorni, qual è la nuova percentuale di SPY e TLT sul totale del capitale virtuale?",
+   "Se dovessi ribilanciare oggi per ripristinare il rapporto 60/40 esatto, quale strumento dovresti vendere teoricamente e quale dovresti comprare?",
+   "In che misura la presenza della componente obbligazionaria ha ridotto o amplificato l'oscillazione del portafoglio totale rispetto al possesso del solo strumento azionario?",
+   "Come ti sei sentito psicologicamente vedendo una delle due componenti scendere o salire rispetto all'altra, pur sapendo che si tratta di denaro simulato?"
+  ],
+  "avvertenza": "Questa simulazione didattica serve esclusivamente a comprendere la meccanica del disallineamento dei pesi patrimoniali e il calcolo del ribilanciamento. Non costituisce in alcun modo una raccomandazione di investimento né un consiglio operativo. Il paper trading su piattaforma demo non comporta impiego di denaro reale, non genera rischi patrimoniali e non replica lo stress emotivo tipico della gestione dei propri risparmi reali."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "L'asset allocation, ovvero la ripartizione strategica tra azioni, obbligazioni e liquidità, è la determinante principale del profilo di rischio e del rendimento a lungo termine di un investitore.",
+   "L'orizzonte temporale e la tolleranza al rischio personale dettano la composizione del portafoglio: orizzonti lunghi consentono di assumere quote azionarie maggiori per contrastare l'inflazione, mentre orizzonti brevi richiedono sicurezza e stabilità.",
+   "Il modello 60/40 è storicamente il portafoglio bilanciato di riferimento per bilanciare crescita economica e protezione durante le recessioni, sebbene in contesti di shock inflattivi entrambe le componenti possano soffrire temporaneamente insieme.",
+   "I mercati tendono a far deviare spontaneamente i pesi del portafoglio attraverso la performance asimmetrica delle classi di attivo (deriva del portafoglio).",
+   "Il ribilanciamento è la pratica sistematica e non emotiva di ripristinare i pesi iniziali vendendo ciò che è cresciuto oltre misura e comprando ciò che è rimasto indietro, preservando la coerenza del piano originale."
+  ],
+  "domanda_di_riflessione": "Se tra tre anni avessi bisogno del 30 percento dei tuoi risparmi per una spesa importante e improrogabile, come dovrebbe cambiare oggi l'allocazione delle tue risorse rispetto a un obiettivo pensionistico distante trent'anni, e quale errore psicologico tenderesti a commettere se i mercati azionari stessero salendo senza sosta?"
+ },
+ "modulo": 15,
+ "area": "Rischio",
+ "generata_il": "2026-11-26",
+ "modello": "gemini-flash-latest"
+}

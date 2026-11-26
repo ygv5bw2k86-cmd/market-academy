@@ -1,0 +1,235 @@
+{
+ "titolo": "Aspettative e notizie già prezzate: la psicologia delle reazioni di mercato",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Uno dei momenti più sconcertanti per chi inizia a osservare i mercati finanziari si verifica quando un'azienda quotata annuncia profitti da record, vendite eccezionali e nuovi prodotti, ma il prezzo della sua azione crolla il giorno stesso. Allo stesso modo, capita di vedere indici di borsa salire vigorosamente proprio mentre le notizie sui telegiornali parlano di rallentamento economico o disoccupazione in aumento. Questa apparente contraddizione spinge molti principianti a concludere frettolosamente che i mercati siano completamente irrazionali, manovrati o privi di logica economica. La realtà è diversa: il mercato non valuta il passato e nemmeno il presente, ma formula costantemente ipotesi sul futuro. Nel Modulo 13 abbiamo visto come si valuta un'azienda tramite multipli come il rapporto prezzo-utili, scoprendo che il prezzo corrente riflette già un certo livello di crescita attesa. In questa lezione analizzeremo il meccanismo attraverso cui le informazioni si riflettono nei prezzi prima ancora che i fatti si compiano. Capiremo cosa significa che una notizia è già prezzata, perché ciò che muove i mercati non è il fatto in sé ma la sorpresa rispetto alle attese, e come la psicologia collettiva degli operatori trasformi le speranze e i timori in prezzi tangibili.",
+  "sezioni": [
+   {
+    "titolo": "Il mercato come meccanismo di sconto del futuro",
+    "testo": "Per comprendere il comportamento delle quotazioni, bisogna abbandonare l'idea che il prezzo di un titolo rappresenti una fotografia dello stato attuale dell'azienda. Il mercato finanziario è essenzialmente un meccanismo di sconto del futuro. Ciò significa che il prezzo a cui oggi scambiamo un'azione, un'obbligazione o una materia prima incorpora già la media ponderata di tutte le informazioni disponibili e, soprattutto, di tutte le aspettative su ciò che accadrà nei mesi o negli anni successivi. Se una società farmaceutica sta completando i test clinici per un nuovo farmaco rivoluzionario e la comunità scientifica ritiene altamente probabile l'approvazione, gli operatori non aspetteranno il comunicato ufficiale dell'agenzia del farmaco per acquistare le azioni. Cominceranno a comprare subito, facendo salire il titolo gradualmente man mano che la probabilità di successo percepita aumenta. Quando il farmaco riceverà finalmente il via libera ufficiale, la notizia non sarà una sorpresa. Gli acquirenti che volevano posizionarsi per quell'evento lo avranno già fatto. Di conseguenza, nel momento dell'annuncio formale, l'evento è già interamente riflesso nel valore del titolo: si dice comunemente che la notizia è già prezzata. Se l'approvazione formale non aggiunge nulla di nuovo rispetto a quanto già ipotizzato, il prezzo non ha motivo di salire ulteriormente e potrebbe persino scendere a causa delle prese di beneficio di chi vende per incassare i guadagni accumulati durante l'attesa."
+   },
+   {
+    "titolo": "L'ipotesi dei mercati efficienti e il concetto di consenso",
+    "testo": "Negli anni Sessanta l'economista Eugene Fama formalizzò l'ipotesi di efficienza dei mercati. Secondo questa teoria economica, i prezzi degli strumenti finanziari riflettono in modo rapido e accurato tutte le informazioni rilevanti a disposizione del pubblico. Sebbene nella realtà i mercati non siano perfettamente efficienti a causa delle emozioni umane e dei bias cognitivi che abbiamo studiato nel Modulo 7, la concorrenza tra milioni di investitori, analisti professionali e algoritmi fa sì che le informazioni note vengano integrate nelle quotazioni con straordinaria velocità. Per misurare queste aspettative aggregate, il mondo finanziario si affida al consenso degli analisti. Prima della pubblicazione dei dati di bilancio di un'azienda o della diffusione di indicatori macroeconomici come l'inflazione o il PIL, decine di banche d'affari e società di ricerca pubblicano le proprie previsioni. La media di queste stime costituisce il consenso. Il consenso è il punto di riferimento rispetto al quale ogni dato reale verrà confrontato. Quando un dato viene pubblicato, al mercato non interessa il numero assoluto, ma la distanza tra quel numero e la stima del consenso. Un utile netto di 500 milioni di euro è un dato positivo in termini assoluti, ma diventa una notizia deludente se il consenso stimava 550 milioni."
+   },
+   {
+    "titolo": "L'effetto sorpresa: battere o mancare le stime",
+    "testo": "La differenza algebrica ed emotiva tra il dato reale pubblicato e la previsione di consenso prende il nome di sorpresa. È la sorpresa a guidare la reazione immediata dei prezzi, non il dato in sé. Possiamo distinguere tre scenari tipici. Il primo scenario è la sorpresa positiva, spesso definita con l'espressione inglese beat: i risultati aziendali o i dati economici superano le aspettative. A parità di altre condizioni, questo evento spinge gli operatori ad aggiornare al rialzo le previsioni future, generando pressioni di acquisto sul titolo. Il secondo scenario è l'allineamento con le stime, in cui il dato coincide con il consenso: la volatilità tende a essere contenuta perché la notizia era già stata assorbita e incorporata nel valore delle azioni nelle sedute precedenti. Il terzo scenario è la sorpresa negativa, o miss: il dato si rivela peggiore rispetto a quanto atteso, innescando vendite perché la realtà ha infranto le ipotesi incorporate nei prezzi. Tuttavia, la sorpresa non si limita ai dati numerici storici del trimestre appena concluso, ma si estende a ciò che l'azienda dichiara riguardo al proprio futuro immediato."
+   },
+   {
+    "titolo": "La guida futura e le aspettative non ufficiali",
+    "testo": "Spesso i bilanci presentano numeri trimestrali passati eccellenti, capaci di battere il consenso, ma il titolo scende ugualmente. Perché accade? La risposta risiede in due fattori critici: la guidance e i cosiddetti numeri sussurrati, noti nel gergo finanziario come whisper numbers. La guidance, o guida futura, è la stima ufficiale che il gruppo dirigente dell'azienda fornisce sulle vendite e sui margini dei trimestri a venire durante la conferenza con gli analisti. Gli investitori sanno che gli utili dell'ultimo trimestre appartengono ormai alla storia e non possono essere modificati. Il valore dell'azienda, invece, dipende dai flussi di cassa che verranno generati domani. Se un'azienda batte le stime del passato ma riduce la guidance per l'anno in corso a causa di costi crescenti o domanda debole, gli analisti taglieranno i loro modelli previsionali futuri e il titolo scenderà. Inoltre, prima degli annunci circolano spesso stime informali tra i grandi operatori istituzionali, più ottimistiche rispetto al consenso ufficiale pubblicato. Se il titolo è salito molto prima dei risultati perché gli operatori si aspettavano informalmente una prestazione strabiliante, battere il consenso ufficiale di poco potrebbe rivelarsi insufficiente rispetto alle aspettative reali non scritte del mercato."
+   }
+  ],
+  "analogia": "Immagina di aver programmato da mesi una vacanza su un'isola tropicale nota per il suo clima sereno e le spiagge baciate dal sole. Le tue aspettative sono altissime: ti aspetti una settimana perfetta, senza una sola nuvola. Se arrivato a destinazione trovi cielo coperto e una pioggia leggera intermittente, proverai una cocente delusione, anche se la temperatura resta gradevole e l'albergo è confortevole. La tua reazione emotiva negativa non è causata dalla pioggia in sé, ma dalla frattura dolorosa tra ciò che avevi sognato e ciò che hai trovato. Considera ora la situazione opposta: prenoti un viaggio in una località di montagna sapendo che è prevista una bufera di neve con temperature glaciali. Le tue aspettative sono impostate sul peggio. Se una volta arrivato trovi una semplice nevicata tranquilla che permette comunque di passeggiare, proverai sollievo e felicità. Nei mercati finanziari accade esattamente la stessa cosa: il valore di un titolo non si muove in base alla bellezza oggettiva della giornata, ma in base al confronto tra il tempo meteorologico reale e il meteo che gli operatori avevano già immaginato quando hanno fatto la valigia.",
+  "errori_comuni": [
+   "Comprare un'azione appena dopo l'annuncio di un ottimo bilancio trimestrale, dando per scontato che il titolo debba salire senza aver verificato cosa prevedeva il consenso.",
+   "Valutare un comunicato aziendale guardando unicamente ai ricavi e all'utile netto passati, ignorando le dichiarazioni dei dirigenti sulle prospettive dei trimestri futuri.",
+   "Ritenere che il mercato sia manovrato o privo di senso quando scende su buone notizie, ignorando che il titolo aveva già guadagnato molto nelle settimane precedenti scontando in anticipo l'evento.",
+   "Confondere una tendenza fondamentale a lungo termine con la reazione di breve periodo guidata dalla sorpresa e dalla volatilità post-annuncio."
+  ],
+  "glossario": [
+   {
+    "termine": "Prezzato (Priced-in)",
+    "definizione": "Condizione in cui un'informazione, un dato macroeconomico o una previsione futura sono già stati riflessi e incorporati nel prezzo di mercato corrente di un'attività finanziaria attraverso gli scambi precedenti."
+   },
+   {
+    "termine": "Consenso degli analisti (Consensus)",
+    "definizione": "La media matematica delle previsioni su ricavi, utili per azione o indicatori economici calcolata raccogliendo le stime fornite dai professionisti delle principali case d'investimento prima di un annuncio ufficiale."
+   },
+   {
+    "termine": "Guidance aziendale",
+    "definizione": "Le stime e indicazioni ufficiali che il gruppo dirigente di una società quotata fornisce al pubblico riguardo ai ricavi, margini e utili previsti per i trimestri o gli anni successivi."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Pubblicazione di dati trimestrali superiori alle stime di consenso, accompagnata però da una revisione prudente o al ribasso della guidance per il trimestre successivo.",
+  "catena": [
+   {
+    "passo": "Passo 1: Formazione delle aspettative",
+    "spiegazione": "Nelle settimane che precedono la pubblicazione del bilancio, gli analisti stimano ricavi e profitti. Se il sentiment di mercato è ottimista, gli investitori acquistano il titolo spingendo il prezzo verso l'alto e scontando in anticipo numeri contabili eccellenti."
+   },
+   {
+    "passo": "Passo 2: Comunicazione dei risultati contabili",
+    "spiegazione": "L'azienda diffonde il comunicato ufficiale: i ricavi e gli utili per azione del trimestre appena chiuso superano il consenso di mercato con una sorpresa quantitativa positiva sul passato."
+   },
+   {
+    "passo": "Passo 3: Presentazione delle prospettive future durante la conferenza",
+    "spiegazione": "I vertici aziendali spiegano che, a causa di un raffreddamento degli ordini, di pressioni sui costi delle materie prime o di tassi d'interesse più elevati, le vendite del trimestre successivo saranno inferiori a quanto precedentemente previsto."
+   },
+   {
+    "passo": "Passo 4: Ricalcolo immediato dei modelli valutativi",
+    "spiegazione": "Gli investitori istituzionali e i modelli quantitativi aggiornano istantaneamente le stime sui flussi di cassa futuri. Poiché il valore intrinseco dipende dal domani e non da ieri, il valore stimato della società si riduce."
+   },
+   {
+    "passo": "Passo 5: Ondata di vendite e calo del prezzo",
+    "spiegazione": "Coloro che avevano acquistato prima dei conti per speculare sulla pubblicazione chiudono le posizioni, mentre i fondi a lungo termine riducono l'esposizione: la pressione di vendita supera la domanda e il prezzo scende vistosamente nonostante i profitti record passati."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azione dell'azienda che ha pubblicato i dati",
+    "effetto": "Flessione repentina del prezzo nelle sedute immediatamente successive alla trimestrale.",
+    "motivo": "Il mercato corregge al ribasso le stime sui profitti futuri, annullando il beneficio di un passato contabile migliore delle attese."
+   },
+   {
+    "asset": "Azioni delle aziende concorrenti nello stesso settore",
+    "effetto": "Pressione ribassista o aumento della volatilità anche senza notizie specifiche dirette.",
+    "motivo": "Gli operatori deducono che il rallentamento della domanda o l'aumento dei costi dichiarato dall'azienda leader colpirà l'intero comparto industriale."
+   },
+   {
+    "asset": "Fondo indicizzato o ETF concentrato in quel settore",
+    "effetto": "Flessione moderata correlata al peso dell'azienda e dei suoi concorrenti all'interno del paniere.",
+    "motivo": "La revisione al ribasso dei profitti dell'azienda guida riduce l'utile aggregato atteso del settore, indebolendo il valore dell'indice."
+   }
+  ],
+  "cosa_puo_andare_storto": "Questa catena logica si basa sul principio del ceteris paribus, ossia a parità di tutte le altre condizioni. Nella realtà operativa possono intervenire fattori contrastanti che ribaltano il risultato. Ad esempio, l'azienda potrebbe presentare una guidance debole ma contemporaneamente annunciare un massiccio piano di riacquisto di azioni proprie (buyback) o un aumento del dividendo straordinario, sostenendo la domanda del titolo. Inoltre, se il prezzo dell'azione era già sceso in modo drammatico nei mesi precedenti scontando una catastrofe economica, una guidance semplicemente mediocre potrebbe essere interpretata come una notizia migliore del peggior scenario immaginato, innescando un violento rimbalzo tecnico verso l'alto anziché una discesa."
+ },
+ "caso_studio": {
+  "titolo": "La trimestrale da record di Apple e il calo del titolo nel gennaio 2021",
+  "periodo": "Gennaio 2021",
+  "contesto": "Durante la pandemia di Covid-19, la domanda globale di tecnologia di consumo conobbe un'espansione senza precedenti. Milioni di persone costrette a lavorare e studiare da casa rinnovarono computer, tablet e telefoni cellulari. In questo contesto, Apple presentò i risultati contabili del primo trimestre fiscale del 2021, un periodo cruciale che comprendeva le vendite natalizie e il lancio della gamma iPhone 12, il primo modello dotato di connettività 5G. Nelle settimane precedenti l'annuncio, le azioni Apple avevano registrato un forte apprezzamento, salendo fino ai massimi storici spinte dall'ottimismo diffuso degli investitori.",
+  "cosa_e_successo": "Il 27 gennaio 2021, al termine della seduta di borsa americana, Apple rese noti i dati contabili. Per la prima volta nella storia aziendale, i ricavi trimestrali superarono la soglia simbolica dei 100 miliardi di dollari, attestandosi a circa 111,4 miliardi di dollari, stracciando le previsioni di consenso degli analisti che si fermavano intorno ai 103 miliardi. Anche l'utile per azione polverizzò le stime della vigilia. Si trattava di uno dei bilanci più brillanti mai presentati da una società privata nella storia del capitalismo mondiale. Tuttavia, il giorno successivo all'annuncio, le azioni Apple aprirono in territorio negativo e chiusero la seduta con un calo nell'ordine del 3,5%, continuando a cedere terreno nelle giornate seguenti, con una flessione complessiva vicina al 5% nell'arco di una settimana.",
+  "legame_con_il_concetto": "Questo caso studio dimostra in modo inequivocabile la discrepanza tra risultati assoluti e aspettative già prezzate. Prima della pubblicazione, il mercato aveva già incorporato nei prezzi una prestazione eccezionale, trainata dal cosiddetto super-ciclo dell'iPhone 12. Di conseguenza, i numeri record non rappresentavano più una sorpresa reale per i grandi investitori istituzionali. Durante la conferenza di commento ai dati, i vertici aziendali rifiutarono di fornire una guidance numerica dettagliata per il trimestre successivo, citando l'incertezza globale causata dalla pandemia. Il management segnalò inoltre che i ritmi di crescita del segmento dei servizi e degli accessori avrebbero potuto subire un rallentamento fisiologico nei mesi a venire. Avendo ottenuto la conferma dei dati eccezionali e trovandosi di fronte a un futuro privo di nuovi catalizzatori a breve termine, molti operatori scelsero di vendere le proprie quote per monetizzare i profitti accumulati nei mesi precedenti, applicando la classica dinamica di mercato del compra sulle voci e vendi sui fatti accertati.",
+  "nota_sui_dati": "Le cifre di fatturato citate sono arrotondate ai valori contabili diffusi dalla società nelle comunicazioni agli investitori. Le percentuali di variazione del prezzo del titolo riflettono l'andamento delle contrattazioni ufficiali registrate tra la chiusura del 27 gennaio e l'inizio di febbraio 2021."
+ },
+ "quiz": [
+  {
+   "domanda": "Cosa si intende in ambito finanziario quando si afferma che una notizia è già interamente prezzata dal mercato?",
+   "opzioni": [
+    {
+     "testo": "Che l'autorità di vigilanza ha stabilito un prezzo fisso e regolamentato a cui il titolo deve essere scambiato per legge.",
+     "spiegazione": "Questa affermazione è errata: nei mercati azionari i prezzi non vengono decisi dalle autorità di vigilanza, ma scaturiscono dall'incontro tra domanda e offerta."
+    },
+    {
+     "testo": "Che le aspettative collettive su quell'evento sono già state incorporate nel valore del titolo attraverso gli scambi avvenuti prima che l'evento si verificasse.",
+     "spiegazione": "Questa opzione è corretta: poiché gli operatori agiscono in anticipo sulla base delle proprie previsioni, le quotazioni attuali riflettono già la probabilità stimata di quell'evento futuro."
+    },
+    {
+     "testo": "Che la società ha pagato gli analisti delle banche d'affari per mantenere stabile il valore dell'azione fino alla presentazione del bilancio.",
+     "spiegazione": "Questa opzione è errata: si tratta di una concezione cospirativa che non descrive il funzionamento del consenso né il ruolo della ricerca indipendente."
+    },
+    {
+     "testo": "Che il titolo ha raggiunto il suo massimo storico e da quel momento in avanti potrà soltanto perdere valore.",
+     "spiegazione": "Questa opzione è errata: il fatto che una notizia sia prezzata riguarda l'assorbimento dell'informazione, non implica affatto che il prezzo si trovi sui massimi storici o che debba scendere."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Un'azienda quotata presenta un utile trimestrale superiore del 10% rispetto alle previsioni del consenso degli analisti. Nelle prime ore di contrattazione il prezzo delle sue azioni crolla del 4%. Quale tra le seguenti è la spiegazione economica più plausibile di questo andamento?",
+   "opzioni": [
+    {
+     "testo": "Il bilancio aziendale non contiene mai informazioni rilevanti per determinare il prezzo di un'azione in borsa.",
+     "spiegazione": "Questa opzione è errata: come spiegato nei Moduli 10 e 13, i bilanci e la capacità di generare utili sono i pilastri fondamentali della valutazione societaria."
+    },
+    {
+     "testo": "Gli investitori hanno interpretato un utile troppo alto come una prova sicura che la società stia commettendo illeciti contabili.",
+     "spiegazione": "Questa opzione è errata: superare le stime di consenso è un obiettivo aziendale ordinario e non costituisce di per sé un indizio di frode."
+    },
+    {
+     "testo": "I mercati finanziari sono guidati esclusivamente dal caso e nessuna notizia può mai spiegare alcuna reazione di prezzo.",
+     "spiegazione": "Questa opzione è errata: sebbene esista una componente di rumore a breve termine, i movimenti di prezzo rispondono a meccanismi razionali di revisione delle aspettative future."
+    },
+    {
+     "testo": "Il management ha pubblicato una guidance molto prudente per i trimestri futuri, e le aspettative informali degli operatori erano ancora più alte del consenso ufficiale.",
+     "spiegazione": "Questa opzione è corretta: gli investitori guardano ai flussi di cassa futuri; se le prospettive peggiorano o se i whisper numbers erano molto più ambiziosi del consenso, il titolo scende nonostante il buon dato passato."
+    }
+   ],
+   "indice_corretta": 3
+  },
+  {
+   "domanda": "Qual è il ruolo cruciale della guidance aziendale nelle giornate di pubblicazione dei conti trimestrali?",
+   "opzioni": [
+    {
+     "testo": "Fornire indicazioni sul futuro operativo della società, permettendo agli analisti di ricalcolare il valore attuale dei flussi di cassa attesi nei periodi successivi.",
+     "spiegazione": "Questa opzione è corretta: il valore fondamentale di un'azione dipende dai profitti futuri; la guidance orienta le stime per i prossimi trimestri, risultando spesso più determinante dei dati contabili passati."
+    },
+    {
+     "testo": "Certificare legalmente che i bilanci dell'anno precedente sono stati approvati all'unanimità da tutti i piccoli azionisti.",
+     "spiegazione": "Questa opzione è errata: la guidance è una stima prospettica facoltativa rilasciata dai vertici aziendali, non una certificazione legale o un voto assembleare sui conti passati."
+    },
+    {
+     "testo": "Garantire contrattualmente un rendimento percentuale fisso a chiunque acquisti le azioni durante la seduta borsistica.",
+     "spiegazione": "Questa opzione è errata: le azioni sono strumenti a rendimento variabile privi di garanzie di rendimento, come spiegato fin dal Modulo 3."
+    },
+    {
+     "testo": "Imporre ai concorrenti del settore i prezzi di vendita che dovranno adottare per i propri prodotti sul mercato commerciale.",
+     "spiegazione": "Questa opzione è errata: la guidance non ha alcun legame con accordi di cartello sui prezzi di mercato dei beni, che peraltro violerebbero le norme antitrust."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Secondo la logica dell'efficienza dei mercati e della psicologia delle aspettative, cosa provoca solitamente la variazione più intensa e repentina nel prezzo di un asset?",
+   "opzioni": [
+    {
+     "testo": "L'arrivo di una notizia ampiamente prevista e discussa da tutti i quotidiani finanziari nelle settimane precedenti.",
+     "spiegazione": "Questa opzione è errata: se una notizia è ampiamente prevista, gli investitori hanno già modificato i propri portafogli in anticipo e il prezzo ha già incorporato l'evento."
+    },
+    {
+     "testo": "La conferma esatta di un dato economico che coincide alla virgola con il consenso calcolato tra tutti gli analisti.",
+     "spiegazione": "Questa opzione è errata: quando un dato rispecchia perfettamente il consenso, l'effetto sorpresa è pari a zero e la reazione di prezzo tende a essere minima."
+    },
+    {
+     "testo": "Un evento inatteso o una discrepanza marcata tra il dato reale comunicato e le aspettative precedentemente incorporate nel prezzo.",
+     "spiegazione": "Questa opzione è corretta: è l'ampiezza dell'effetto sorpresa a costringere gli operatori ad adeguare precipitosamente i propri modelli e a ribilanciare le posizioni, generando forti movimenti di prezzo."
+    },
+    {
+     "testo": "Il ripetersi ciclico e regolare delle festività di chiusura concordate tra le borse internazionali.",
+     "spiegazione": "Questa opzione è errata: i calendari di borsa sono noti con anni di anticipo e non contengono alcuna sorpresa informativa per gli investitori."
+    }
+   ],
+   "indice_corretta": 2
+  }
+ ],
+ "simulazione": {
+  "titolo": "Osservazione dell'effetto annuncio: tracciare aspettative, consenso e reazione di mercato",
+  "obiettivo_didattico": "Sviluppare un metodo rigoroso e distaccato per osservare come il mercato prezza un evento prima della sua diffusione e come reagisce all'eventuale sorpresa, evitando l'impulso impulsivo di interpretare le buone notizie in modo ingenuo.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "perche_adatto": "Trattandosi dell'ETF più liquido al mondo che replica l'indice S&P 500 (studiato nei Moduli 8 e 9), SPY reagisce istantaneamente alle notizie macroeconomiche chiave senza soffrire dei problemi di liquidità o dei fattori idiosincratici tipici di una singola piccola azienda."
+  },
+  "passi": [
+   "Passo 1: Accedi alla piattaforma TradingView e apri il grafico a candele giornaliere dello strumento con ticker SPY.",
+   "Passo 2: Consulta un calendario economico pubblico (disponibile gratuitamente su portali di informazione finanziaria) e individua la data della prossima pubblicazione di un dato macroeconomico cruciale, come l'indice dei prezzi al consumo negli Stati Uniti (CPI) oppure la decisione sui tassi della Federal Reserve.",
+   "Passo 3: Annota su un foglio o sul diario decisionale qual è il consenso degli economisti per quel dato specifico (ad esempio: inflazione annua stimata al 3,2%).",
+   "Passo 4: Nei cinque giorni lavorativi precedenti l'evento, osserva l'andamento del prezzo di SPY. Domandati se il mercato sta salendo o scendendo: sembra che gli investitori stiano già posizionandosi in attesa di una notizia positiva o negativa?",
+   "Passo 5: Il giorno della pubblicazione, alle ore stabilite, osserva il dato reale appena diffuso e calcola la sorpresa: il dato è superiore, uguale o inferiore al consenso registrato al Passo 3?",
+   "Passo 6: Apri il conto demo per osservare il comportamento del grafico nei primi 30 minuti successivi alla notizia e poi a fine giornata, astenendoti dall'aprire operazioni con denaro reale.",
+   "Passo 7: Registra per iscritto se la direzione del prezzo rispetta la logica della sorpresa o se sono intervenuti elementi secondari (come le parole del presidente della banca centrale durante la conferenza stampa)."
+  ],
+  "guida_all_ipotesi": "Formula la tua ipotesi educativa rispondendo a questa domanda prima dell'annuncio: se il dato reale dovesse mostrare un'inflazione inferiore alle attese di consenso (sorpresa disinflazionistica), cosa accadrà al prezzo di SPY nelle prime ore successive alla notizia, tenendo conto di come i tassi di interesse influenzano le azioni (concetto visto nei Moduli 5 e 6)?",
+  "guida_all_invalidazione": "La tua ipotesi preliminare sarà invalidata se, pur verificandosi esattamente il dato ipotizzato (inflazione più bassa del previsto), il mercato dovesse reagire con un calo significativo e prolungato dei prezzi. In tal caso, non considerare il mercato stupido: cerca sui notiziari finanziari quale altro elemento il mercato ha prezzato negativamente (ad esempio il timore che il crollo dell'inflazione segnali l'inizio di una pesante recessione dei consumi).",
+  "cosa_registrare": [
+   "Data dell'evento macroeconomico e dato esatto atteso dal consenso di mercato.",
+   "Prezzo di chiusura di SPY il giorno prima dell'annuncio e tendenza mostrata nei cinque giorni antecedenti.",
+   "Dato reale comunicato e ampiezza della sorpresa numerica rispetto al consenso.",
+   "Prezzo di SPY 15 minuti dopo il rilascio del dato e prezzo di chiusura della seduta.",
+   "Presenza di commenti qualificati che evidenziano se la notizia era già stata prezzata o se sono emersi dettagli inattesi nei dati sottostanti."
+  ],
+  "giorni_prima_della_revisione": 3,
+  "domande_di_revisione": [
+   "Il prezzo di SPY nei giorni precedenti all'annuncio si era mosso nella stessa direzione della reazione finale, dimostrando che l'evento era già in parte anticipato?",
+   "La reazione immediata nei primi quindici minuti è stata coerente con la sorpresa matematica, oppure il mercato ha invertito la rotta a metà giornata?",
+   "Se la reazione è apparsa contraria al senso comune, quale spiegazione razionale o quale revisione di aspettative future ha guidato i grandi operatori istituzionali?"
+  ],
+  "avvertenza": "Questa simulazione didattica serve esclusivamente a comprendere la meccanica della formazione dei prezzi e la psicologia collettiva degli operatori. L'ambiente demo di TradingView non riproduce le emozioni reali, la paura della perdita o l'ansia che caratterizzano l'investimento reale con capitale proprio. Questo esercizio non costituisce in alcun modo una raccomandazione di investimento o un segnale operativo di trading."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "I mercati finanziari guardano sempre al futuro: i prezzi correnti incorporano già le informazioni note e le aspettative probabilistiche degli investitori.",
+   "Una notizia o un evento si dicono prezzati quando il mercato si è già posizionato nei giorni o mesi precedenti in vista del loro verificarsi, annullando la reazione al momento dell'ufficialità.",
+   "Ciò che muove i prezzi durante gli annunci non è il valore assoluto del dato, ma l'effetto sorpresa, ossia la discrepanza tra il dato reale e il consenso degli analisti.",
+   "Nelle trimestrali societarie, le indicazioni sulle prospettive future (guidance) contano spesso molto più dei risultati contabili passati, perché modificano il valore attuale dei profitti di domani.",
+   "Reazioni di borsa apparentemente contrarie al buonsenso segnalano che le aspettative reali degli operatori erano diverse rispetto ai titoli dei telegiornali o che il mercato sta già scontando il passo successivo."
+  ],
+  "domanda_di_riflessione": "Ripensa alle tue decisioni personali quotidiane: ti è mai capitato di desiderare intensamente un oggetto o un traguardo per mesi, per poi provare un senso di indifferenza o lieve delusione pochi istanti dopo averlo raggiunto? In che modo questo meccanismo psicologico umano assomiglia al comportamento degli investitori che comprano sulle aspettative e vendono alla conferma della notizia?"
+ },
+ "modulo": 14,
+ "area": "Psicologia",
+ "generata_il": "2026-11-26",
+ "modello": "gemini-flash-latest"
+}
