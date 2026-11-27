@@ -1,0 +1,242 @@
+{
+ "titolo": "Come funziona un ordine di borsa: tipologie, spread e liquidità",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo esaminato la natura degli strumenti finanziari come azioni, obbligazioni ed ETF, comprendendo come il loro valore rifletta flussi di cassa, tassi di interesse e aspettative economiche. Tuttavia, per operare in modo consapevole sui mercati, non basta sapere cosa si sta acquistando: è indispensabile comprendere l'infrastruttura materiale attraverso cui avviene lo scambio. Quando si preme il pulsante di acquisto o di vendita sulla schermata del proprio intermediario finanziario, non si interagisce con un negozio che possiede scorte a prezzo fisso. Ci si affaccia invece su una piazza telematica in cui acquirenti e venditori si incontrano attraverso un registro centralizzato chiamato libro degli ordini o order book. In questa lezione analizzeremo la meccanica precisa che governa l'incontro tra domanda e offerta, esaminando la differenza sostanziale tra ordini a mercato, ordini a prezzo limite e ordini stop, e svelando perché fattori apparentemente secondari come lo spread denaro-lettera, la liquidità e lo slippage possano incidere in modo determinante sull'esito effettivo di qualsiasi operazione.",
+  "sezioni": [
+   {
+    "titolo": "Il libro degli ordini e lo spread denaro-lettera",
+    "testo": "Il cuore operativo di qualsiasi borsa valori moderna è il libro degli ordini, spesso indicato con il termine inglese order book. Si tratta di un registro elettronico continuo in cui vengono organizzate tutte le intenzioni di acquisto e di vendita attualmente pendenti per un determinato strumento finanziario. Il libro è diviso in due colonne contrapposte. Da una parte c'è il denaro, noto a livello internazionale come bid: questa colonna raccoglie tutte le proposte degli acquirenti, ordinate rigorosamente a partire dal prezzo più alto che qualcuno è disposto a sborsare, scendendo via via verso prezzi inferiori. Dall'altra parte si trova la lettera, indicata come ask o offer: qui compaiono tutte le offerte dei venditori, ordinate partendo dal prezzo più basso a cui qualcuno è disposto a cedere il titolo, salendo progressivamente verso cifre più elevate. È intuitivo notare che il prezzo bid più alto sarà quasi sempre inferiore al prezzo ask più basso: se così non fosse, le due parti si sarebbero già accordate e lo scambio sarebbe già avvenuto. La distanza numerica tra la migliore proposta in acquisto e la migliore proposta in vendita si chiama spread denaro-lettera. Questo differenziale rappresenta un vero e proprio costo implicito di negoziazione. Chi desidera comprare immediatamente deve accettare il prezzo della lettera, ossia la richiesta del venditore più generoso, mentre chi vuole vendere subito deve piegarsi al prezzo del denaro, ossia l'offerta del compratore più disponibile. Chi compra al prezzo ask e rivende nello stesso identico istante al prezzo bid registra immediatamente una perdita pari all'ampiezza dello spread. Nei titoli scambiati intensamente, come i grandi ETF globali o i giganti azionari, lo spread può ridursi a frazioni di centesimo; nei titoli poco scambiati, invece, può rappresentare percentuali significative dell'investimento."
+   },
+   {
+    "titolo": "Ordine a mercato: certezza dell'esecuzione contro incertezza del prezzo",
+    "testo": "Quando si trasmette un ordine a mercato, conosciuto come market order, si sta impartendo all'intermediario un'istruzione molto chiara e perentoria: esegui l'operazione immediatamente, al miglior prezzo attualmente disponibile sul mercato. In questo tipo di ordine, la priorità assoluta dell'investitore è la rapidità e la certezza dell'esecuzione, non il prezzo a cui lo scambio avverrà. Ciò significa che se si inserisce un ordine a mercato di acquisto per cento azioni, il sistema preleverà automaticamente le azioni dalla colonna della lettera, consumando la migliore offerta disponibile. L'errore concettuale più frequente tra i principianti consiste nel confondere l'ultimo prezzo battuto, ossia la cifra mostrata in grande sui grafici, con il prezzo al quale verrà eseguito il proprio ordine a mercato. L'ultimo prezzo registrato appartiene al passato: è semplicemente la cifra concordata nell'ultimo scambio avvenuto tra altri due partecipanti. Se nel momento in cui l'ordine arriva sul mercato la lettera è posizionata più in alto, o se la quantità disponibile alla migliore lettera è insufficiente a soddisfare l'intero ordine, il compratore verrà eseguito a prezzi via via più alti e sfavorevoli. L'ordine a mercato garantisce quindi che l'operazione si concluderà subito, ma lascia l'investitore completamente esposto al rischio di pagare un prezzo sensibilmente diverso da quello che immaginava."
+   },
+   {
+    "titolo": "Ordine limite: controllo del prezzo contro rischio di mancata esecuzione",
+    "testo": "L'ordine limite, o limit order, ribalta completamente le priorità rispetto all'ordine a mercato. Con questa istruzione, l'investitore stabilisce un confine invalicabile di prezzo. Se si inserisce un ordine limite di acquisto, si specifica il prezzo massimo che si è disposti a pagare: l'intermediario ha il mandato di eseguire l'ordine soltanto a quel prezzo o a un prezzo migliore, cioè più basso. Se si inserisce un ordine limite di vendita, si definisce il prezzo minimo che si è disposti a incassare, e l'ordine potrà essere soddisfatto solo a quella cifra o a un valore superiore. Questo approccio offre un controllo totale ed esatto sul prezzo di esecuzione, eliminando le brutte sorprese derivanti da oscillazioni improvvise. Tuttavia, il vantaggio della protezione del prezzo si paga con la rinuncia alla certezza dell'esecuzione. Se il mercato si allontana dal livello impostato prima che l'ordine venga raggiunto e completamente abbinato, l'investitore resterà escluso. Può accadere, per esempio, che un'azione salga repentinamente senza mai scendere al prezzo limite impostato, lasciando l'ordine inevaso nel book; oppure può verificarsi un'esecuzione parziale, in cui solo una frazione delle quote desiderate viene acquistata prima che il prezzo riprenda a salire. L'ordine limite è lo strumento principe per chi opera con pazienza e intende disciplinare con precisione i propri punti di ingresso o di uscita."
+   },
+   {
+    "titolo": "Gli ordini stop: stop-loss e stop-limit",
+    "testo": "Un ordine stop non è immediatamente visibile nel libro degli ordini pubblico, ma rimane dormiente sui server dell'intermediario in attesa che si verifichi una determinata condizione, detta prezzo di innesco o trigger. La funzione originaria di questa tipologia è limitare le perdite nel caso in cui il mercato si muova in direzione contraria alle proprie attese, motivo per cui viene comunemente chiamato stop-loss. Esistono due declinazioni principali di questo meccanismo, con conseguenze operative radicalmente diverse. La prima è lo stop a mercato: non appena l'ultimo prezzo tocca o scende sotto il prezzo di innesco stabilito, il sistema invia istantaneamente un normale ordine a mercato di vendita. Questo assicura che la posizione verrà chiusa senza esitazione, ma eredita tutti i rischi dell'ordine a mercato: in presenza di un crollo repentino o di un salto di prezzo, detto gap, l'uscita effettiva potrebbe avvenire a un valore drammaticamente inferiore al livello di stop scelto. La seconda variante è lo stop-limit: al raggiungimento del prezzo di innesco, l'intermediario non genera un ordine a mercato, bensì un ordine con limite di prezzo. Sebbene questo eviti di vendere a prezzi stracciati durante un momento di panico incontrollato, introduce il rischio opposto: se il mercato continua a precipitare al di sotto del limite indicato, l'ordine non verrà eseguito e l'investitore rimarrà incastrato nella posizione proprio mentre le perdite continuano a dilatarsi."
+   },
+   {
+    "titolo": "Liquidità, profondità del mercato e slippage",
+    "testo": "La liquidità di un mercato non coincide semplicemente con la quantità di scambi che avvengono ogni giorno, ma riguarda la capacità del mercato stesso di assorbire ordini di acquisto o vendita di dimensioni considerevoli senza subire distorsioni marcate di prezzo. Questa proprietà si misura attraverso la profondità del book, ossia il volume totale di quote disponibili sui vari livelli di prezzo sia in denaro che in lettera. In un mercato profondo e altamente liquido, come quello dei titoli a grande capitalizzazione, su ogni singolo centesimo di prezzo sono presenti migliaia di quote in attesa: se si inserisce un ordine consistente, esso troverà controparti immediate senza spostare l'equilibrio del titolo. Al contrario, in un mercato sottile o illiquido, come quello delle piccole aziende o di obbligazioni secondarie poco trattate, i volumi presenti sul book sono esigui. Se un operatore immette un ordine a mercato di dimensioni anche modeste, rischia di consumare l'intera disponibilità del primo livello di lettera e di dover attingere ai livelli successivi, situati a prezzi via via più alti. Questo fenomeno si chiama slippage, termine traducibile come scivolamento. Lo slippage misura il divario negativo tra il prezzo atteso al momento dell'invio dell'ordine e il prezzo medio effettivo a cui l'ordine viene realmente eseguito. Lo slippage aumenta considerevolmente in due circostanze: quando lo strumento trattato è strutturalmente poco liquido e quando la volatilità generale si impenna, poiché i partecipanti ritirano le proprie proposte dal book lasciandolo vuoto."
+   }
+  ],
+  "analogia": "Immaginiamo di trovarci in un grande mercato rionale ortofrutticolo. I venditori di mele hanno cartelli con i prezzi esposti: il prezzo più basso a cui un venditore accetta di cedere un chilo di mele è due euro; questo è il livello della lettera. Tra i clienti che passeggiano, ci sono acquirenti che dichiarano a voce quanto vogliono spendere: l'offerta più generosa tra i compratori è un euro e novanta al chilo; questo è il denaro. I dieci centesimi che separano un euro e novanta da due euro rappresentano lo spread. Se una persona ha molta fretta e vuole le mele subito, non si mette a trattare: fa un ordine a mercato, si avvicina al primo banco e paga immediatamente due euro. Se invece quella stessa persona non ha alcuna urgenza e non vuole spendere più di un euro e ottanta, lascia detto al fruttivendolo che comprerà solo se il prezzo scenderà a quella cifra: questo è un ordine limite. Il venditore potrebbe accettare più tardi se gli restano cassette invendute, ma potrebbe anche rifiutare e vendere tutto a clienti disposti a pagare di più, lasciando il compratore a mani vuote. Se infine un acquirente decide di comprare improvvisamente cento casse di mele con un ordine a mercato, il primo fruttivendolo riuscirà a vendergliene solo dieci a due euro; per le restanti novanta casse l'acquirente dovrà andare dai banchi vicini che chiedono due euro e venti, due euro e cinquanta e così via. Il prezzo medio pagato risulterà molto superiore a due euro: questo rincaro forzato dovuto alla carenza di merce al prezzo iniziale è esattamente lo slippage.",
+  "errori_comuni": [
+   "Credere che l'ultimo prezzo visualizzato sulla piattaforma di trading sia una garanzia del prezzo a cui verrà eseguito il proprio ordine a mercato, ignorando che quel numero appartiene al passato.",
+   "Considerare l'ordine stop-loss come un'assicurazione a rimborso certo, dimenticando che se il prezzo apre in forte ribasso il titolo verrà venduto al primo prezzo reale disponibile, anche molto al di sotto della soglia scelta.",
+   "Sottovalutare l'ampiezza dello spread bid-ask negli strumenti poco liquidi, pagando inconsapevolmente un costo implicito elevato a ogni transazione.",
+   "Ritenere che impostare un ordine limite assicuri sempre l'acquisto o la vendita, trascurando il rischio concreto che il mercato si muova in direzione favorevole senza mai toccare il prezzo indicato."
+  ],
+  "glossario": [
+   {
+    "termine": "Spread Denaro-Lettera (Bid-Ask Spread)",
+    "definizione": "La differenza quantitativa tra il prezzo più elevato che un compratore è disposto a pagare (denaro o bid) e il prezzo più basso a cui un venditore accetta di cedere il titolo (lettera o ask)."
+   },
+   {
+    "termine": "Slippage",
+    "definizione": "La discrepanza tra il prezzo teorico o atteso al momento dell'invio di un ordine e il prezzo reale a cui la transazione viene effettivamente conclusa all'interno del libro degli ordini."
+   },
+   {
+    "termine": "Ordine Limite (Limit Order)",
+    "definizione": "Un'istruzione vincolante impartita all'intermediario che fissa il prezzo massimo a cui si è disposti ad acquistare oppure il prezzo minimo a cui si accetta di vendere uno strumento finanziario."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Prosciugamento repentino della liquidità sul libro degli ordini durante una fase di stress",
+  "catena": [
+   {
+    "passo": "Emissione massiccia di vendite a mercato",
+    "spiegazione": "In risposta a una notizia inattesa o a un ribasso improvviso, molti operatori inviano simultaneamente ordini di vendita a mercato per uscire rapidamente dalle posizioni."
+   },
+   {
+    "passo": "Erosione rapida dei livelli di denaro (bid)",
+    "spiegazione": "Gli ordini di vendita a mercato consumano a velocità vertiginosa tutte le proposte di acquisto presenti nei primi livelli del libro degli ordini."
+   },
+   {
+    "passo": "Ritiro preventivo degli intermediari e fornitori di liquidità",
+    "spiegazione": "I market maker istituzionali, di fronte a un flusso unidirezionale e a una volatilità ingestibile, cancellano i propri ordini di acquisto dal book per proteggersi dal rischio di subire perdite incontrollate."
+   },
+   {
+    "passo": "Creazione di un vuoto nel libro degli ordini",
+    "spiegazione": "Con la scomparsa delle proposte di acquisto ordinarie, la colonna del denaro si svuota o presenta offerte residue a prezzi estremamente bassi, anche a distanze percentuali abissali dai prezzi precedenti."
+   },
+   {
+    "passo": "Attivazione a catena degli ordini stop e slippage estremo",
+    "spiegazione": "Il crollo istantaneo delle quotazioni innesca gli ordini stop-loss di altri investitori; questi si trasformano in ulteriori ordini a mercato di vendita che colpiscono i pochi acquirenti rimasti a prezzi stracciati, amplificando il collasso prima che intervengano sospensioni automatiche."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni a bassa capitalizzazione e strumenti illiquidi",
+    "effetto": "Crolli percentuali disastrosi e temporanei con spread denaro-lettera larghissimi",
+    "motivo": "I loro libri degli ordini contengono pochissimi contratti; l'uscita simultanea di pochi venditori svuota integralmente la domanda presente."
+   },
+   {
+    "asset": "Grandi ETF ed indici azionari ampi",
+    "effetto": "Disallineamento temporaneo tra il prezzo di borsa dell'ETF e il valore dei titoli sottostanti",
+    "motivo": "Gli intermediari non riescono ad aggiornare i prezzi di arbitraggio in tempo reale a causa della velocità delle transazioni e della frammentazione degli scambi."
+   },
+   {
+    "asset": "Ordini stop-loss non garantiti degli investitori",
+    "effetto": "Esecuzione a prezzi molto peggiori del livello stabilito sul grafico",
+    "motivo": "Lo slippage trasforma lo stop-loss in una vendita al miglior prezzo disponibile, che in assenza di compratori può essere significativamente inferiore al prezzo trigger."
+   }
+  ],
+  "cosa_puo_andare_storto": "A parità di altre condizioni, un investitore tende a credere che impostare uno stop-loss garantisca la protezione matematica del capitale al livello prescelto. Tuttavia, la liquidità di mercato è una proprietà transitoria ed elastica, non una costante garantita. Quando la volatilità esplode, la liquidità può svanire in pochi secondi. Se si verifica una notizia negativa a mercati chiusi o durante una discesa vertiginosa, il prezzo effettivo al quale l'ordine viene smobilizzato può trovarsi molto al di sotto della soglia desiderata. Inoltre, la convinzione che un ordine a mercato sia innocuo perché si negozia un titolo celebre può costare caro se immesso nei primi secondi di apertura delle contrattazioni o durante la pubblicazione di dati macroeconomici, momenti in cui lo spread si allarga fisiologicamente per difendere gli intermediari dall'incertezza."
+ },
+ "caso_studio": {
+  "titolo": "Il Flash Crash del 6 maggio 2010: quando il book perse il fondo",
+  "periodo": "6 maggio 2010, tra le ore 14:32 e le 15:07 ora di New York",
+  "contesto": "I mercati finanziari statunitensi ed europei stavano attraversando una fase di forte tensione e volatilità a causa della crisi del debito sovrano greco e delle incertezze sull'euro. I partecipanti istituzionali erano già particolarmente prudenti e il clima operativo era nervoso.",
+  "cosa_e_successo": "Poco dopo le 14:30, un grande fondo di investimento statunitense avviò un programma algoritmico per vendere una massiccia quantità di contratti futures sull'indice S&P 500, per un controvalore stimato nell'ordine di oltre quattro miliardi di dollari, utilizzando un algoritmo programmato unicamente per massimizzare la velocità di esecuzione senza impostare limiti stringenti di prezzo. Questo ingente flusso di vendite impattò su un mercato già fragile. Gli algoritmi dei trader ad alta frequenza e i market maker, vedendo il flusso unilaterale e non riuscendo a calibrare il rischio, ritirarono rapidamente le loro proposte di acquisto dal libro degli ordini per evitare di accumulare perdite. In pochi minuti, l'indice Dow Jones arrivò a cedere circa mille punti, pari a un calo nell'ordine del 9%, con una rapidità mai vista prima. In assenza di proposte di acquisto normali nel book, gli ordini a mercato di vendita iniziarono a incrociare ordini di acquisto stravaganti posizionati a livelli puramente simbolici, noti come stub quotes: per diversi secondi, azioni di colossi solidi come Accenture o Procter and Gamble furono scambiate a un solo centesimo di dollaro o, al contrario, a prezzi assurdi come centomila dollari. Non appena il flusso di vendite si esaurì e gli operatori umani e automatici compresero l'anomalia meccanica, la liquidità tornò rapidamente sul mercato e gli indici recuperarono la maggior parte delle perdite nel giro di circa venti minuti.",
+  "legame_con_il_concetto": "Il Flash Crash del 2010 costituisce la dimostrazione empirica più spettacolare di come funziona realmente un ordine di borsa. Ha dimostrato che un prezzo di mercato non rappresenta una proprietà intrinseca o immutabile di un'azienda in ogni secondo, ma è solo il punto di incontro tra le proposte attive nel libro degli ordini in un determinato istante. Quando gli investitori immettono ordini a mercato senza liquidità sufficiente nel book, il prezzo crolla meccanicamente fino a trovare qualsiasi compratore disponibile, generando uno slippage devastante. L'evento ha evidenziato con drammatica evidenza la vulnerabilità degli ordini stop a mercato non protetti e ha spinto le autorità di vigilanza a introdurre meccanismi automatici di interruzione delle negoziazioni, chiamati circuit breakers, per evitare che la meccanica degli ordini distrugga temporaneamente le valutazioni di mercato.",
+  "nota_sui_dati": "Le indagini congiunte della Commodity Futures Trading Commission e della Securities and Exchange Commission pubblicate a settembre 2010 hanno ricostruito la dinamica fondamentale dell'evento; cifre relative a volumi scambiati e orari precisi presentano lievi discrepanze tra i diversi report accademici e istituzionali, ma la sequenza causale dell'interazione tra algoritmi e vuoto di liquidità è accertata in modo unanime."
+ },
+ "quiz": [
+  {
+   "domanda": "Qual è la differenza fondamentale tra un ordine a mercato e un ordine a prezzo limite quando si desidera acquistare un titolo?",
+   "opzioni": [
+    {
+     "testo": "L'ordine a mercato garantisce l'esecuzione immediata ma non il prezzo finale; l'ordine limite garantisce che non si pagherà più del prezzo stabilito ma non assicura l'esecuzione.",
+     "spiegazione": "Corretto. L'ordine a mercato privilegia la certezza e la rapidità dello scambio accettando il prezzo corrente della lettera, mentre l'ordine limite tutela il prezzo sacrificando la certezza di venire eseguiti."
+    },
+    {
+     "testo": "L'ordine a mercato viene eseguito sempre al prezzo dell'ultimo contratto scambiato, mentre l'ordine limite viene eseguito a una media dei prezzi della giornata.",
+     "spiegazione": "Sbagliato. L'ultimo prezzo battuto è solo una rilevazione storica passata e nessun ordine a mercato garantisce di essere eseguito a quel livello esatto."
+    },
+    {
+     "testo": "L'ordine limite può essere utilizzato solo dagli investitori istituzionali per blocchi di azioni molto grandi, mentre i piccoli risparmiatori possono usare solo ordini a mercato.",
+     "spiegazione": "Sbagliato. Tutti gli intermediari moderni offrono sia ordini limite che ordini a mercato a qualsiasi tipologia di cliente, inclusi i piccoli investitori privati."
+    },
+    {
+     "testo": "L'ordine a mercato non comporta mai costi di transazione impliciti legati allo spread, mentre l'ordine limite paga sempre lo spread massimo consentito.",
+     "spiegazione": "Sbagliato. Al contrario, l'ordine a mercato subisce pienamente il costo dello spread denaro-lettera perché va a colpire direttamente la controparte disponibile sul book."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Che cosa si intende con il termine slippage durante la compravendita di uno strumento finanziario?",
+   "opzioni": [
+    {
+     "testo": "La commissione fissa applicata dalla banca per trasferire i titoli dal conto del venditore a quello dell'acquirente.",
+     "spiegazione": "Sbagliato. Questa è la commissione di negoziazione o di custodia applicata dall'intermediario, non lo slippage."
+    },
+    {
+     "testo": "La differenza tra il prezzo a cui si intendeva eseguire l'ordine e il prezzo effettivo al quale l'ordine viene eseguito nel libro degli ordini.",
+     "spiegazione": "Corretto. Lo slippage misura lo scostamento negativo tra il prezzo visualizzato o desiderato e il prezzo reale di esecuzione, causato da carenza di liquidità o movimenti repentini di mercato."
+    },
+    {
+     "testo": "La percentuale di dividendo che la società decide di non distribuire per reinvestire gli utili nell'azienda.",
+     "spiegazione": "Sbagliato. Questo concetto fa riferimento al tasso di ritenzione degli utili e riguarda la contabilità societaria, non la microstruttura degli ordini."
+    },
+    {
+     "testo": "La riduzione naturale dello spread denaro-lettera man mano che il volume complessivo degli scambi aumenta durante la giornata.",
+     "spiegazione": "Sbagliato. L'aumento del volume può rendere il mercato più efficiente, ma il fenomeno dello slippage indica uno scostamento di prezzo a sfavore di chi immette l'ordine."
+    }
+   ],
+   "indice_corretta": 1
+  },
+  {
+   "domanda": "Per quale motivo l'impostazione di un ordine stop-loss a mercato potrebbe non proteggere il capitale come desiderato in caso di forte ribasso notturno (gap down)?",
+   "opzioni": [
+    {
+     "testo": "Perché la borsa cancella automaticamente tutti gli ordini stop-loss non appena si verificano notizie macroeconomiche avverse.",
+     "spiegazione": "Sbagliato. I mercati e gli intermediari non cancellano arbitrariamente gli stop a meno che non siano scaduti o non rispettino i parametri normativi formali."
+    },
+    {
+     "testo": "Perché uno stop-loss funziona solo durante le prime due ore della sessione di borsa e viene disattivato nelle ore successive.",
+     "spiegazione": "Sbagliato. Gli ordini stop sono attivi durante l'intera sessione regolare di borsa, a meno che l'utente non indichi restrizioni temporali specifiche."
+    },
+    {
+     "testo": "Perché lo stop a mercato si attiva al prezzo trigger ma viene eseguito al primo prezzo di acquisto disponibile, che in apertura può essere molto inferiore alla soglia impostata.",
+     "spiegazione": "Corretto. Se un titolo chiude a cento euro e riapre il giorno successivo a ottanta a causa di una notizia catastrofica, uno stop posizionato a novanta euro scatterà all'apertura e verrà eseguito a ottanta o peggio, non a novanta."
+    },
+    {
+     "testo": "Perché gli ordini stop-loss possono trasformarsi soltanto in ordini limite di valore superiore rispetto al prezzo di acquisto iniziale.",
+     "spiegazione": "Sbagliato. Uno stop-loss a mercato si trasforma in un ordine a mercato di vendita, mirando a chiudere la posizione al prezzo corrente qualunque esso sia."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Come varia tipicamente lo spread denaro-lettera tra uno strumento estremamente liquido come un grande ETF sull'indice S&P 500 e un'azione di una piccola impresa a bassa capitalizzazione?",
+   "opzioni": [
+    {
+     "testo": "Lo spread è sempre identico per legge su tutti gli strumenti finanziari quotati sulla medesima borsa valori.",
+     "spiegazione": "Sbagliato. Nessuna normativa impone uno spread fisso universale; lo spread è determinato liberamente dall'incontro tra domanda, offerta e presenza di liquidità."
+    },
+    {
+     "testo": "Sull'ETF liquido lo spread tende a essere più largo perché ci sono molti più partecipanti che fanno concorrenza tra loro.",
+     "spiegazione": "Sbagliato. Una maggiore concorrenza tra compratori e venditori riduce la distanza tra bid e ask, non la amplia."
+    },
+    {
+     "testo": "Sull'azione poco capitalizzata lo spread è nullo perché non esistono intermediari autorizzati a richiedere commissioni implicite.",
+     "spiegazione": "Sbagliato. Lo spread non è nullo e riflette il rischio elevato di chi si offre di comprare o vendere un titolo che potrebbe risultare difficile da liquidare."
+    },
+    {
+     "testo": "Sull'ETF liquido lo spread è estremamente stretto, spesso frazioni di punto percentuale, mentre sull'azione poco capitalizzata lo spread è sensibilmente più ampio.",
+     "spiegazione": "Corretto. La presenza di molti operatori e un volume imponente comprimono lo spread sui titoli liquidi, mentre l'incertezza e la scarsità di controparti allargano lo spread sui titoli illiquidi."
+    }
+   ],
+   "indice_corretta": 3
+  }
+ ],
+ "simulazione": {
+  "titolo": "Esperimento di osservazione del book e confronto ordini: Mercato contro Limite",
+  "obiettivo_didattico": "Comprendere visivamente la struttura dell'order book, misurare lo spread denaro-lettera reale in diverse condizioni di mercato ed esaminare l'impatto di un ordine limite rispetto a un ordine a mercato sul conto demo.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "perche_adatto": "SPY è uno degli strumenti finanziari più liquidi e scambiati al mondo. Il suo libro degli ordini presenta costantemente decine di livelli con spread minimi, permettendo di osservare la meccanica ideale di negoziazione e di confrontarla con momenti di maggiore volatilità."
+  },
+  "passi": [
+   "Accedere al conto demo di paper trading sulla piattaforma grafica scelta (come TradingView) durante gli orari di apertura ufficiale della borsa statunitense.",
+   "Cercare il ticker SPY e aprire la finestra dedicata ai dettagli di quotazione per individuare i prezzi di denaro (bid) e di lettera (ask) in tempo reale.",
+   "Annotare il valore numerico del bid, il valore dell'ask e calcolare la differenza in centesimi (lo spread). Calcolare la percentuale dello spread rispetto al prezzo complessivo.",
+   "Formulare un'ipotesi personale: se si inserisce un ordine a mercato di acquisto, quale sarà il prezzo medio di esecuzione rispetto all'ultimo prezzo battuto visualizzato sul grafico principale?",
+   "Inserire sul conto simulato un ordine a mercato per un piccolo quantitativo di quote e verificare nella scheda delle posizioni eseguite l'esatto prezzo di carico assegnato dal sistema.",
+   "Impostare successivamente un ordine limite di acquisto su un livello leggermente inferiore (ad esempio cinquanta centesimi sotto il bid corrente) e osservare se e quando l'ordine viene eseguito al mutare delle oscillazioni di prezzo.",
+   "Ripetere la misurazione dello spread all'apertura della sessione (nei primi quindici minuti) e a metà sessione, annotando le differenze di ampiezza."
+  ],
+  "guida_all_ipotesi": "Formula un'ipotesi scritta prima di immettere l'ordine a mercato. Ad esempio: Ipotizzo che l'ordine a mercato verrà eseguito esattamente al prezzo ask registrato un secondo prima dell'invio e non al prezzo mostrato sul grafico principale. Inoltre ipotizzo che l'ordine limite non verrà eseguito finché il mercato non ritraccia di almeno cinquanta centesimi, anche se l'indice continua a oscillare.",
+  "guida_all_invalidazione": "La tua ipotesi sulla stabilità di prezzo verrà invalidata se noterai uno slippage visibile già su uno strumento liquido come SPY (possibile in concomitanza con annunci della Federal Reserve o dati sull'inflazione), oppure se noterai che il tuo ordine limite rimane non eseguito anche se il prezzo tocca fugacemente il tuo livello senza che vi sia volume sufficiente a soddisfarti.",
+  "cosa_registrare": [
+   "Orario esatto dell'osservazione (minuti dopo l'apertura, metà giornata o chiusura).",
+   "Prezzo dell'ultimo scambio visualizzato sul grafico prima dell'inserimento dell'ordine.",
+   "Miglior prezzo denaro (bid) e miglior prezzo lettera (ask) in quell'istante.",
+   "Ampiezza dello spread assoluto (in dollari o centesimi) e relativo (in percentuale).",
+   "Prezzo reale di esecuzione confermato dalla piattaforma demo per l'ordine a mercato.",
+   "Tempo trascorso prima dell'eventuale esecuzione dell'ordine limite e comportamento del prezzo circostante."
+  ],
+  "giorni_prima_della_revisione": 3,
+  "domande_di_revisione": [
+   "Il prezzo di esecuzione dell'ordine a mercato ha coinciso con l'ultimo prezzo segnato sul grafico o con la lettera (ask) del momento?",
+   "Lo spread denaro-lettera si è mantenuto costante durante i tre giorni o hai osservato variazioni nei primi minuti di contrattazione rispetto al resto della seduta?",
+   "L'ordine limite impostato è stato eseguito completamente, parzialmente oppure è rimasto ineseguito a causa del movimento direzionale del prezzo?",
+   "Quale lezione pratica trai sull'opportunità di usare ordini limite rispetto agli ordini a mercato quando la priorità è la precisione del prezzo anziché la fretta di entrare?"
+  ],
+  "avvertenza": "Questa attività di paper trading costituisce un esperimento puramente didattico volto a comprendere la meccanica degli ordini. La simulazione su conto demo non comporta rischi finanziari reali ma non riproduce fedelmente le emozioni dell'investimento reale né garantisce che le medesime condizioni di liquidità si replichino sul mercato reale. Non costituisce in alcun modo un consiglio finanziario né un'indicazione operativa."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "Il mercato finanziario non è un negozio a prezzo fisso ma un'asta continua registrata nel libro degli ordini (order book), diviso tra proposte di acquisto (denaro/bid) e proposte di vendita (lettera/ask).",
+   "Lo spread denaro-lettera è la distanza tra la migliore offerta in acquisto e la migliore in vendita; rappresenta un costo implicito inevitabile che grava maggiormente sui titoli a bassa liquidità.",
+   "L'ordine a mercato garantisce l'immediatezza dell'esecuzione ma lascia totale incertezza sul prezzo finale a cui si comprerà o venderà.",
+   "L'ordine limite protegge rigorosamente dal rischio di pagare prezzi indesiderati stabilendo una soglia invalicabile, ma espone al rischio concreto di non venire eseguiti se il mercato si muove altrove.",
+   "Gli ordini stop agiscono come inneschi (trigger) e, se impostati a mercato, possono subire un pesante slippage in caso di vuoti di liquidità o aperture in gap ribassista.",
+   "La liquidità è dinamica e può ritirarsi rapidamente nei momenti di crisi; affidarsi ciecamente a esecuzioni rapide durante fasi convulse può trasformare una flessione temporanea in una perdita consistente."
+  ],
+  "domanda_di_riflessione": "Se ti trovassi a dover vendere una posizione consistente in un momento in cui viene annunciata una notizia economica del tutto inaspettata e il mercato inizia a oscillare vorticosamente, quale tipologia di ordine sceglieresti e quali rischi specifici saresti disposto ad accettare tra non riuscire a vendere affatto oppure vendere a un prezzo molto inferiore a quello desiderato?"
+ },
+ "modulo": 17,
+ "area": "Strumenti",
+ "generata_il": "2026-11-27",
+ "modello": "gemini-flash-latest"
+}

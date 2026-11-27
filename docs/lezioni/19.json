@@ -1,0 +1,243 @@
+{
+ "titolo": "Modulo 19: Dimensionamento della posizione e gestione del rischio",
+ "tempo_stimato_minuti": 25,
+ "concetto": {
+  "introduzione": "Nei moduli precedenti abbiamo esplorato il funzionamento dei mercati, la valutazione degli strumenti finanziari e le insidie della psicologia individuale. Tuttavia, possedere un'ottima tesi di investimento o saper leggere un bilancio non garantisce la sopravvivenza finanziaria se non si governa la variabile più critica: la dimensione di ciascuna decisione rispetto al capitale complessivo. Il dimensionamento della posizione, o position sizing, risponde a una domanda apparentemente elementare ma decisiva: non 'cosa comprare', bensì 'quanto comprarne'. Molti investitori alle prime armi confondono la bontà di un'idea con l'importo da investirvi, ritenendo che una forte convinzione personale giustifichi l'allocazione di una fetta enorme del proprio patrimonio. Nei mercati, però, le distribuzioni di probabilità non coincidono mai con la certezza assoluta. Gestire il rischio significa strutturare ogni singola operazione in modo tale che una serie imprevista di eventi negativi non possa compromettere irreparabilmente il portafoglio. In questa lezione analizzeremo la meccanica quantitativa del rischio per operazione, il concetto logico di invalidazione e ordine di stop, il funzionamento matematico della leva finanziaria e l'equilibrio del rapporto tra rischio e potenziale rendimento.",
+  "sezioni": [
+   {
+    "titolo": "La differenza tra capitale allocato e capitale a rischio",
+    "testo": "Il primo equivoco che incontra un principiante riguarda la distinzione tra la somma impiegata per acquistare uno strumento e la somma che si è disposti a perdere su di esso. Se disponiamo di un conto di 10.000 euro e acquistiamo quote di un fondo o di un'azione per un valore complessivo di 2.000 euro, abbiamo impiegato il 20% della nostra liquidità. Questo rappresenta il capitale allocato o nozionale. Tuttavia, se stabiliamo in anticipo che, qualora il prezzo scenda del 10%, venderemo l'attività per limitare le perdite, la nostra perdita monetaria massima programmata sarà pari a 200 euro, ovvero il 10% di 2.000 euro. Rispetto al capitale totale di partenza (10.000 euro), stiamo quindi rischiando esattamente il 2%. La regola aurea della gestione prudenziale consiste nel definire a monte il rischio monetario per singola operazione, solitamente compreso tra lo 0,5% e il 2% del patrimonio complessivo per i portafogli attivi, prima ancora di calcolare quante quote acquistare. In questo modo, perfino una catena di cinque o sei tesi errate consecutive produrrà un'erosione contenuta del capitale, permettendo all'investitore di rimanere in gioco e recuperare terreno senza dover compiere scommesse disperate per risalire la china."
+   },
+   {
+    "titolo": "Il livello di invalidazione logica e il posizionamento dello stop",
+    "testo": "Uno stop loss non è un comando emotivo da inserire a caso, né dovrebbe basarsi esclusivamente su una cifra tonda arbitraria, ad esempio 'esco se perdo 100 euro'. Uno stop loss tecnicamente corretto coincide con il livello di invalidazione della tesi d'investimento. L'invalidazione è il punto di prezzo in cui l'ipotesi iniziale che ci ha spinto a investire cessa di essere valida. Ad esempio, se abbiamo acquistato un titolo azionario perché ritenevamo che una determinata soglia di prezzo rappresentasse un solido pavimento difeso da forti fondamentali, il superamento al ribasso di quel livello segnala che la premessa era incompleta o errata. È il mercato a dirci che la nostra teoria non sta funzionando. Una volta individuato il livello di invalidazione sul grafico o nei dati contabili, si calcola la distanza percentuale o monetaria tra il prezzo di ingresso e il prezzo di uscita di emergenza. Questa distanza determina a cascata quante azioni o quote possiamo permetterci di comprare, mai il contrario. Se la distanza logica di invalidazione è molto ampia, la dimensione della posizione dovrà necessariamente essere più piccola; se la distanza è ridotta, la posizione potrà essere relativamente più grande, mantenendo però costante il rischio monetario complessivo."
+   },
+   {
+    "titolo": "La formula del position sizing: trasformare il rischio in quote",
+    "testo": "Per rendere operativo questo principio, la finanza adotta una formula algebrica rigorosa e trasparente. Il numero di quote da acquistare si ottiene dividendo il rischio monetario massimo consentito per il rischio per singola quota. Ipotizziamo un capitale totale di 20.000 euro e stabiliamo un tetto di rischio dell'1% per operazione, pari a 200 euro di perdita massima tollerata. Individuiamo un'opportunità di acquisto su una determinata società al prezzo di 50 euro per azione. Analizzando la struttura del mercato e i dati aziendali, identifichiamo che se il prezzo dovesse scendere a 45 euro, la nostra tesi verrebbe formalmente invalidata. La distanza tra ingresso (50 euro) e invalidazione (45 euro) è di 5 euro per azione: questo è il nostro rischio unitario. Applichiamo la formula: 200 euro (rischio totale ammesso) divisi per 5 euro (rischio per singola azione) ci indicano di acquistare esattamente 40 azioni. L'esborso monetario totale sarà pari a 2.000 euro (40 azioni moltiplicate per 50 euro di prezzo). Se il titolo crollerà a 45 euro, scatterà l'uscita programmata e subiremo una perdita di 200 euro, esattamente l'1% del nostro portafoglio complessivo. Questo processo elimina l'arbitrarietà emotiva e garantisce che la perdita rimanga rigidamente confinata entro i parametri scelti."
+   },
+   {
+    "titolo": "La leva finanziaria: moltiplicatore di scala e distruttore di margini",
+    "testo": "La leva finanziaria (o leverage) consiste nell'utilizzare denaro preso a prestito dall'intermediario per acquistare una quantità di strumenti finanziari superiore a quella consentita dal proprio capitale disponibile. Se disponiamo di 5.000 euro e utilizziamo una leva pari a 5 a 1 (5x), possiamo muovere una posizione del controvalore di 25.000 euro, fornendo i nostri 5.000 euro a garanzia (il cosiddetto margine). Se il valore dell'attività aumenta del 2%, il profitto lordo sarà calcolato sui 25.000 euro, generando 500 euro di guadagno, che sul nostro capitale reale iniziale rappresentano un rendimento del 10%. Tuttavia, la leva è una spada a doppio taglio perfettamente simmetrica: se l'attività subisce un'oscillazione negativa del 2%, la perdita monetaria sarà ugualmente di 500 euro, pari al 10% del nostro patrimonio. Se il mercato scende del 20%, la posizione accumula una perdita di 5.000 euro, azzerando istantaneamente l'intero conto (richiesta di margine o liquidazione forzata). La leva finanziaria riduce drammaticamente la tolleranza al normale rumore statistico del mercato: movimenti minimi dei prezzi, che per un investitore ordinario rappresenterebbero fisiologiche oscillazioni quotidiane, per una posizione sovradimensionata a leva diventano sentenze definitive di insolvenza."
+   },
+   {
+    "titolo": "Il rapporto rischio/rendimento (Risk to Reward)",
+    "testo": "Nessun investimento viene intrapreso solo per evitare perdite; l'obiettivo è conseguire un rendimento commisurato all'incertezza assunta. Il rapporto rischio/rendimento esprime la relazione quantitativa tra la perdita potenziale definita dallo stop e il guadagno potenziale stimato da un obiettivo di prezzo ragionevole. Se rischiamo 1 euro per puntare a un profitto teorico di 3 euro, stiamo impostando un'operazione con un rapporto rischio/rendimento di 1 a 3. Comprendere questa proporzione è fondamentale per comprendere la matematica della probabilità nel lungo termine. Un investitore che seleziona esclusivamente operazioni con un rapporto di 1 a 3 può permettersi di sbagliare il 60% delle volte ed essere comunque in attivo. Infatti, su 10 operazioni, 6 chiusure in perdita costeranno 6 unità di rischio, mentre 4 chiusure in profitto produrranno 12 unità di guadagno, lasciando un saldo netto positivo di 6 unità. Al contrario, accettare rapporti sfavorevoli, come rischiare 3 euro per guadagnarne 1, costringe l'investitore a mantenere una percentuale di successo elevatissima (superiore al 75-80%) solo per raggiungere il pareggio, una condizione statisticamente quasi impossibile da preservare nel tempo a causa dell'imprevedibilità intrinseca dei cicli economici."
+   }
+  ],
+  "analogia": "Immagina di voler attraversare un ponte sospeso su un dirupo profondo tenendo sulle spalle uno zaino. Il carico che decidi di mettere nello zaino rappresenta la dimensione della tua posizione (position size). L'imbracatura con la corda di sicurezza ancorata a una trave solida rappresenta il tuo livello di invalidazione: se un'asse di legno si spezza sotto i tuoi piedi, la corda entra in tensione arrestando la caduta dopo appena mezzo metro di scivolata. Se cammini con uno zaino leggero e ben calibrato alle tue forze (basso rischio percentuale), anche se cadi e rimani appeso alla corda proverai un lieve spavento, ma potrai facilmente tirarti su e riprendere il cammino. L'uso della leva finanziaria equivale invece a riempire lo zaino di blocchi di cemento per arrivare più in fretta dall'altra parte caricandoti di pesi smisurati: con un carico simile, alla minima perdita di equilibrio o al primo cedimento dell'asse, la fune di sicurezza rischia di spezzarsi per l'inerzia insostenibile, oppure l'impatto stesso ti provocherà danni irreversibili prima ancora che tu possa tentare qualsiasi manovra di risalita.",
+  "errori_comuni": [
+   "Fissare la perdita massima in base all'umore del giorno o a una cifra comoda, anziché calcolarla matematicamente partendo da un livello oggettivo di invalidazione tecnica o fondamentale.",
+   "Mediare al ribasso raddoppiando l'acquisto di una posizione che sta perdendo terreno, nel tentativo ingenuo di abbassare il prezzo medio di carico, trasformando un piccolo errore controllato in una voragine finanziaria incontrollabile.",
+   "Considerare la leva finanziaria come una scorciatoia per accelerare la crescita del conto senza calcolare che essa amplifica in modo proporzionale la velocità di distruzione del capitale.",
+   "Credere che avere un'alta percentuale di operazioni vincenti sia sufficiente per avere successo, ignorando che un'unica perdita non tagliata per tempo può cancellare mesi di piccoli guadagni costanti."
+  ],
+  "glossario": [
+   {
+    "termine": "Position Sizing",
+    "definizione": "Il processo matematico e gestionale con cui si stabilisce la quantità esatta di capitale, o il numero specifico di quote, da impegnare in una singola operazione d'investimento."
+   },
+   {
+    "termine": "Livello di Invalidazione",
+    "definizione": "Il prezzo o la condizione oggettiva al verificarsi della quale l'ipotesi iniziale che giustificava l'operazione perde formalmente validità logica ed economica."
+   },
+   {
+    "termine": "Leva Finanziaria (Leverage)",
+    "definizione": "Strumento o meccanismo contrattuale che consente di esporsi finanziariamente per un controvalore multiplo rispetto al capitale proprio depositato come garanzia."
+   }
+  ]
+ },
+ "causa_effetto": {
+  "fenomeno": "Adozione sistematica del dimensionamento della posizione e di ordini di invalidazione rigorosi rispetto a una gestione priva di regole sul rischio",
+  "catena": [
+   {
+    "passo": "Passo 1: Definizione a priori della perdita massima ammissibile",
+    "spiegazione": "L'investitore fissa un limite invalicabile di rischio monetario per ciascun trade, ad esempio l'1% dell'intero valore di portafoglio, prima ancora di guardare i prezzi correnti."
+   },
+   {
+    "passo": "Passo 2: Misurazione della distanza dal punto di invalidazione",
+    "spiegazione": "Si osserva lo strumento finanziario e si individua il prezzo oltre il quale l'analisi effettuata risulterebbe smentita dai fatti, calcolando la perdita per quota."
+   },
+   {
+    "passo": "Passo 3: Calcolo oggettivo del numero di quote",
+    "spiegazione": "Dividendo il rischio complessivo per il rischio unitario si ottiene il numero esatto di quote da acquistare, evitando il sovrainvestimento guidato dall'avidità o dall'eccesso di fiducia."
+   },
+   {
+    "passo": "Passo 4: Preservazione del capitale durante fasi avverse",
+    "spiegazione": "Quando il mercato si muove contro la posizione, l'uscita rapida al prezzo prefissato tronca le perdite quando sono ancora insignificanti sul piano patrimoniale complessivo."
+   },
+   {
+    "passo": "Passo 5: Continuità operativa e protezione dalla rovina statistica",
+    "spiegazione": "Il portafoglio non subisce cadute asimmetriche profonde (drawdown severi), rendendo matematicamente sostenibile il recupero nelle operazioni successive senza alterare la disciplina del metodo."
+   }
+  ],
+  "impatti_tipici": [
+   {
+    "asset": "Azioni ad elevata volatilità (es. titoli a media capitalizzazione tecnologica)",
+    "effetto": "La dimensione della posizione in termini di quote acquistate risulterà proporzionalmente più contenuta.",
+    "motivo": "Poiché la distanza percentuale tra il prezzo di ingresso e il livello logico di invalidazione è ampia a causa della forte oscillazione naturale del titolo, per non eccedere l'1% di perdita monetaria totale è obbligatorio comprare meno azioni."
+   },
+   {
+    "asset": "Obbligazioni governative a breve scadenza o strumenti monetari stabili",
+    "effetto": "La dimensione della posizione in capitale allocato può essere maggiore a parità di rischio monetario assunto.",
+    "motivo": "Presentando un'oscillazione storica limitata e livelli di invalidazione più ravvicinati in termini percentuali, è possibile impegnare una quota maggiore di liquidità senza aumentare la perdita massima in caso di evento negativo."
+   },
+   {
+    "asset": "Contratti a leva o derivati su indici azionari",
+    "effetto": "Un incremento anche minimo della volatilità contraria impone l'immediata chiusura automatica della posizione o la liquidazione coatta.",
+    "motivo": "Il capitale depositato funge da cuscinetto ridotto: l'effetto moltiplicativo della leva consuma il margine con estrema velocità anche in presenza di normali fluttuazioni intraday."
+   }
+  ],
+  "cosa_puo_andare_storto": "La catena logica appena descritta si basa sul presupposto ideale che sia sempre possibile vendere uno strumento al prezzo esatto fissato nello stop loss. Nella realtà operativa dei mercati possono verificarsi situazioni estreme in cui questo meccanismo subisce attriti o fallisce. Uno di questi è il 'gap' di apertura: se una società rilascia una notizia disastrosa durante la notte a mercati chiusi, l'azione potrebbe riaprire la mattina seguente a un prezzo nettamente inferiore al livello di stop loss impostato. In quel caso, l'ordine di vendita viene eseguito al primo prezzo disponibile sul mercato, generando una perdita effettiva sensibilmente superiore a quella preventivata. Un secondo fattore critico è la liquidità dello strumento: in mercati poco scambiati o durante crisi di panico sistemico, la mancanza di compratori può determinare un forte slittamento del prezzo di esecuzione (slippage). Infine, il fattore umano rappresenta il pericolo maggiore: l'investitore, paralizzato dal bias dell'avversione alle perdite (visto nel Modulo 7), potrebbe decidere all'ultimo momento di cancellare o allargare lo stop loss nella speranza illusoria che il mercato inverta la rotta, trasformando una perdita disciplinata e calcolata in un disastro finanziario irreversibile."
+ },
+ "caso_studio": {
+  "titolo": "Il collasso di Long-Term Capital Management (LTCM)",
+  "periodo": "Agosto - Settembre 1998",
+  "contesto": "Long-Term Capital Management era un fondo d'investimento speculativo (hedge fund) fondato nel 1994 da rinomati banchieri di Wall Street e da due economisti vincitori del Premio Nobel per l'Economia, Myron Scholes e Robert Merton. Il fondo era considerato l'eccellenza assoluta della finanza quantitativa mondiale. LTCM si basava su modelli matematici sofisticati per individuare minuscole discrepanze di prezzo e convergenze statistiche tra strumenti a reddito fisso e obbligazioni sovrane globali. Poiché queste differenze di prezzo (spread) erano frazioni minime di punto percentuale, per generare rendimenti elevati il fondo applicava una leva finanziaria gigantesca sul proprio capitale azionario.",
+  "cosa_e_successo": "All'inizio del 1998 il fondo gestiva un patrimonio proprio di circa 4,7 miliardi di dollari, ma aveva preso a prestito capitali per costruire posizioni complessive per oltre 120 miliardi di dollari di controvalore attivo (una leva contabile superiore a 25 a 1), mentre il valore nozionale dei suoi contratti derivati fuori bilancio superava ampiamente i mille miliardi di dollari. I modelli di LTCM presupponevano che le correlazioni storiche tra mercati emergenti e titoli di Stato dei Paesi sviluppati rimanessero stabili e prevedibili. Tuttavia, nell'agosto del 1998, la Russia dichiarò a sorpresa la svalutazione del rublo e la moratoria sul proprio debito sovrano (default). Si innescò una fuga globale verso la sicurezza e la liquidità: gli investitori di tutto il mondo vendettero all'unisono le obbligazioni meno liquide per comprare esclusivamente titoli del Tesoro statunitense. Le posizioni di LTCM, che scommettevano sulla convergenza dei differenziali di rendimento, videro invece tali differenziali esplodere verso livelli mai registrati nei modelli teorici. A causa della leva titanica e del sovradimensionamento mostruoso delle posizioni, le perdite quotidiane raggiunsero centinaia di milioni di dollari. Non esisteva alcuna controparte sul mercato in grado di assorbire l'enorme volume di contratti che LTCM avrebbe dovuto liquidare per chiudere le posizioni, rendendo inutile qualsiasi stop loss. Nel giro di poche settimane il capitale del fondo fu quasi interamente polverizzato. Per evitare un fallimento a catena delle maggiori banche internazionali esposte verso LTCM, la Federal Reserve di New York fu costretta a convocare un vertice straordinario per orchestrare un piano di salvataggio privato da oltre 3,6 miliardi di dollari a carico di un consorzio di istituti finanziari.",
+  "legame_con_il_concetto": "La vicenda di LTCM rappresenta il monito per eccellenza nella storia della finanza sull'abuso della leva finanziaria e sul collasso del dimensionamento della posizione. Nonostante i gestori fossero tra le menti accademiche più brillanti del pianeta, commisero l'errore fatale di confondere l'alta probabilità matematica con la certezza assoluta, dimensionando le proprie operazioni come se uno scostamento statistico eccezionale fosse impossibile. L'uso estremo della leva trasformò uno shock geopolitico in un evento di estinzione finanziaria: quando le dimensioni della posizione superano la capacità di assorbimento del mercato stesso, il concetto di invalidazione teorica cessa di funzionare perché scompare la liquidità necessaria per uscire. Il caso dimostra in modo inconfutabile che la sopravvivenza nei mercati non dipende dall'intelligenza o dalla complessità delle analisi, ma dal rispetto rigoroso dei margini di sicurezza e dall'umiltà di calibrare l'esposizione al rischio ipotizzando che anche gli scenari storicamente più improbabili possano manifestarsi.",
+  "nota_sui_dati": "I dati sul valore del patrimonio proprio (circa 4,7 miliardi di dollari prima della crisi estiva), sul controvalore attivo a bilancio (oltre 120 miliardi) e sull'intervento di salvataggio coordinato dalla Federal Reserve per circa 3,65 miliardi sono cifre storiche ampiamente documentate nei resoconti della Federal Reserve Bank of New York e nella letteratura accademica. I valori nozionali sui derivati rappresentano stime di mercato aggregate dell'epoca."
+ },
+ "quiz": [
+  {
+   "domanda": "Un investitore dispone di un capitale complessivo di 10.000 euro e fissa la sua perdita massima consentita per singola operazione all'1%. Vuole acquistare un titolo azionario al prezzo di 100 euro, con un livello logico di stop loss posizionato a 90 euro. Qual è il numero corretto di azioni da comprare secondo le regole del position sizing?",
+   "opzioni": [
+    {
+     "testo": "10 azioni",
+     "spiegazione": "Risposta corretta. Il rischio totale consentito è l'1% di 10.000 euro, ovvero 100 euro. La distanza tra il prezzo d'ingresso (100 euro) e lo stop loss (90 euro) è di 10 euro per singola azione. Dividendo il rischio totale (100 euro) per il rischio unitario (10 euro) si ottiene esattamente 10 azioni. Se il prezzo tocca lo stop loss a 90 euro, l'investitore perderà 10 euro su ciascuna delle 10 azioni, subendo una perdita totale programmata di 100 euro."
+    },
+    {
+     "testo": "100 azioni",
+     "spiegazione": "Risposta errata. Acquistare 100 azioni a 100 euro comporterebbe un'allocazione totale di 10.000 euro (il 100% del capitale). Se il titolo crollasse a 90 euro, la perdita subita sarebbe di 10 euro moltiplicata per 100 azioni, pari a 1.000 euro (il 10% del conto), violando gravemente la regola dell'1% di rischio prefissata."
+    },
+    {
+     "testo": "1 azione",
+     "spiegazione": "Risposta errata. Acquistando una sola azione il rischio corso sarebbe di soli 10 euro (lo 0,1% del patrimonio), che è un valore ampiamente inferiore al tetto dell'1% (100 euro) stabilito dall'investitore per la strategia."
+    },
+    {
+     "testo": "20 azioni",
+     "spiegazione": "Risposta errata. Con 20 azioni, una perdita di 10 euro a quota genererebbe un disavanzo monetario di 200 euro, che corrisponderebbe al 2% del patrimonio complessivo anziché all'1% stabilito come limite invalicabile."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Per quale ragione logica e metodologica il livello di stop loss dovrebbe sempre coincidere con un punto di invalidazione tecnica o fondamentale anziché con una percentuale casuale?",
+   "opzioni": [
+    {
+     "testo": "Perché posizionare lo stop loss su una cifra arbitraria garantisce che l'intermediario finanziario applichi commissioni di transazione inferiori al momento dell'uscita.",
+     "spiegazione": "Risposta errata. Le commissioni del broker dipendono esclusivamente dagli accordi contrattuali e dai volumi scambiati, non dal livello di prezzo a cui viene inserito l'ordine di vendita."
+    },
+    {
+     "testo": "Perché i broker finanziari non accettano ordini di chiusura che non siano posizionati esattamente sui minimi o sui massimi registrati nella settimana precedente.",
+     "spiegazione": "Risposta errata. I broker eseguono ordini di stop loss a qualsiasi livello di prezzo inserito dal cliente, a condizione che sia tecnicamente compatibile con il book di negoziazione."
+    },
+    {
+     "testo": "Perché lo stop deve riflettere il momento in cui l'ipotesi economica alla base dell'operazione si è dimostrata scorretta, evitando uscite premature dovute alle normali fluttuazioni fisiologiche del mercato.",
+     "spiegazione": "Risposta corretta. Uno stop fissato su un importo casuale (ad esempio un rigido -2% a prescindere dal contesto) rischia di farci uscire dalla posizione a causa del normale rumore di fondo del prezzo su un titolo che in realtà ha un'oscillazione naturale più ampia. L'invalidazione deve invece avvenire dove la premessa logica che ci ha spinto ad acquistare non ha più ragione d'esistere."
+    },
+    {
+     "testo": "Perché un livello di invalidazione assicura che il titolo non scenderà mai al di sotto di quel prezzo stabilito, eliminando completamente l'eventualità di incorrere in una perdita.",
+     "spiegazione": "Risposta errata. Nessun livello tecnico o fondamentale può impedire al prezzo di scendere. Il livello di invalidazione serve all'investitore per ammettere l'errore e chiudere la posizione, non per manipolare l'andamento del mercato."
+    }
+   ],
+   "indice_corretta": 2
+  },
+  {
+   "domanda": "Che cosa accade matematicamente al margine di tolleranza di una posizione quando un investitore decide di fare ricorso a una leva finanziaria elevata (ad esempio 10x o 20x)?",
+   "opzioni": [
+    {
+     "testo": "Il margine di tolleranza all'oscillazione contraria dei prezzi si riduce drasticamente, rendendo sufficiente una minima variazione percentuale avversa per azzerare il capitale depositato a garanzia.",
+     "spiegazione": "Risposta corretta. Con una leva 20x, ogni movimento dell'1% dell'attività sottostante produce un impatto del 20% sul capitale proprio versato come margine. Di conseguenza, un'oscillazione contraria di appena il 5% consuma interamente il 100% della garanzia, portando alla liquidazione forzata prima ancora che la tesi di medio termine possa manifestarsi."
+    },
+    {
+     "testo": "La probabilità statistica di vincita dell'operazione aumenta proporzionalmente al fattore di leva applicato.",
+     "spiegazione": "Risposta errata. La leva finanziaria è un moltiplicatore dell'esposizione economica e delle conseguenze monetarie, ma non altera minimamente le probabilità intrinseche del mercato o la bontà della tesi sottostante."
+    },
+    {
+     "testo": "Il rischio monetario totale diminuisce perché il broker si assume contrattualmente la responsabilità di tutte le perdite eccedenti l'1% dell'investimento.",
+     "spiegazione": "Risposta errata. L'investitore è l'unico soggetto che risponde delle perdite accumulate fino alla capienza del proprio capitale o margine; il broker interviene tramite la liquidazione automatica per tutelare i propri crediti, non per proteggere il patrimonio del cliente."
+    },
+    {
+     "testo": "Il tempo a disposizione per attendere il recupero del prezzo si allunga, poiché l'intermediario attende che il titolo torni in profitto prima di addebitare gli interessi.",
+     "spiegazione": "Risposta errata. Gli interessi sul capitale preso a prestito maturano quotidianamente e, se il margine scende sotto i livelli di guardia, l'intermediario liquida la posizione immediatamente, riducendo semmai a zero il tempo a disposizione dell'investitore."
+    }
+   ],
+   "indice_corretta": 0
+  },
+  {
+   "domanda": "Considera due investitori: l'investitore A chiude in profitto il 70% delle sue operazioni con un rapporto rischio/rendimento medio di 2 a 1 (rischia 2 euro per guadagnarne 1). L'investitore B chiude in profitto solo il 40% delle sue operazioni, ma con un rapporto rischio/rendimento medio di 1 a 3 (rischia 1 euro per guadagnarne 3). Su una serie ipotetica di 10 operazioni omogenee per rischio unitario di 100 euro, quale situazione si verifica?",
+   "opzioni": [
+    {
+     "testo": "L'investitore A consegue un profitto netto superiore a quello dell'investitore B perché possiede una percentuale di successo sensibilmente più alta (70% contro 40%).",
+     "spiegazione": "Risposta errata. Facendo i calcoli: l'investitore A vince 7 operazioni incassando 100 euro ciascuna (+700 euro), ma ne perde 3 pagando 200 euro ciascuna (-600 euro), chiudendo con un profitto netto di soli 100 euro. L'investitore B vince 4 operazioni incassando 300 euro ciascuna (+1.200 euro) e ne perde 6 pagando 100 euro ciascuna (-600 euro), chiudendo con un profitto netto di 600 euro, ben superiore a quello di A."
+    },
+    {
+     "testo": "L'investitore B ottiene un guadagno netto complessivo sei volte superiore a quello dell'investitore A, dimostrando che l'ampiezza media dei profitti rispetto alle perdite conta più del semplice tasso di successo percentuale.",
+     "spiegazione": "Risposta corretta. Come illustrato dai calcoli (saldo di +600 euro per B contro +100 euro per A), l'investitore B ha una redditività nettamente maggiore pur sbagliando la maggioranza delle sue scelte (il 60% dei casi). Questo dimostra la straordinaria potenza matematica di combinare tagli rapidi alle perdite con la cattura di guadagni asimmetrici."
+    },
+    {
+     "testo": "Entrambi gli investitori finiscono esattamente in pareggio a causa dell'efficienza intrinseca dei mercati finanziari.",
+     "spiegazione": "Risposta errata. L'efficienza del mercato non uniforma i risultati dei singoli trader, che dipendono direttamente dalle asimmetrie di gestione monetaria e dai rispettivi profili di rischio/rendimento."
+    },
+    {
+     "testo": "L'investitore B subisce la chiusura automatica del conto perché un tasso di vincita inferiore al 50% conduce inesorabilmente alla bancarotta statistica.",
+     "spiegazione": "Risposta errata. Un tasso di vincita inferiore al 50% è assolutamente sostenibile ed estremamente profittevole purché il rapporto rischio/rendimento sia favorevole (come nel caso del rapporto 1 a 3)."
+    }
+   ],
+   "indice_corretta": 1
+  }
+ ],
+ "simulazione": {
+  "titolo": "Laboratorio di dimensionamento: calcolo del rischio e tracciamento dell'invalidazione",
+  "obiettivo_didattico": "Imparare a determinare oggettivamente il quantitativo numerico di quote da simulare su una grande attività liquida basandosi esclusivamente sulla distanza dell'invalidazione e sul tetto di rischio prefissato, verificando senza rischi l'efficacia della gestione monetaria.",
+  "strumento_da_osservare": {
+   "nome": "SPDR S&P 500 ETF Trust",
+   "ticker": "SPY",
+   "perche_adatto": "È lo strumento a replica passiva più scambiato e liquido al mondo, con spread bid-ask minimi e oscillazioni pulite che si prestano perfettamente a calcoli precisi di invalidazione tecnica senza l'interferenza di problemi di illiquidità."
+  },
+  "passi": [
+   "Accedi al tuo conto simulato (paper trading) su TradingView o sulla tua piattaforma didattica e apri il grafico a candele giornaliere dello strumento SPY.",
+   "Definisci a tavolino il tuo capitale virtuale di riferimento: ipotizziamo un conto didattico standard di 10.000 dollari virtuali.",
+   "Fissa la regola ferrea di rischio massimo: l'1% del tuo capitale per questa specifica operazione, ovvero 100 dollari esatti di perdita tollerata in caso di fallimento della tesi.",
+   "Osserva il grafico recente: formula una tesi d'investimento basandoti sui concetti svolti (supporti, medie o ciclo macro) e stabilisci un prezzo teorico di ingresso al valore corrente di mercato.",
+   "Identifica un livello di invalidazione razionale sul grafico (ad esempio subito al di sotto del minimo significativo delle ultime settimane) e annota quel prezzo.",
+   "Calcola il rischio unitario sottraendo il prezzo di invalidazione dal prezzo d'ingresso (se la tua ipotesi è rialzista). Ad esempio, se SPY quota 500 dollari e la tua invalidazione si trova a 490 dollari, il rischio per singola quota è di 10 dollari.",
+   "Calcola la dimensione della posizione dividendo il rischio consentito (100 dollari) per il rischio unitario (10 dollari): il risultato è 10 quote di SPY.",
+   "Inserisci l'ordine simulato a mercato per esattamente 10 quote, impostando contestualmente l'ordine di stop loss a 490 dollari e un ordine di presa di beneficio (take profit) coerente con un rapporto rischio/rendimento di almeno 1 a 2 (nel nostro esempio, a 520 dollari, per un guadagno potenziale di 20 dollari a quota a fronte di 10 di rischio).",
+   "Non modificare per nessun motivo lo stop loss durante tutta la durata dell'esperimento."
+  ],
+  "guida_all_ipotesi": "Formula la tua ipotesi partendo dalla struttura oggettiva del mercato e non dalla speranza di guadagno. Dichiara per iscritto: 'Ritengo che il trend di SPY rimanga costruttivo finché il prezzo si mantiene al di sopra del livello X. Se il prezzo scende sotto X, la mia ipotesi è formalmente smentita e accetto di perdere l'1% del capitale virtuale senza esitazioni'.",
+  "guida_all_invalidazione": "La tua invalidazione deve trovarsi in un punto in cui il grafico o la struttura dimostrano che i compratori hanno perso il controllo. Non posizionare lo stop a una distanza insignificante (ad esempio lo 0,2% sotto l'ingresso) solo per poter comprare più azioni, altrimenti la normale oscillazione giornaliera ti butterà fuori dal mercato anzitempo.",
+  "cosa_registrare": [
+   "Data e ora dell'inserimento dell'ordine simulato.",
+   "Prezzo esatto di ingresso registrato nel paper trading.",
+   "Livello di prezzo scelto per l'invalidazione logica (stop loss).",
+   "Calcolo numerico dettagliato eseguito per determinare il numero di quote.",
+   "Rapporto rischio/rendimento teorico impostato in fase di apertura.",
+   "Reazioni emotive o tentazioni provate durante la simulazione (es. desiderio di spostare lo stop o di aumentare la posizione a sensazione)."
+  ],
+  "giorni_prima_della_revisione": 14,
+  "domande_di_revisione": [
+   "Il livello di invalidazione impostato ha retto alle normali oscillazioni dei prezzi nei 14 giorni di osservazione, oppure è stato toccato portando alla chiusura dell'operazione?",
+   "Nel caso in cui lo stop sia scattato, la perdita virtuale effettiva è stata esattamente pari ai 100 dollari preventivati, oppure si sono verificati piccoli scostamenti (slippage)?",
+   "Come ti sei sentito nel vedere il prezzo oscillare sapendo a priori che l'esito negativo peggiore era già quantificato e non avrebbe intaccato più dell'1% del tuo patrimonio didattico?",
+   "Se avessi utilizzato una leva finanziaria 5x o 10x per la stessa operazione, che impatto avrebbe avuto quella stessa fluttuazione temporanea sul tuo margine virtuale?"
+  ],
+  "avvertenza": "Questa attività di paper trading ha uno scopo puramente didattico e illustrativo. L'ambiente simulato non riproduce l'impatto emotivo, la paura della perdita economica reale né i problemi di reale esecuzione degli ordini durante shock di mercato estremi. Non costituisce in alcun modo consulenza finanziaria, né un invito o una sollecitazione all'acquisto o alla vendita di strumenti finanziari reali."
+ },
+ "riepilogo": {
+  "punti_chiave": [
+   "La gestione del rischio non consiste nell'indovinare sempre la direzione del mercato, ma nel controllare rigorosamente quanto si perde quando si ha inevitabilmente torto.",
+   "Il capitale a rischio non coincide con il capitale allocato: il vero rischio di un'operazione è la differenza monetaria tra il prezzo di ingresso e il livello di stop loss programmato.",
+   "Il livello di stop deve coincidere con l'invalidazione logica dell'analisi; il numero di quote da acquistare deriva matematicamente dalla divisione tra il rischio massimo stabilito e la distanza dello stop.",
+   "La leva finanziaria amplifica in modo speculare profitti e perdite, erodendo la capacità di sopportare le oscillazioni del mercato e aumentando esponenzialmente il rischio di rovina statistica.",
+   "Un rapporto rischio/rendimento asimmetrico e favorevole (es. 1 a 2 o 1 a 3) consente di costruire solidità nel lungo termine anche con percentuali di successo inferiori al 50%."
+  ],
+  "domanda_di_riflessione": "Se una serie imprevedibile di cinque operazioni consecutive in perdita dovesse colpire il tuo portafoglio nelle prossime settimane, la dimensione attuale delle tue posizioni ti permetterebbe di rimanere psicologicamente lucido e finanziariamente integro, oppure rischierebbe di compromettere la tua capacità di continuare a investire?"
+ },
+ "modulo": 19,
+ "area": "Rischio",
+ "generata_il": "2026-11-27",
+ "modello": "gemini-flash-latest"
+}

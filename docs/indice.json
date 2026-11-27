@@ -99,24 +99,24 @@
   "id": 17,
   "area": "Strumenti",
   "titolo": "Come funziona un ordine di borsa",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 18,
   "area": "Analisi",
   "titolo": "Analisi tecnica: cosa può e non può dirti",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 19,
   "area": "Rischio",
   "titolo": "Position sizing e gestione del rischio",
-  "disponibile": false
+  "disponibile": true
  },
  {
   "id": 20,
   "area": "Psicologia",
   "titolo": "Il diario decisionale e il processo di investimento",
-  "disponibile": false
+  "disponibile": true
  }
 ]
